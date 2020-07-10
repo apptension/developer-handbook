@@ -20,7 +20,7 @@ What will you find inside?
 
 *   **[Technical Stack](#apptension-technical-stack)** – a summary of all topics, languages, frameworks, and libraries we use in production together with checklists of the most important concepts.
 *   **[Technical Onboarding Checklist](#apptension-technical-onboarding-checklist)** – a living document with a checklist of what our Developers should know on different levels when they join our company.
-*   **[Technical Topics](#apptension-technical-topics)** – a complete list of topics (libraries, frameworks, programming concepts/patterns) we follow and recommend to learn to progress in your career to become a better Web / Mobile App Developer.
+*   **[Technical Guide](#apptension-technical-guide)** – a complete list of topics (libraries, frameworks, programming concepts/patterns) we follow and recommend to learn to progress in your career to become a better Web / Mobile App Developer.
 
 * * *
 
@@ -58,28 +58,28 @@ This section describes technical prerequisites for Junior, Regular and Senior De
 
 * * *
 
-Apptension Technical Topics
----------------------------
+Apptension Technical Guide
+--------------------------
 
 This section describes all technical topics (career development goals, good habits, technologies, libraries, frameworks) divided into career levels that you can use to validate your technical skills and technical decisions taken in the projects you do.
 
 ### Frontend Developer
 
-*   [Junior Frontend Developer - Technical Topics](/Technical%20Guide/Junior/Frontend%20Developer.md)
-*   [Regular Frontend Developer - Technical Topics](/Technical%20Guide/Regular/Frontend%20Developer.md)
-*   [Senior Frontend Developer - Technical Topics](/Technical%20Guide/Senior/Frontend%20Developer.md)
+*   [Junior Frontend Developer - Technical Guide](/Technical%20Guide/Junior/Frontend%20Developer.md)
+*   [Regular Frontend Developer - Technical Guide](/Technical%20Guide/Regular/Frontend%20Developer.md)
+*   [Senior Frontend Developer - Technical Guide](/Technical%20Guide/Senior/Frontend%20Developer.md)
 
 ### Backend Developer
 
-*   [Junior Backend Developer - Technical Topics](/Technical%20Guide/Junior/Backend%20Developer.md)
-*   [Regular Backend Developer - Technical Topics](/Technical%20Guide/Regular/Backend%20Developer.md)
-*   [Senior Backend Developer - Technical Topics](/Technical%20Guide/Senior/Backend%20Developer.md)
+*   [Junior Backend Developer - Technical Guide](/Technical%20Guide/Junior/Backend%20Developer.md)
+*   [Regular Backend Developer - Technical Guide](/Technical%20Guide/Regular/Backend%20Developer.md)
+*   [Senior Backend Developer - Technical Guide](/Technical%20Guide/Senior/Backend%20Developer.md)
 
 ### DevOps Developer
 
-*   [Junior DevOps Developer - Technical Topics](/Technical%20Guide/Junior/DevOps%20Developer.md)
-*   [Regular DevOps Developer - Technical Topics](/Technical%20Guide/Regular/DevOps%20Developer.md)
-*   [Senior DevOps Developer - Technical Topics](/Technical%20Guide/Senior/DevOps%20Developer.md)
+*   [Junior DevOps Developer - Technical Guide](/Technical%20Guide/Junior/DevOps%20Developer.md)
+*   [Regular DevOps Developer - Technical Guide](/Technical%20Guide/Regular/DevOps%20Developer.md)
+*   [Senior DevOps Developer - Technical Guide](/Technical%20Guide/Senior/DevOps%20Developer.md)
 
 * * *
 
