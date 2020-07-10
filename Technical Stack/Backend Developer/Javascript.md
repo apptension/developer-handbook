@@ -10,10 +10,6 @@ NodeJS
 *   [ ] You know how to add a middleware
 *   [ ] You know how to fetch/persist data in DB
 
-### mongoose
-
-*   [ ] You know how to create Model using Schema
-
 * * *
 
 Contribution

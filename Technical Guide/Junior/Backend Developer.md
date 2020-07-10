@@ -214,10 +214,6 @@ Javascript
 *   [ ] You know how to create a json response
 *   [ ] You know how to fetch/persist data in DB
 
-#### mongoose
-
-*   [ ] You know how to create Model using Schema
-
 3rd Party
 ---------
 

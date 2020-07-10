@@ -89,10 +89,6 @@ Javascript
 
 *   [ ] You know how to create a json response
 
-#### mongoose
-
-*   [ ] You know how to create Model using Schema
-
 * * *
 
 Contribution
