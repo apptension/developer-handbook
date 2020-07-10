@@ -27,7 +27,7 @@ Python
 *   [ ] You can create full text search query
 *   [ ] You can use it with DRF Generic View
 
-#### Serveless Framework
+#### Serverless Framework
 
 *   [ ] You can create simple HTTP endpoint using API gateway
 *   [ ] You know plugins to handle local development like serverless offline
