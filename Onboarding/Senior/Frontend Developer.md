@@ -29,12 +29,6 @@ Company practices
 
 *   [ ] You know how to reference a Jira ticket in your commit
 
-### Communication
-
-#### English
-
-*   [ ] You can write and read in a basic level
-
 React
 -----
 

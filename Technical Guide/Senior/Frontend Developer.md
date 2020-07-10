@@ -58,11 +58,6 @@ Company practices
 *   [ ] You know how to create goals and mark them as complete
 *   [ ] You know how to give praise and add talk topics to a 1:1 meeting
 
-#### English
-
-*   [ ] You can write and read in a basic level
-*   [ ] You're proficiently in english
-
 #### Jira
 
 *   [ ] You know how to create tickets and write comments
