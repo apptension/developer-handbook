@@ -1,15 +1,6 @@
 Backend Developer
 =================
 
-Date & Time
------------
-
-### Python
-
-#### pytz
-
-*   [ ] You can convert timezones of datetime objects
-
 Python
 ------
 
@@ -175,19 +166,14 @@ Testing
 
 *   [ ] You can create scenarios
 
-Javascript
-----------
+Date & Time
+-----------
 
-### NodeJS
+### Python
 
-#### express
+#### pytz
 
-*   [ ] You know how to create a json response
-*   [ ] You know how to fetch/persist data in DB
-
-#### mongoose
-
-*   [ ] You know how to create Model using Schema
+*   [ ] You can convert timezones of datetime objects
 
 Databases
 ---------
@@ -217,6 +203,20 @@ Databases
 #### ElasticSearch
 
 *   [ ] You are able to define an index
+
+Javascript
+----------
+
+### NodeJS
+
+#### express
+
+*   [ ] You know how to create a json response
+*   [ ] You know how to fetch/persist data in DB
+
+#### mongoose
+
+*   [ ] You know how to create Model using Schema
 
 3rd Party
 ---------

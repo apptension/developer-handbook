@@ -1,19 +1,6 @@
 Backend Developer
 =================
 
-Date & Time
------------
-
-### Python
-
-#### python-dateutil
-
-*   [ ] You are able to create relative datetime objects
-
-#### pytz
-
-*   [ ] You can convert timezones of datetime objects
-
 Python
 ------
 
@@ -79,6 +66,19 @@ Testing
 #### faker
 
 *   [ ] You know how to generate faked values using built-in providers
+
+Date & Time
+-----------
+
+### Python
+
+#### python-dateutil
+
+*   [ ] You are able to create relative datetime objects
+
+#### pytz
+
+*   [ ] You can convert timezones of datetime objects
 
 Javascript
 ----------

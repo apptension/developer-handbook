@@ -3,12 +3,12 @@ Backend Developer
 
 ### Browse by technical topic
 
-*   [Date & Time](/Technical%20Stack/Backend%20Developer/Date%20&%20Time.md)
 *   [Python](/Technical%20Stack/Backend%20Developer/Python.md)
 *   [Testing](/Technical%20Stack/Backend%20Developer/Testing.md)
+*   [Date & Time](/Technical%20Stack/Backend%20Developer/Date%20&%20Time.md)
+*   [Databases](/Technical%20Stack/Backend%20Developer/Databases.md)
 *   [Javascript](/Technical%20Stack/Backend%20Developer/Javascript.md)
 *   [Data Formats](/Technical%20Stack/Backend%20Developer/Data%20Formats.md)
-*   [Databases](/Technical%20Stack/Backend%20Developer/Databases.md)
 *   [3rd Party](/Technical%20Stack/Backend%20Developer/3rd%20Party.md)
 *   [Documenting](/Technical%20Stack/Backend%20Developer/Documenting.md)
 *   [Development Tools](/Technical%20Stack/Backend%20Developer/Development%20Tools.md)

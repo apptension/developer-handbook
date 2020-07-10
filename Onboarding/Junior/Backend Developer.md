@@ -1,15 +1,6 @@
 Backend Developer
 =================
 
-Date & Time
------------
-
-### Python
-
-#### pytz
-
-*   [ ] You can convert timezones of datetime objects
-
 Python
 ------
 
@@ -75,6 +66,15 @@ Testing
 #### faker
 
 *   [ ] You know how to generate faked values using built-in providers
+
+Date & Time
+-----------
+
+### Python
+
+#### pytz
+
+*   [ ] You can convert timezones of datetime objects
 
 Javascript
 ----------

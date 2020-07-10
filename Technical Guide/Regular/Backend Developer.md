@@ -1,19 +1,6 @@
 Backend Developer
 =================
 
-Date & Time
------------
-
-### Python
-
-#### python-dateutil
-
-*   [ ] You are able to create relative datetime objects
-
-#### pytz
-
-*   [ ] You can convert timezones of datetime objects
-
 Python
 ------
 
@@ -210,20 +197,18 @@ Testing
 *   [ ] You know how to generate fake data
 *   [ ] You know how to pass variables between phases
 
-Javascript
-----------
+Date & Time
+-----------
 
-### NodeJS
+### Python
 
-#### express
+#### python-dateutil
 
-*   [ ] You know how to create a json response
-*   [ ] You know how to add a middleware
-*   [ ] You know how to fetch/persist data in DB
+*   [ ] You are able to create relative datetime objects
 
-#### mongoose
+#### pytz
 
-*   [ ] You know how to create Model using Schema
+*   [ ] You can convert timezones of datetime objects
 
 Databases
 ---------
@@ -261,6 +246,21 @@ Databases
 
 *   [ ] You know how to read from and write to a DynamoDB table
 *   [ ] You know how to scan the table to search for an item and understand the performance cost of this operation
+
+Javascript
+----------
+
+### NodeJS
+
+#### express
+
+*   [ ] You know how to create a json response
+*   [ ] You know how to add a middleware
+*   [ ] You know how to fetch/persist data in DB
+
+#### mongoose
+
+*   [ ] You know how to create Model using Schema
 
 3rd Party
 ---------
