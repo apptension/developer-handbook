@@ -287,6 +287,8 @@ Animations
 
 ### React Animation libraries
 
+*   [ ] You used and know well at least one of the react animation libraries
+
 #### react-transition-group
 
 *   [ ] You know how to apply CSS or inline styles to add transition between components being rendered [:books:](https://alligator.io/react/react-transition-group/)
@@ -294,6 +296,8 @@ Animations
 *   [ ] You can animate elements after application's state changes
 
 ### Animation Libraries
+
+*   [ ] You know well at least one of the animation libraries
 
 ### CSS Animations
 

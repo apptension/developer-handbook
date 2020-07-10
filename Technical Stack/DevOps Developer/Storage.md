@@ -5,7 +5,7 @@ AWS S3
 ------
 
 *   [ ] You know how to create an S3 bucket
-*   [ ] You know how to make an S3 bucket public
+*   [ ] You know how to make a S3 bucket public
 *   [ ] You know how to host a Single Page Application in S3
 
 * * *

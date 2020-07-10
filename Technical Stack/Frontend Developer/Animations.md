@@ -4,6 +4,8 @@ Animations
 React Animation libraries
 -------------------------
 
+*   [ ] You used and know well at least one of the react animation libraries
+
 ### react-transition-group
 
 *   [ ] You know how to apply CSS or inline styles to add transition between components being rendered [:books:](https://alligator.io/react/react-transition-group/)
@@ -12,6 +14,9 @@ React Animation libraries
 
 Animation Libraries
 -------------------
+
+*   [ ] You know well at least one of the animation libraries
+*   [ ] You can implement complex animations with multiple phases
 
 CSS Animations
 --------------

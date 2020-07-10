@@ -124,15 +124,9 @@ Generic AWS Services
 *   [ ] You know how to create an Application Load Balancer
 *   [ ] You know how to attach a Security Group to an instance
 
-### AWS Client libraries
-
-#### aws-cli
-
-*   [ ] You know how to create a local profile using acquired key id and secret to access AWS resources
-
 ### IAM
 
-*   [ ] You know how to create a nw user
+*   [ ] You know how to create a new user
 *   [ ] You know how to create a new role
 *   [ ] You know how to create a policy documents and attach them to various IAM resources
 
@@ -145,13 +139,19 @@ Generic AWS Services
 *   [ ] You know how to create an SSM parameter and encrypt it with a KMS key
 *   [ ] You know how to use SSM parameter in Lambda function
 
+### AWS Client libraries
+
+#### aws-cli
+
+*   [ ] You know how to create a local profile using acquired key id and secret to access AWS resources
+
 Storage
 -------
 
 ### AWS S3
 
 *   [ ] You know how to create an S3 bucket
-*   [ ] You know how to make an S3 bucket public
+*   [ ] You know how to make a S3 bucket public
 *   [ ] You know how to host a Single Page Application in S3
 
 Continuous Integration
