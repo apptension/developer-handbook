@@ -33,31 +33,6 @@ Apptension Technical Stack covers all viable concepts we follow at our company i
 
 * * *
 
-Apptension Technical Onboarding Checklist
------------------------------------------
-
-This section describes technical prerequisites for Junior, Regular and Senior Developers who will join or recently joined our company.
-
-### Frontend Developer
-
-*   [Junior Frontend Developer - Technical Onboarding Checklist](/Onboarding/Junior/Frontend%20Developer.md)
-*   [Regular Frontend Developer - Technical Onboarding Checklist](/Onboarding/Regular/Frontend%20Developer.md)
-*   [Senior Frontend Developer - Technical Onboarding Checklist](/Onboarding/Senior/Frontend%20Developer.md)
-
-### Backend Developer
-
-*   [Junior Backend Developer - Technical Onboarding Checklist](/Onboarding/Junior/Backend%20Developer.md)
-*   [Regular Backend Developer - Technical Onboarding Checklist](/Onboarding/Regular/Backend%20Developer.md)
-*   [Senior Backend Developer - Technical Onboarding Checklist](/Onboarding/Senior/Backend%20Developer.md)
-
-### DevOps Developer
-
-*   [Junior DevOps Developer - Technical Onboarding Checklist](/Onboarding/Junior/DevOps%20Developer.md)
-*   [Regular DevOps Developer - Technical Onboarding Checklist](/Onboarding/Regular/DevOps%20Developer.md)
-*   [Senior DevOps Developer - Technical Onboarding Checklist](/Onboarding/Senior/DevOps%20Developer.md)
-
-* * *
-
 Apptension Technical Guide
 --------------------------
 
@@ -80,6 +55,31 @@ This section describes all technical topics (career development goals, good habi
 *   [Junior DevOps Developer - Technical Guide](/Technical%20Guide/Junior/DevOps%20Developer.md)
 *   [Regular DevOps Developer - Technical Guide](/Technical%20Guide/Regular/DevOps%20Developer.md)
 *   [Senior DevOps Developer - Technical Guide](/Technical%20Guide/Senior/DevOps%20Developer.md)
+
+* * *
+
+Apptension Technical Onboarding Checklist
+-----------------------------------------
+
+This section describes technical prerequisites for Junior, Regular and Senior Developers who will join or recently joined our company. This is a checklist of concepts we will help you learn during your first two weeks with us.
+
+### Frontend Developer
+
+*   [Junior Frontend Developer - Technical Onboarding Checklist](/Onboarding/Junior/Frontend%20Developer.md)
+*   [Regular Frontend Developer - Technical Onboarding Checklist](/Onboarding/Regular/Frontend%20Developer.md)
+*   [Senior Frontend Developer - Technical Onboarding Checklist](/Onboarding/Senior/Frontend%20Developer.md)
+
+### Backend Developer
+
+*   [Junior Backend Developer - Technical Onboarding Checklist](/Onboarding/Junior/Backend%20Developer.md)
+*   [Regular Backend Developer - Technical Onboarding Checklist](/Onboarding/Regular/Backend%20Developer.md)
+*   [Senior Backend Developer - Technical Onboarding Checklist](/Onboarding/Senior/Backend%20Developer.md)
+
+### DevOps Developer
+
+*   [Junior DevOps Developer - Technical Onboarding Checklist](/Onboarding/Junior/DevOps%20Developer.md)
+*   [Regular DevOps Developer - Technical Onboarding Checklist](/Onboarding/Regular/DevOps%20Developer.md)
+*   [Senior DevOps Developer - Technical Onboarding Checklist](/Onboarding/Senior/DevOps%20Developer.md)
 
 * * *
 
