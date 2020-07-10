@@ -221,10 +221,6 @@ Databases
 *   [ ] You know data types, including JSON
 *   [ ] You know how to query data using JSON path
 
-#### MongoDB
-
-*   [ ] You know how to structure documents
-
 ### NoSQL
 
 #### Firebase Firestore
@@ -246,6 +242,10 @@ Databases
 
 *   [ ] You know how to read from and write to a DynamoDB table
 *   [ ] You know how to scan the table to search for an item and understand the performance cost of this operation
+
+#### MongoDB
+
+*   [ ] You know how to structure documents
 
 Javascript
 ----------

@@ -185,10 +185,6 @@ Databases
 *   [ ] You know how to create foreign keys
 *   [ ] You know data types, including JSON
 
-#### MongoDB
-
-*   [ ] You know how to structure documents
-
 ### NoSQL
 
 #### Firebase Firestore
@@ -203,6 +199,10 @@ Databases
 #### ElasticSearch
 
 *   [ ] You are able to define an index
+
+#### MongoDB
+
+*   [ ] You know how to structure documents
 
 Javascript
 ----------
