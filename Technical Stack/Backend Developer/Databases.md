@@ -1,19 +1,42 @@
-Backend Developer
------------------
+Databases
+=========
 
-### Browse by technical topic
+SQL
+---
 
-*   [Date & Time](/Career%20Paths/Backend%20Developer/Date%20&%20Time.md)
-*   [Python](/Career%20Paths/Backend%20Developer/Python.md)
-*   [Testing](/Career%20Paths/Backend%20Developer/Testing.md)
-*   [Javascript](/Career%20Paths/Backend%20Developer/Javascript.md)
-*   [Data Formats](/Career%20Paths/Backend%20Developer/Data%20Formats.md)
-*   [Databases](/Career%20Paths/Backend%20Developer/Databases.md)
-*   [3rd Party](/Career%20Paths/Backend%20Developer/3rd%20Party.md)
-*   [Documenting](/Career%20Paths/Backend%20Developer/Documenting.md)
-*   [Development Tools](/Career%20Paths/Backend%20Developer/Development%20Tools.md)
-*   [Classes Enhancement](/Career%20Paths/Backend%20Developer/Classes%20Enhancement.md)
-*   [Code Analysis](/Career%20Paths/Backend%20Developer/Code%20Analysis.md)
+### PostgreSQL
+
+*   [ ] You know how to create foreign keys
+*   [ ] You know data types, including JSON
+*   [ ] You know how to query data using JSON path
+
+### MongoDB
+
+*   [ ] You know how to structure documents
+
+NoSQL
+-----
+
+### Firebase Firestore
+
+*   [ ] You know how to connect and create a collection
+*   [ ] You can listen for changes using live data updates
+
+### Redis
+
+*   [ ] You know what data types are supported
+
+### ElasticSearch
+
+*   [ ] You are able to define an index
+*   [ ] You are able to query index
+*   [ ] You know how to update an index
+
+### AWS DynamoDB
+
+*   [ ] You know how to read from and write to a DynamoDB table
+*   [ ] You know how to scan the table to search for an item and understand the performance cost of this operation
+*   [ ] You know how to create a Global Secondary Index
 
 * * *
 

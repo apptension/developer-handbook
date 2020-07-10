@@ -1,34 +1,19 @@
-Databases
-=========
+Backend Developer
+-----------------
 
-SQL
----
+### Browse by technical topic
 
-### PostgreSQL
-
-*   [ ] You know how to create foreign keys
-*   [ ] You know data types, including JSON
-*   [ ] You know how to query data using JSON path
-
-### MongoDB
-
-*   [ ] You know how to structure documents
-
-NoSQL
------
-
-*   [ ] Redis
-
-### Firebase Firestore
-
-*   [ ] You know how to connect and create a collection
-*   [ ] You can listen for changes using live data updates
-
-### AWS DynamoDB
-
-*   [ ] You know how to read from and write to a DynamoDB table
-*   [ ] You know how to scan the table to search for an item and understand the performance cost of this operation
-*   [ ] You know how to create a Global Secondary Index
+*   [Date & Time](/Technical%20Stack/Backend%20Developer/Date%20&%20Time.md)
+*   [Python](/Technical%20Stack/Backend%20Developer/Python.md)
+*   [Testing](/Technical%20Stack/Backend%20Developer/Testing.md)
+*   [Javascript](/Technical%20Stack/Backend%20Developer/Javascript.md)
+*   [Data Formats](/Technical%20Stack/Backend%20Developer/Data%20Formats.md)
+*   [Databases](/Technical%20Stack/Backend%20Developer/Databases.md)
+*   [3rd Party](/Technical%20Stack/Backend%20Developer/3rd%20Party.md)
+*   [Documenting](/Technical%20Stack/Backend%20Developer/Documenting.md)
+*   [Development Tools](/Technical%20Stack/Backend%20Developer/Development%20Tools.md)
+*   [Classes Enhancement](/Technical%20Stack/Backend%20Developer/Classes%20Enhancement.md)
+*   [Code Analysis](/Technical%20Stack/Backend%20Developer/Code%20Analysis.md)
 
 * * *
 

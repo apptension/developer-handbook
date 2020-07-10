@@ -3,19 +3,19 @@ DevOps Developer
 
 ### Browse by technical topic
 
-*   [DNS](/Career%20Paths/DevOps%20Developer/DNS.md)
-*   [Databases](/Career%20Paths/DevOps%20Developer/Databases.md)
-*   [Contenerization Services](/Career%20Paths/DevOps%20Developer/Contenerization%20Services.md)
-*   [Application Servers](/Career%20Paths/DevOps%20Developer/Application%20Servers.md)
-*   [Task Queues](/Career%20Paths/DevOps%20Developer/Task%20Queues.md)
-*   [Message Brokers](/Career%20Paths/DevOps%20Developer/Message%20Brokers.md)
-*   [Generic AWS Services](/Career%20Paths/DevOps%20Developer/Generic%20AWS%20Services.md)
-*   [Storage](/Career%20Paths/DevOps%20Developer/Storage.md)
-*   [Continuous Integration](/Career%20Paths/DevOps%20Developer/Continuous%20Integration.md)
-*   [CDN](/Career%20Paths/DevOps%20Developer/CDN.md)
-*   [Docker Registry](/Career%20Paths/DevOps%20Developer/Docker%20Registry.md)
-*   [VPS Services](/Career%20Paths/DevOps%20Developer/VPS%20Services.md)
-*   [Monitoring](/Career%20Paths/DevOps%20Developer/Monitoring.md)
+*   [DNS](/Technical%20Stack/DevOps%20Developer/DNS.md)
+*   [Databases](/Technical%20Stack/DevOps%20Developer/Databases.md)
+*   [Contenerization Services](/Technical%20Stack/DevOps%20Developer/Contenerization%20Services.md)
+*   [Application Servers](/Technical%20Stack/DevOps%20Developer/Application%20Servers.md)
+*   [Task Queues](/Technical%20Stack/DevOps%20Developer/Task%20Queues.md)
+*   [Message Brokers](/Technical%20Stack/DevOps%20Developer/Message%20Brokers.md)
+*   [Generic AWS Services](/Technical%20Stack/DevOps%20Developer/Generic%20AWS%20Services.md)
+*   [Storage](/Technical%20Stack/DevOps%20Developer/Storage.md)
+*   [Continuous Integration](/Technical%20Stack/DevOps%20Developer/Continuous%20Integration.md)
+*   [CDN](/Technical%20Stack/DevOps%20Developer/CDN.md)
+*   [Docker Registry](/Technical%20Stack/DevOps%20Developer/Docker%20Registry.md)
+*   [VPS Services](/Technical%20Stack/DevOps%20Developer/VPS%20Services.md)
+*   [Monitoring](/Technical%20Stack/DevOps%20Developer/Monitoring.md)
 
 * * *
 

@@ -3,17 +3,17 @@ Mobile Developer (WIP)
 
 ### Browse by technical topic
 
-*   [CI/CD](/Career%20Paths/Mobile%20Developer%20(WIP)/CI/CD.md)
-*   [React-native](/Career%20Paths/Mobile%20Developer%20(WIP)/React-native.md)
-*   [Apple Developer](/Career%20Paths/Mobile%20Developer%20(WIP)/Apple%20Developer.md)
-*   [App Store Connect](/Career%20Paths/Mobile%20Developer%20(WIP)/App%20Store%20Connect.md)
-*   [Google Play Console](/Career%20Paths/Mobile%20Developer%20(WIP)/Google%20Play%20Console.md)
-*   [Deep linking](/Career%20Paths/Mobile%20Developer%20(WIP)/Deep%20linking.md)
-*   [Push notifications](/Career%20Paths/Mobile%20Developer%20(WIP)/Push%20notifications.md)
-*   [Crash reporting / Monitoring](/Career%20Paths/Mobile%20Developer%20(WIP)/Crash%20reporting%20/%20Monitoring.md)
-*   [Analytics](/Career%20Paths/Mobile%20Developer%20(WIP)/Analytics.md)
-*   [Development tools](/Career%20Paths/Mobile%20Developer%20(WIP)/Development%20tools.md)
-*   [Native modules](/Career%20Paths/Mobile%20Developer%20(WIP)/Native%20modules.md)
+*   [CI/CD](/Technical%20Stack/Mobile%20Developer%20(WIP)/CI/CD.md)
+*   [React-native](/Technical%20Stack/Mobile%20Developer%20(WIP)/React-native.md)
+*   [Apple Developer](/Technical%20Stack/Mobile%20Developer%20(WIP)/Apple%20Developer.md)
+*   [App Store Connect](/Technical%20Stack/Mobile%20Developer%20(WIP)/App%20Store%20Connect.md)
+*   [Google Play Console](/Technical%20Stack/Mobile%20Developer%20(WIP)/Google%20Play%20Console.md)
+*   [Deep linking](/Technical%20Stack/Mobile%20Developer%20(WIP)/Deep%20linking.md)
+*   [Push notifications](/Technical%20Stack/Mobile%20Developer%20(WIP)/Push%20notifications.md)
+*   [Crash reporting / Monitoring](/Technical%20Stack/Mobile%20Developer%20(WIP)/Crash%20reporting%20/%20Monitoring.md)
+*   [Analytics](/Technical%20Stack/Mobile%20Developer%20(WIP)/Analytics.md)
+*   [Development tools](/Technical%20Stack/Mobile%20Developer%20(WIP)/Development%20tools.md)
+*   [Native modules](/Technical%20Stack/Mobile%20Developer%20(WIP)/Native%20modules.md)
 
 * * *
 

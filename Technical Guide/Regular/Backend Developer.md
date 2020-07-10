@@ -247,6 +247,16 @@ Databases
 *   [ ] You know how to connect and create a collection
 *   [ ] You can listen for changes using live data updates
 
+#### Redis
+
+*   [ ] You know what data types are supported
+
+#### ElasticSearch
+
+*   [ ] You are able to define an index
+*   [ ] You are able to query index
+*   [ ] You know how to update an index
+
 #### AWS DynamoDB
 
 *   [ ] You know how to read from and write to a DynamoDB table

@@ -210,6 +210,14 @@ Databases
 *   [ ] You know how to connect and create a collection
 *   [ ] You can listen for changes using live data updates
 
+#### Redis
+
+*   [ ] You know what data types are supported
+
+#### ElasticSearch
+
+*   [ ] You are able to define an index
+
 3rd Party
 ---------
 
