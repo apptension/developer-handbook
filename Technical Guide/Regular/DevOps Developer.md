@@ -72,7 +72,7 @@ Application Servers
 ### Nginx
 
 *   [ ] You know configuration file syntax
-*   [ ] You know how to server static files
+*   [ ] You know how to serve static files
 *   [ ] You know how to define a proxy pass to API server
 
 ### WSGI
@@ -151,7 +151,7 @@ Storage
 ### AWS S3
 
 *   [ ] You know how to create an S3 bucket
-*   [ ] You know how to make a S3 bucket public
+*   [ ] You know how to make an S3 bucket public
 *   [ ] You know how to host a Single Page Application in S3
 
 Continuous Integration
@@ -159,7 +159,7 @@ Continuous Integration
 
 ### Bitbucket Pipelines
 
-*   [ ] You know how to turn bitbucket pipelines on in a repository
+*   [ ] You know how to turn Bitbucket pipelines on in a repository
 *   [ ] You know how to run a pipeline execution after a commit or a tag push
 *   [ ] You know how to define environmental variables that will be available to a build script
 
@@ -199,7 +199,7 @@ Docker Registry
 ### AWS ECR
 
 *   [ ] You know how to create a registry
-*   [ ] You know how to upload a docker image to a registry
+*   [ ] You know how to upload a Docker image to a registry
 *   [ ] You know how to define an IAM policy of a registry to allow pull/push to a specific user or role
 *   [ ] You know how to log into the ECR registry using aws-cli
 
