@@ -4,17 +4,39 @@ CI/CD
 fastlane
 --------
 
-*   [ ] deployments
-*   [ ] match
+### Confiuration
+
+*   [ ] Yow know how to define Appfile
+
+### match
+
+*   [ ] You know how to define Matchfile for proper enviroments
+
+### deployments
+
+*   [ ] You know how to prepare lanes overwriting app configuration
 
 Visual Studio App Center
 ------------------------
 
 ### Configuration
 
-*   [ ] App signing
-*   [ ] App beta publish
-*   [ ] Store publish
+#### App signing and building
+
+*   [ ] You know how to configure iOS and Android build
+*   [ ] You know how to correctly configure app signing
+
+#### App beta publish
+
+*   [ ] You know how to publish apps automatically to the specified group of people
+
+#### Store publish
+
+*   [ ] You know how to configure Google Play Alpha / App Store Connect build upload
+
+### scripts
+
+*   [ ] You know how to use and define pre-build scripts
 
 * * *
 

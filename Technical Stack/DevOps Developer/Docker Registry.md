@@ -5,7 +5,7 @@ AWS ECR
 -------
 
 *   [ ] You know how to create a registry
-*   [ ] You know how to upload a docker image to a registry
+*   [ ] You know how to upload a Docker image to a registry
 *   [ ] You know how to define an IAM policy of a registry to allow pull/push to a specific user or role
 *   [ ] You know how to log into the ECR registry using aws-cli
 

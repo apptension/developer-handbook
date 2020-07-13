@@ -151,7 +151,7 @@ Storage
 ### AWS S3
 
 *   [ ] You know how to create an S3 bucket
-*   [ ] You know how to make an S3 bucket public
+*   [ ] You know how to make a S3 bucket public
 *   [ ] You know how to host a Single Page Application in S3
 
 Continuous Integration
@@ -185,7 +185,7 @@ CDN
 ### AWS CloudFront
 
 *   [ ] You know how to create a CloudFront distribution
-*   [ ] You know how to add a behaviour pointing to a S3 website bucket
+*   [ ] You know how to add a behaviour pointing to an S3 website bucket
 
 ### Netlify
 

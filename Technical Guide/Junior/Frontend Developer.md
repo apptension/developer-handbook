@@ -23,28 +23,22 @@ Company practices
 *   [ ] You add proper label in pull requests
 *   [ ] You interact with a repository using SSH [:books:](https://support.atlassian.com/bitbucket-cloud/docs/set-up-an-ssh-key/)
 *   [ ] You create your branches under the proper folder (feature, fix, hotfix)
-*   [ ] You name your commits properly [:books:](https://chris.beams.io/posts/git-commit/)
 
 #### GitHub
 
 *   [ ] You know how to create and reference issues
 *   [ ] You know how to verify when a build check failed
 
-#### BitBucket
+#### Bitbucket
 
-*   [ ] You know how to reference a Jira ticket in your commit
 *   [ ] You know how to verify when a build check failed
+*   [ ] You know how to reference a Jira ticket in your commit
 
 ### Communication
 
 #### Slack
 
 *   [ ] You know how to create groups and channels
-
-#### Small Improvements
-
-*   [ ] You know how to create goals and mark them as complete
-*   [ ] You know how to give praise and add talk topics to a 1:1 meeting
 
 #### Jira
 

@@ -33,8 +33,8 @@ Node.js
 *   [ ] You know how to configure a test env
 *   [ ] You can describe a test using assertions
 
-Performnance Testing
---------------------
+Performance Testing
+-------------------
 
 ### Artillery.io
 

@@ -38,10 +38,10 @@ Company practices
 *   [ ] You know how to verify when a build check failed
 *   [ ] You know how to create GitHub Wiki pages
 
-#### BitBucket
+#### Bitbucket
 
-*   [ ] You know how to reference a Jira ticket in your commit
 *   [ ] You know how to verify when a build check failed
+*   [ ] You know how to reference a Jira ticket in your commit
 
 ### Communication
 

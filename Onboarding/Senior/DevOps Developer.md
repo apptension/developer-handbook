@@ -25,7 +25,7 @@ Application Servers
 ### Nginx
 
 *   [ ] You know configuration file syntax
-*   [ ] You know how to server static files
+*   [ ] You know how to serve static files
 *   [ ] You know how to define a proxy pass to API server
 
 ### WSGI

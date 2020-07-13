@@ -4,7 +4,7 @@ Continuous Integration
 Bitbucket Pipelines
 -------------------
 
-*   [ ] You know how to turn bitbucket pipelines on in a repository
+*   [ ] You know how to turn Bitbucket pipelines on in a repository
 *   [ ] You know how to run a pipeline execution after a commit or a tag push
 *   [ ] You know how to define environmental variables that will be available to a build script
 

@@ -5,7 +5,7 @@ AWS CloudFront
 --------------
 
 *   [ ] You know how to create a CloudFront distribution
-*   [ ] You know how to add a behaviour pointing to a S3 website bucket
+*   [ ] You know how to add a behaviour pointing to an S3 website bucket
 
 Netlify
 -------

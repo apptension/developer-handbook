@@ -1,7 +1,6 @@
 React-native
 ============
 
-*   [ ] Core components
 *   [ ] APIs
 *   [ ] Development tools
 *   [ ] Navigation
@@ -11,6 +10,25 @@ React-native
 *   [ ] Deep linking
 *   [ ] Linking libraries
 *   [ ] Gestures Responders
+*   [ ] Forms
+
+Core components
+---------------
+
+### Touchable
+
+*   [ ] You know how to use and style touchable components
+*   [ ] You know the difference between touchable components
+
+### Scrollable Views
+
+*   [ ] You know when to use FlatList, SectionList and ScrollView
+*   [ ] You know how to optimize FlatList and SectionList for large data sets
+*   [ ] You know how to build optimized components for Lists
+
+### Loading Indicators
+
+*   [ ] You know how to use RefreshControl for scrollable views
 
 Animations
 ----------

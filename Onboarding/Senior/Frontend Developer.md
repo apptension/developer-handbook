@@ -25,7 +25,7 @@ Company practices
 *   [ ] You interact with a repository using SSH [:books:](https://support.atlassian.com/bitbucket-cloud/docs/set-up-an-ssh-key/)
 *   [ ] You name your commits properly [:books:](https://chris.beams.io/posts/git-commit/)
 
-#### BitBucket
+#### Bitbucket
 
 *   [ ] You know how to reference a Jira ticket in your commit
 

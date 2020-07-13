@@ -76,7 +76,7 @@ Python
 *   [ ] You can use it with DRF Generic View
 *   [ ] You know how to create custom queryset for a filter
 
-#### Serveless Framework
+#### Serverless Framework
 
 *   [ ] You can create simple HTTP endpoint using API gateway
 *   [ ] You know plugins to handle local development like serverless offline
@@ -190,7 +190,7 @@ Testing
 *   [ ] You know how to configure a test env
 *   [ ] You can describe a test using assertions
 
-### Performnance Testing
+### Performance Testing
 
 #### Artillery.io
 
