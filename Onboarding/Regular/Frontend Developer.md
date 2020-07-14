@@ -20,9 +20,8 @@ Company practices
 
 *   [ ] You create pull requests with proper name and description [:books:](https://medium.com/@hugooodias/the-anatomy-of-a-perfect-pull-request-567382bb6067)
 *   [ ] You squash merge your pull requests [:books:](https://blog.pairworking.com/why-you-should-care-about-squash-and-merge-in-git-675856bf66b0)
-*   [ ] You review PRs carefully and leave your comments [:books:](https://www.pullrequest.com/blog/what-belongs-in-an-effective-code-review-checklist/)
-*   [ ] You interact with a repository using SSH [:books:](https://support.atlassian.com/bitbucket-cloud/docs/set-up-an-ssh-key/)
 *   [ ] You name your commits properly [:books:](https://chris.beams.io/posts/git-commit/)
+*   [ ] You review PRs carefully and leave your comments [:books:](https://www.pullrequest.com/blog/what-belongs-in-an-effective-code-review-checklist/)
 
 #### Bitbucket
 

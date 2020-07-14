@@ -25,11 +25,10 @@ Company practices
 *   [ ] You create pull requests with proper name and description [:books:](https://medium.com/@hugooodias/the-anatomy-of-a-perfect-pull-request-567382bb6067)
 *   [ ] You squash merge your pull requests [:books:](https://blog.pairworking.com/why-you-should-care-about-squash-and-merge-in-git-675856bf66b0)
 *   [ ] You understand the pros and cos of git rebase vs git merge [:books:](https://www.atlassian.com/git/tutorials/merging-vs-rebasing)
+*   [ ] You name your commits properly [:books:](https://chris.beams.io/posts/git-commit/)
 *   [ ] You review PRs carefully and leave your comments [:books:](https://www.pullrequest.com/blog/what-belongs-in-an-effective-code-review-checklist/)
 *   [ ] You add proper label in pull requests
-*   [ ] You interact with a repository using SSH [:books:](https://support.atlassian.com/bitbucket-cloud/docs/set-up-an-ssh-key/)
 *   [ ] You create your branches under the proper folder (feature, fix, hotfix)
-*   [ ] You name your commits properly [:books:](https://chris.beams.io/posts/git-commit/)
 
 #### GitHub
 
@@ -47,6 +46,7 @@ Company practices
 #### Slack
 
 *   [ ] You know how to create groups and channels
+*   [ ] You use Slack statuses in line with company policy (remote working, vacationing, in a meeting, etc)
 
 #### Confluence
 
@@ -65,7 +65,6 @@ Company practices
 
 *   [ ] You can configure email signatures
 *   [ ] You can configure local email client
-*   [ ] You can read and write emails
 
 React
 -----

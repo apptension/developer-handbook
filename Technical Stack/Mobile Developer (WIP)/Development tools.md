@@ -1,9 +1,26 @@
 Development tools
 =================
 
-*   [ ] React Native Debugger
-*   [ ] Xcode
-*   [ ] Android Studio
+React Native Debugger
+---------------------
+
+*   [ ] You know how to use React/Redux dev tools
+*   [ ] You know how to use Network Inspect
+*   [ ] You know how to use debugger with a real device
+
+Xcode
+-----
+
+*   [ ] You know how to run app on a real device
+*   [ ] You know how to manage app schema
+*   [ ] You know how to change Team, Certificate and Provisioning Profile
+*   [ ] You know how to build app ready for distribiution
+
+Android Studio
+--------------
+
+*   [ ] You know how to run app on a real device
+*   [ ] You know how to manage keystores
 
 * * *
 

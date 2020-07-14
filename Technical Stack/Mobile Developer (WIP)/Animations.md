@@ -1,21 +1,26 @@
-Crash reporting / Monitoring
-============================
+Animations
+==========
 
-@sentry/react-native
---------------------
+react-native-reanimated
+-----------------------
 
-*   [ ] You know how to set tags
-*   [ ] You know how to add breadcrumbs
-*   [ ] You know how to capture exception
-*   [ ] You know how to capture custom message
-*   [ ] You know how to view and analyze crash reports
+*   [ ] You know how to use Value
+*   [ ] You know how to run timing animation with easing
+*   [ ] You know how to run decay animation
+*   [ ] You know how to run spring animation
+*   [ ] You know how to create animation using native events
+*   [ ] You know how to create animation using gestures
+*   [ ] You know when and how to use Animated.Code
+*   [ ] You know how to manage clock
+*   [ ] You know how to use clock methods
+*   [ ] You can create animation block with conditions and calculations
 
-@react-native-firebase/crashlytics
-----------------------------------
+lottie-react-native
+-------------------
 
-*   [ ] You know how to set user attributes
-*   [ ] You know how to report errors
-*   [ ] You know how to view and analyze crash reports
+*   [ ] You know how to correctly configure library and import json animations
+*   [ ] You know how to run animation using Animated.Value
+*   [ ] You know how to create loop animation
 
 * * *
 

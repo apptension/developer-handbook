@@ -1,21 +1,17 @@
-Crash reporting / Monitoring
-============================
+Storage
+=======
 
-@sentry/react-native
---------------------
+react-native-keychain
+---------------------
 
-*   [ ] You know how to set tags
-*   [ ] You know how to add breadcrumbs
-*   [ ] You know how to capture exception
-*   [ ] You know how to capture custom message
-*   [ ] You know how to view and analyze crash reports
+*   [ ] You know how to store sensitive info like certificates, tokens, passwords
+*   [ ] You know how to use biometry
 
-@react-native-firebase/crashlytics
-----------------------------------
+@react-native-community/async-storage
+-------------------------------------
 
-*   [ ] You know how to set user attributes
-*   [ ] You know how to report errors
-*   [ ] You know how to view and analyze crash reports
+*   [ ] You know how to read and write async storage data
+*   [ ] You know how to use async storage with redux-persist
 
 * * *
 

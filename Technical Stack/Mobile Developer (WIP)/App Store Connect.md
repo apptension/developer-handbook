@@ -1,13 +1,22 @@
 App Store Connect
 =================
 
-*   [ ] Testflight
-*   [ ] Store presence
+Testflight
+----------
+
+*   [ ] You know how to distribute app via Testflight to the App Store Connect users
+*   [ ] You know how to distribute app via Testflight to the beta testers
+*   [ ] You know how to invite testers via invitation code
 
 Release management
 ------------------
 
-*   [ ] Testflight
+*   [ ] You know how to add a new version of the app and submit it to review
+
+Store presence
+--------------
+
+*   [ ] You can define all the required options to show the app in the App Store
 
 * * *
 

@@ -1,9 +1,29 @@
 Apple Developer
 ===============
 
-*   [ ] Certificates
-*   [ ] Provisioning profiles
-*   [ ] App IDs
+Certificates
+------------
+
+*   [ ] You know how to create development certificate
+*   [ ] You know how to create distribiution certificate
+
+Keys
+----
+
+*   [ ] You know how to create Apple Push Notifications service key
+
+App IDs
+-------
+
+*   [ ] You can create App identifiers
+*   [ ] You can define correct App ID Capabilities
+*   [ ] You can manage app id suffixes
+
+Provisioning profiles
+---------------------
+
+*   [ ] You know how to create proper type of Provisioning Profile regarding the environment
+*   [ ] You know how to add test devices and assign them to the Provisioning Profile
 
 * * *
 

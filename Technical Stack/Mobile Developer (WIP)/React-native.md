@@ -1,17 +1,6 @@
 React-native
 ============
 
-*   [ ] APIs
-*   [ ] Development tools
-*   [ ] Navigation
-*   [ ] Internationalization
-*   [ ] Push notifications
-*   [ ] Styling
-*   [ ] Deep linking
-*   [ ] Linking libraries
-*   [ ] Gestures Responders
-*   [ ] Forms
-
 Core components
 ---------------
 
@@ -23,39 +12,103 @@ Core components
 ### Scrollable Views
 
 *   [ ] You know when to use FlatList, SectionList and ScrollView
-*   [ ] You know how to optimize FlatList and SectionList for large data sets
+*   [ ] You know how to optimize FlatList and SectionList for large data sets using optimization props eg. removeClippedSubviews, getItemLayout, keyExtractor
 *   [ ] You know how to build optimized components for Lists
 
 ### Loading Indicators
 
 *   [ ] You know how to use RefreshControl for scrollable views
 
-Animations
-----------
+### Basic components
 
-*   [ ] Animated API
-*   [ ] react-native-reanimated
-*   [ ] lottie
+*   [ ] You know how to use View, Text, TextInput, Button, Switch, ActivityIndicator, Modal
 
-JS Engines
-----------
+### Images
 
-*   [ ] Hermes
+*   [ ] You know how to use Image component
+*   [ ] You know how to handle all the Image events
+*   [ ] You can create animated Image loader
+*   [ ] You know how to use images from app's resources
+*   [ ] You know how to control image cache on iOS
 
-Optimization techniques / Performance
--------------------------------------
+APIs
+----
 
-*   [ ] Virtualization
-*   [ ] Optimization props
-*   [ ] Interaction Manager
+### Alert
 
-Security
---------
+*   [ ] You know how to show alert
+*   [ ] You know how to render proper alert button variant on iOS and Android
 
-### Storage
+### Appearance
 
-*   [ ] Android - Secure Shared Preferences
-*   [ ] iOS Keychain
+*   [ ] You know how to get user's preffered color scheme
+*   [ ] You know how to listen on color scheme change
+
+### AppState
+
+*   [ ] You can handle listening on app state
+*   [ ] You know Android-only events
+
+### Dimensions
+
+*   [ ] You can handle listening on window size
+
+### InteractionManager
+
+*   [ ] You know when and how to use runAfterInteractions
+*   [ ] You know when and how to use runAfterInteractions
+*   [ ] You know when and how to use interactionHandle
+
+### Keyboard
+
+*   [ ] You can hide keyboard
+*   [ ] You can listen on keyboard events
+*   [ ] You know how to animate layout with keyboard
+
+### Linking
+
+*   [ ] You know how to open url
+*   [ ] You know how to configure app deep linking
+*   [ ] You know how to get an initial deep link which was used to open an app
+*   [ ] You know how to listen on deep links when the app is opened in foreground
+*   [ ] You know how to handle app navigation using received deep link
+
+### PanResponder
+
+*   [ ] You know how to create pan responder
+*   [ ] You know how to handle multiple pan responders
+*   [ ] You can prepare an animation using pan responder events
+*   [ ] You know how to recognize multi-touch gestures
+
+### Android BackHandler
+
+*   [ ] You know how to define hardware Android back button behavior
+
+### Animated
+
+*   [ ] You know how to create decay animation
+*   [ ] You know how to create spring animation
+*   [ ] You know how to create timing animation with easing
+*   [ ] You can create animatable component
+*   [ ] You know how to compose animations
+*   [ ] You know how to use Animated.Value
+*   [ ] You know how to use native driver
+*   [ ] You know how to use Animated.Event
+*   [ ] You know how to interpolate values
+*   [ ] You know how to do Animated.Value calculations
+
+Styling
+-------
+
+### StyleSheet
+
+*   [ ] You know how to define stylesheets per component
+*   [ ] You know how to handle media queries for stylesheets
+
+Linking libraries
+-----------------
+
+*   [ ] You can manually link iOS library
 
 * * *
 

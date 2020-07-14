@@ -1,21 +1,16 @@
-Crash reporting / Monitoring
-============================
+Lists
+=====
 
-@sentry/react-native
---------------------
+react-native-largelist
+----------------------
 
-*   [ ] You know how to set tags
-*   [ ] You know how to add breadcrumbs
-*   [ ] You know how to capture exception
-*   [ ] You know how to capture custom message
-*   [ ] You know how to view and analyze crash reports
-
-@react-native-firebase/crashlytics
-----------------------------------
-
-*   [ ] You know how to set user attributes
-*   [ ] You know how to report errors
-*   [ ] You know how to view and analyze crash reports
+*   [ ] You know how to render LargeList with header and footer
+*   [ ] You know how to use pull to refresh
+*   [ ] You can listen on scroll and scroll to proper section
+*   [ ] You can render list with/ without section headers
+*   [ ] You know how to handle list item component flip animation
+*   [ ] You know how to use custom pull to refresh component
+*   [ ] You know how to use lottie animation as a loader
 
 * * *
 

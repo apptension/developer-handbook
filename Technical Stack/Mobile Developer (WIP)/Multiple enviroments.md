@@ -1,21 +1,17 @@
-Crash reporting / Monitoring
-============================
+Multiple enviroments
+====================
 
-@sentry/react-native
---------------------
+react-native-config
+-------------------
 
-*   [ ] You know how to set tags
-*   [ ] You know how to add breadcrumbs
-*   [ ] You know how to capture exception
-*   [ ] You know how to capture custom message
-*   [ ] You know how to view and analyze crash reports
+*   [ ] You know how to configure app to use .env file
+*   [ ] You know how to overwrite enviroment variables via App Center scripts
 
-@react-native-firebase/crashlytics
-----------------------------------
+Xcode
+-----
 
-*   [ ] You know how to set user attributes
-*   [ ] You know how to report errors
-*   [ ] You know how to view and analyze crash reports
+*   [ ] You know how to manage schemas
+*   [ ] You know how to use proper certificate and provisioning profile
 
 * * *
 

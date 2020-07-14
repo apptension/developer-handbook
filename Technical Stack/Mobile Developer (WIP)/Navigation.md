@@ -1,21 +1,18 @@
-Crash reporting / Monitoring
-============================
+Navigation
+==========
 
-@sentry/react-native
---------------------
+@react-navigation/native
+------------------------
 
-*   [ ] You know how to set tags
-*   [ ] You know how to add breadcrumbs
-*   [ ] You know how to capture exception
-*   [ ] You know how to capture custom message
-*   [ ] You know how to view and analyze crash reports
-
-@react-native-firebase/crashlytics
-----------------------------------
-
-*   [ ] You know how to set user attributes
-*   [ ] You know how to report errors
-*   [ ] You know how to view and analyze crash reports
+*   [ ] You know how to create stack navigator
+*   [ ] You know how to create tab navigator
+*   [ ] You know how to create drawer navigator
+*   [ ] You know how to navigate between screens
+*   [ ] You know how to pass parameters between screens
+*   [ ] You know how to create custom screen animation
+*   [ ] You know how to use navigator listeners
+*   [ ] You know how to track screens for Analytics
+*   [ ] You know how to listen screen focus
 
 * * *
 

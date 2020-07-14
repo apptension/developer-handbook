@@ -1,9 +1,21 @@
 Google Play Console
 ===================
 
-*   [ ] Release management
-*   [ ] Store presence
-*   [ ] App signing
+Release management
+------------------
+
+*   [ ] You know how to distribute app via Alpha/Beta enviroment to the beta testers
+*   [ ] You know how to promote an app to the Production with full/partial roll-out
+
+Store presence
+--------------
+
+*   [ ] You can define all the required options to show the app in the Google Play
+
+App signing
+-----------
+
+*   [ ] You know how to handle App Signing by Google Play
 
 * * *
 

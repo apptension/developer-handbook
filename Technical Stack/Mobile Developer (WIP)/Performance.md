@@ -1,21 +1,22 @@
-Crash reporting / Monitoring
-============================
+Performance
+===========
 
-@sentry/react-native
---------------------
+JS Engines
+----------
 
-*   [ ] You know how to set tags
-*   [ ] You know how to add breadcrumbs
-*   [ ] You know how to capture exception
-*   [ ] You know how to capture custom message
-*   [ ] You know how to view and analyze crash reports
+### Hermes
 
-@react-native-firebase/crashlytics
-----------------------------------
+*   [ ] You know how to enable Hermes on Android
+*   [ ] You know profits of using Hermes
 
-*   [ ] You know how to set user attributes
-*   [ ] You know how to report errors
-*   [ ] You know how to view and analyze crash reports
+Monitoring
+----------
+
+### @react-native-firebase/perf
+
+*   [ ] You can configure Firebase Performance Monitoring
+*   [ ] You know how to create http metrics
+*   [ ] You how to create custom traces
 
 * * *
 

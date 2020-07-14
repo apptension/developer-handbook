@@ -1,4 +1,16 @@
-*   [ ] Deep linking
+Deep linking
+============
+
+@react-native-firebase/dynamic-links
+------------------------------------
+
+*   [ ] You know how to correctly configure Dynamic Links in Firebase Console
+*   [ ] You know how to configure Dynamic Links in iOS and Android app
+*   [ ] You know how to debug Dynamic Links
+*   [ ] You know how to create Dynamic Links
+*   [ ] You know how to handle foreground links
+*   [ ] You know how to handle background links
+*   [ ] You know how to use custom domain for Dynamic Links
 
 * * *
 

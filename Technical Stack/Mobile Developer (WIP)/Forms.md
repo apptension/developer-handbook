@@ -1,21 +1,11 @@
-Crash reporting / Monitoring
-============================
+Forms
+=====
 
-@sentry/react-native
---------------------
+react-native-keyboard-aware-scroll-view
+---------------------------------------
 
-*   [ ] You know how to set tags
-*   [ ] You know how to add breadcrumbs
-*   [ ] You know how to capture exception
-*   [ ] You know how to capture custom message
-*   [ ] You know how to view and analyze crash reports
-
-@react-native-firebase/crashlytics
-----------------------------------
-
-*   [ ] You know how to set user attributes
-*   [ ] You know how to report errors
-*   [ ] You know how to view and analyze crash reports
+*   [ ] You know how to handle automatic scroll to the form inputs on focus
+*   [ ] You know how to navigate between form fields
 
 * * *
 

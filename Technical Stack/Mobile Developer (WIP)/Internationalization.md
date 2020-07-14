@@ -1,21 +1,17 @@
-Crash reporting / Monitoring
-============================
+Internationalization
+====================
 
-@sentry/react-native
---------------------
+react-intl
+----------
 
-*   [ ] You know how to set tags
-*   [ ] You know how to add breadcrumbs
-*   [ ] You know how to capture exception
-*   [ ] You know how to capture custom message
-*   [ ] You know how to view and analyze crash reports
+*   [ ] You know how to configure react-intl with react-native
+*   [ ] You can define multiple languages
+*   [ ] You can handle language change
 
-@react-native-firebase/crashlytics
-----------------------------------
+Native Modules
+--------------
 
-*   [ ] You know how to set user attributes
-*   [ ] You know how to report errors
-*   [ ] You know how to view and analyze crash reports
+*   [ ] You know how to get device locale
 
 * * *
 

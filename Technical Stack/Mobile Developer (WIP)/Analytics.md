@@ -1,4 +1,19 @@
-*   [ ] Analytics
+Analytics
+=========
+
+@react-native-firebase/analytics
+--------------------------------
+
+*   [ ] You know how to log events
+*   [ ] You know how to set user properties
+*   [ ] You know how to log predefined events
+*   [ ] You can handle screen tracking
+
+react-native-appsflyer
+----------------------
+
+*   [ ] You can configure Appsflyer SDK
+*   [ ] You know how to log conversion events
 
 * * *
 

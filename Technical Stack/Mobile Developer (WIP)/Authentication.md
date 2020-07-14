@@ -1,21 +1,36 @@
-Crash reporting / Monitoring
-============================
+Authentication
+==============
 
-@sentry/react-native
---------------------
+@react-native-community/google-signin
+-------------------------------------
 
-*   [ ] You know how to set tags
-*   [ ] You know how to add breadcrumbs
-*   [ ] You know how to capture exception
-*   [ ] You know how to capture custom message
-*   [ ] You know how to view and analyze crash reports
+*   [ ] You can configure Google SignIn
+*   [ ] You can handle sign in process
+*   [ ] You can handle sign in process
+*   [ ] You know how to revoke access and sign out
+*   [ ] You can use Google SignIn button
+*   [ ] You know how to define sign in scopes
 
-@react-native-firebase/crashlytics
-----------------------------------
+react-native-fbsdk
+------------------
 
-*   [ ] You know how to set user attributes
-*   [ ] You know how to report errors
-*   [ ] You know how to view and analyze crash reports
+*   [ ] You can configure FB sdk
+*   [ ] You know how to login user with correct permissions
+*   [ ] You know how to revoke access and logout
+
+@react-native-firebase/auth
+---------------------------
+
+*   [ ] You know how to sign in anonymously
+*   [ ] You know how to sign in using e-mail and password
+*   [ ] You know how to sign out
+
+@invertase/react-native-apple-authentication
+--------------------------------------------
+
+*   [ ] You know how to login user with correct permissions
+*   [ ] You know how to listen on credentials change
+*   [ ] You can use Apple button
 
 * * *
 

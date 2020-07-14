@@ -1,7 +1,10 @@
 Native modules
 ==============
 
-*   [ ] Bridging
+Bridging
+--------
+
+*   [ ] You know how to create bridge between existing objC/Swift/Java module and react-native
 
 * * *
 

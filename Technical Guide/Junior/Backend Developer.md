@@ -10,11 +10,11 @@ Python
 
 ##### django-fsm
 
-*   [ ] You can create State Machine with simple transitions
+*   [ ] You can create State Machine with simple transitions [:books:](https://hashedin.com/blog/a-guide-to-managing-finite-state-machine-using-django-fsm/)
 
 ##### django-cacheops
 
-*   [ ] You know how to configure defaults for models
+*   [ ] You know how to configure defaults for models [:books:](https://dizballanze.com/django-project-optimization-part-3/)
 *   [ ] You know how to disable caching for specific query
 
 ##### django-notifications-hq

@@ -1,7 +1,34 @@
 Push notifications
 ==================
 
-*   [ ] FCM
+@react-native-community/push-notification-ios
+---------------------------------------------
+
+*   [ ] You know how to configure iOS project to register for notifications
+*   [ ] You know how to configure iOS project to receive local notifications
+*   [ ] You know how to configure iOS project to receive remote notifications
+*   [ ] You know how to configure iOS project to display notifications in foreground
+*   [ ] You know how to update app badge on iOS
+*   [ ] You know how to clear notifications center
+*   [ ] You know how to present local notification
+*   [ ] You know how to schedule local notification
+*   [ ] You know how to request permissions to display notifications
+
+react-native-push-notification
+------------------------------
+
+*   [ ] You know how to receive notification from FCM and handle it in background/foreground
+*   [ ] You can handle initial notification which has opened the app
+*   [ ] You know how to request permissions to display notifications
+*   [ ] You know how to update app badge
+*   [ ] You know how to clear notifications
+*   [ ] You know how to present local notification
+*   [ ] You know how to schedule local notification
+
+@react-native-firebase/messaging
+--------------------------------
+
+*   [ ] You know how to get device FCM token
 
 * * *
 

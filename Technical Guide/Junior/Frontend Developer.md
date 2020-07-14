@@ -21,7 +21,6 @@ Company practices
 *   [ ] You create pull requests with proper name and description [:books:](https://medium.com/@hugooodias/the-anatomy-of-a-perfect-pull-request-567382bb6067)
 *   [ ] You review PRs carefully and leave your comments [:books:](https://www.pullrequest.com/blog/what-belongs-in-an-effective-code-review-checklist/)
 *   [ ] You add proper label in pull requests
-*   [ ] You interact with a repository using SSH [:books:](https://support.atlassian.com/bitbucket-cloud/docs/set-up-an-ssh-key/)
 *   [ ] You create your branches under the proper folder (feature, fix, hotfix)
 
 #### GitHub
@@ -36,19 +35,9 @@ Company practices
 
 ### Communication
 
-#### Slack
-
-*   [ ] You know how to create groups and channels
-
-#### Jira
-
-*   [ ] You know how to create tickets and write comments
-
 #### Email
 
-*   [ ] You can configure email signatures
 *   [ ] You can configure local email client
-*   [ ] You can read and write emails
 
 React
 -----
