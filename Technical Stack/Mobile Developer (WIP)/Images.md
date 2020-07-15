@@ -1,7 +1,13 @@
 Images
 ======
 
-*   [ ] react-native-fast-image
+react-native-fast-image
+-----------------------
+
+*   [ ] You know how to display image with proper resize mode
+*   [ ] You know how to handle image loader for cached images
+*   [ ] You know how to preload images
+*   [ ] You know how to prioritize images loading
 
 * * *
 

@@ -1,7 +1,13 @@
 Sharing
 =======
 
-*   [ ] react-native-share
+react-native-share
+------------------
+
+*   [ ] You know how to share content
+*   [ ] You know how to share images
+*   [ ] You know how to share files
+*   [ ] You know how to define share to the single social app
 
 * * *
 

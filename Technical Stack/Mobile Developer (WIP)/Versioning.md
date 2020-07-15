@@ -1,7 +1,10 @@
 Versioning
 ==========
 
-*   [ ] react-native-version
+react-native-version
+--------------------
+
+*   [ ] You know how to run script updating an app version and a build version
 
 * * *
 

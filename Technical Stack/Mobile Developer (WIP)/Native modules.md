@@ -4,6 +4,14 @@ Native modules
 Bridging
 --------
 
+[https://reactnative.dev/docs/native-modules-ios](https://reactnative.dev/docs/native-modules-ios)
+
+  
+
+[https://reactnative.dev/docs/native-modules-android](https://reactnative.dev/docs/native-modules-android)  
+
+  
+
 *   [ ] You know how to create bridge between existing objC/Swift/Java module and react-native
 
 * * *

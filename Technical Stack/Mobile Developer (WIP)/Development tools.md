@@ -12,15 +12,18 @@ Xcode
 -----
 
 *   [ ] You know how to run app on a real device
+*   [ ] You know how to run an app on a simulator
 *   [ ] You know how to manage app schema
 *   [ ] You know how to change Team, Certificate and Provisioning Profile
-*   [ ] You know how to build app ready for distribiution
+*   [ ] You know how to build app ready for distribution
 
 Android Studio
 --------------
 
 *   [ ] You know how to run app on a real device
+*   [ ] You know how to run an app on an emulator
 *   [ ] You know how to manage keystores
+*   [ ] You know how to build app ready for distribution
 
 * * *
 

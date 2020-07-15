@@ -24,7 +24,7 @@ Company practices
 
 *   [ ] You create pull requests with proper name and description [:books:](https://medium.com/@hugooodias/the-anatomy-of-a-perfect-pull-request-567382bb6067)
 *   [ ] You squash merge your pull requests [:books:](https://blog.pairworking.com/why-you-should-care-about-squash-and-merge-in-git-675856bf66b0)
-*   [ ] You understand the pros and cos of git rebase vs git merge [:books:](https://www.atlassian.com/git/tutorials/merging-vs-rebasing)
+*   [ ] You understand the pros and cons of git rebase vs git merge [:books:](https://www.atlassian.com/git/tutorials/merging-vs-rebasing)
 *   [ ] You name your commits properly [:books:](https://chris.beams.io/posts/git-commit/)
 *   [ ] You review PRs carefully and leave your comments [:books:](https://www.pullrequest.com/blog/what-belongs-in-an-effective-code-review-checklist/)
 *   [ ] You add proper label in pull requests
@@ -189,7 +189,7 @@ Styling
 ##### styled-theming
 
 *   [ ] You know how to use theme modes to apply different themes based on the context [:books:](https://medium.com/@rossbulat/react-dark-mode-with-styled-theming-and-context-57557de6400)
-*   [ ] You know how to use theme variants to apply different styles to a component based on the context
+*   [ ] You know how to use theme variants to apply different styles to a component based on the context [:books:](https://styled-components.com/docs/advanced)
 
 #### Flexbox
 
@@ -202,7 +202,7 @@ You can learn how to style HTML elements with flexbox by reading this awesome gu
 
 #### Reset libraries
 
-##### normalizr.css
+##### normalize.css
 
 *   [ ] You can explain benefits of the library
 *   [ ] You know how to use this library in a project

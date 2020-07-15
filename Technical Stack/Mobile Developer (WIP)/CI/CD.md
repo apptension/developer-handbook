@@ -4,9 +4,9 @@ CI/CD
 fastlane
 --------
 
-*   [ ] Yow know how to define Appfile
-*   [ ] You know how to define Matchfile for proper enviroments
-*   [ ] You know how to prepare lanes overwriting app configuration
+*   [ ] Yow know how to define Appfile [:books:](http://docs.fastlane.tools/advanced/Appfile/#appfile)
+*   [ ] You know how to define Matchfile for proper enviroments [:books:](https://docs.fastlane.tools/actions/match/#match)
+*   [ ] You know how to prepare lanes overwriting app configuration and how to use plugins [:books:](http://docs.fastlane.tools/advanced/Fastfile/#fastfile)
 
 Visual Studio App Center
 ------------------------
@@ -14,8 +14,8 @@ Visual Studio App Center
 *   [ ] You know how to configure iOS and Android build
 *   [ ] You know how to correctly configure app signing
 *   [ ] You know how to use and define pre-build scripts
-*   [ ] You know how to publish apps automatically to the specified group of people
-*   [ ] You know how to configure Google Play Alpha / App Store Connect build upload
+*   [ ] You know how to publish apps automatically to the specified group of people [:books:](https://docs.microsoft.com/en-us/appcenter/distribution/groups)
+*   [ ] You know how to configure Google Play Alpha / App Store Connect build upload [:books:](https://docs.microsoft.com/en-us/appcenter/distribution/stores/)
 
 * * *
 

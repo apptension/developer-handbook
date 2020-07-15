@@ -6,22 +6,31 @@ Core components
 
 ### Touchable
 
+[https://reactnative.dev/docs/touchablehighlight](https://reactnative.dev/docs/touchablehighlight)  
+  
+[https://reactnative.dev/docs/touchableopacity](https://reactnative.dev/docs/touchableopacity)  
+  
+[https://reactnative.dev/docs/touchablewithoutfeedback](https://reactnative.dev/docs/touchablewithoutfeedback)
+
+  
+[https://reactnative.dev/docs/pressable](https://reactnative.dev/docs/pressable)  
+
 *   [ ] You know how to use and style touchable components
 *   [ ] You know the difference between touchable components
 
 ### Scrollable Views
 
 *   [ ] You know when to use FlatList, SectionList and ScrollView
-*   [ ] You know how to optimize FlatList and SectionList for large data sets using optimization props eg. removeClippedSubviews, getItemLayout, keyExtractor
-*   [ ] You know how to build optimized components for Lists
-
-### Loading Indicators
-
-*   [ ] You know how to use RefreshControl for scrollable views
+*   [ ] You know how to optimize FlatList and SectionList for large data sets using optimization props eg. removeClippedSubviews, getItemLayout, keyExtractor [:books:](https://reactnative.dev/docs/optimizing-flatlist-configuration)
+*   [ ] You know how to build optimized components for Lists [:books:](https://reactnative.dev/docs/optimizing-flatlist-configuration)
 
 ### Basic components
 
 *   [ ] You know how to use View, Text, TextInput, Button, Switch, ActivityIndicator, Modal
+
+### Loading Indicators
+
+*   [ ] You know how to use RefreshControl for scrollable views [:books:](https://reactnative.dev/docs/refreshcontrol)
 
 ### Images
 
@@ -86,6 +95,24 @@ APIs
 
 ### Animated
 
+[https://reactnative.dev/docs/animated](https://reactnative.dev/docs/animated)
+
+  
+
+[https://reactnative.dev/docs/animatedvalue](https://reactnative.dev/docs/animatedvalue)  
+
+  
+
+[https://reactnative.dev/docs/animatedvaluexy](https://reactnative.dev/docs/animatedvaluexy)  
+
+  
+
+[https://reactnative.dev/docs/transforms](https://reactnative.dev/docs/transforms)  
+
+  
+
+[https://reactnative.dev/docs/easing](https://reactnative.dev/docs/easing)  
+
 *   [ ] You know how to create decay animation
 *   [ ] You know how to create spring animation
 *   [ ] You know how to create timing animation with easing
@@ -108,7 +135,7 @@ Styling
 Linking libraries
 -----------------
 
-*   [ ] You can manually link iOS library
+*   [ ] You can manually link iOS library [:books:](https://reactnative.dev/docs/linking-libraries-ios)
 
 * * *
 

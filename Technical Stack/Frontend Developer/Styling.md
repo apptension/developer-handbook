@@ -25,7 +25,7 @@ CSS
 #### styled-theming
 
 *   [ ] You know how to use theme modes to apply different themes based on the context [:books:](https://medium.com/@rossbulat/react-dark-mode-with-styled-theming-and-context-57557de6400)
-*   [ ] You know how to use theme variants to apply different styles to a component based on the context
+*   [ ] You know how to use theme variants to apply different styles to a component based on the context [:books:](https://styled-components.com/docs/advanced)
 
 ### Flexbox
 
@@ -40,7 +40,7 @@ You can learn how to style HTML elements with flexbox by reading this awesome gu
 
 ### Reset libraries
 
-#### normalizr.css
+#### normalize.css
 
 *   [ ] You can explain benefits of the library
 *   [ ] You know how to use this library in a project
