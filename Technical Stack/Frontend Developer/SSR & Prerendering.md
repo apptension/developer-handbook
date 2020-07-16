@@ -4,8 +4,8 @@ SSR & Prerendering
 *   [ ] You are aware of how SSR works and understand its use cases
 *   [ ] You understand the difference between prerendering + cache compared to full SSR
 
-Gatsby
-------
+[Gatsby](/Technical%20Stack/Frontend%20Developer/SSR%20&%20Prerendering.md#gatsby)
+----------------------------------------------------------------------------------
 
 *   [ ] You know how to set up and add plugins to Gatsby
 *   [ ] You understand the difference between gatsby-ssr, gatsby-node, gatsby-config and gatsby-browser files, and you know their roles
@@ -14,19 +14,19 @@ Gatsby
 *   [ ] You know how to dynamically create pages using <code>createPages</code> function
 *   [ ] You know how to introduce a dynamic routing to a page
 
-### gatsby-image
+### [gatsby-image](/Technical%20Stack/Frontend%20Developer/SSR%20&%20Prerendering.md#gatsby-image)
 
 *   [ ] You know how to use gatsby-image to optimise the way we get images
 
-### GraphQL
+### [GraphQL](/Technical%20Stack/Frontend%20Developer/SSR%20&%20Prerendering.md#graph-ql)
 
 *   [ ] You know how to write static queries
 *   [ ] You know how to write page queries
 *   [ ] You know how to use page context variables to parametrize page queries
 *   [ ] You know how to customize GraphQL schemas [:books:](https://www.gatsbyjs.org/docs/schema-customization/)
 
-Netlify prerender
------------------
+[Netlify prerender](/Technical%20Stack/Frontend%20Developer/SSR%20&%20Prerendering.md#netlify-prerender)
+--------------------------------------------------------------------------------------------------------
 
 *   [ ] You know how to configure Netlify prerendering function
 

@@ -1,8 +1,8 @@
 Generic AWS Services
 ====================
 
-VPC
----
+[VPC](/Technical%20Stack/DevOps%20Developer/Generic%20AWS%20Services.md#vpc)
+----------------------------------------------------------------------------
 
 *   [ ] You know how to create a VPC
 *   [ ] You understand the concept of Subnets and know how to create one
@@ -11,37 +11,37 @@ VPC
 *   [ ] You know what a VPC Endpoint is and how to define it
 *   [ ] You know how to create a NAT Gateway
 
-EC2
----
+[EC2](/Technical%20Stack/DevOps%20Developer/Generic%20AWS%20Services.md#ec2)
+----------------------------------------------------------------------------
 
 *   [ ] You know how to create an EC2 instance
 *   [ ] You know how to SSH into an EC2 instance using generated key pair
 *   [ ] You know how to create an Application Load Balancer
 *   [ ] You know how to attach a Security Group to an instance
 
-IAM
----
+[IAM](/Technical%20Stack/DevOps%20Developer/Generic%20AWS%20Services.md#iam)
+----------------------------------------------------------------------------
 
 *   [ ] You know how to create a new user
 *   [ ] You know how to create a new role
 *   [ ] You know how to create a policy documents and attach them to various IAM resources
 *   [ ] You know how to configure a "switch role" method so the user from one account can log into another role from another account
 
-KMS
----
+[KMS](/Technical%20Stack/DevOps%20Developer/Generic%20AWS%20Services.md#kms)
+----------------------------------------------------------------------------
 
 *   [ ] You know how to create a KMS key and assign alias to it
 
-SSM
----
+[SSM](/Technical%20Stack/DevOps%20Developer/Generic%20AWS%20Services.md#ssm)
+----------------------------------------------------------------------------
 
 *   [ ] You know how to create an SSM parameter and encrypt it with a KMS key
 *   [ ] You know how to use SSM parameter in Lambda function
 
-AWS Client libraries
---------------------
+[AWS Client libraries](/Technical%20Stack/DevOps%20Developer/Generic%20AWS%20Services.md#aws-client-libraries)
+--------------------------------------------------------------------------------------------------------------
 
-### aws-cli
+### [aws-cli](/Technical%20Stack/DevOps%20Developer/Generic%20AWS%20Services.md#aws-cli)
 
 *   [ ] You know how to create a local profile using acquired key id and secret to access AWS resources
 

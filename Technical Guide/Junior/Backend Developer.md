@@ -4,212 +4,212 @@ Backend Developer
 Python
 ------
 
-### Frameworks
+### [Frameworks](/Technical%20Stack/Backend%20Developer/Python.md#frameworks)
 
-#### Django
+#### [Django](/Technical%20Stack/Backend%20Developer/Python.md#django)
 
-##### django-fsm
+##### [django-fsm](/Technical%20Stack/Backend%20Developer/Python.md#django-fsm)
 
 *   [ ] You can create State Machine with simple transitions [:books:](https://hashedin.com/blog/a-guide-to-managing-finite-state-machine-using-django-fsm/)
 
-##### django-cacheops
+##### [django-cacheops](/Technical%20Stack/Backend%20Developer/Python.md#django-cacheops)
 
 *   [ ] You know how to configure defaults for models [:books:](https://dizballanze.com/django-project-optimization-part-3/)
 *   [ ] You know how to disable caching for specific query
 
-##### django-notifications-hq
+##### [django-notifications-hq](/Technical%20Stack/Backend%20Developer/Python.md#django-notifications-hq)
 
 *   [ ] You know how to create a notification
 
-##### django-modeltranslation
+##### [django-modeltranslation](/Technical%20Stack/Backend%20Developer/Python.md#django-modeltranslation)
 
 *   [ ] Know how to translate Django models fields
 *   [ ] You know how to setup fallback language
 
-##### django-hashid-field
+##### [django-hashid-field](/Technical%20Stack/Backend%20Developer/Python.md#django-hashid-field)
 
 *   [ ] You have to configure salt and length of the hash
 *   [ ] You know how to use it as a PK
 
-##### django-environ
+##### [django-environ](/Technical%20Stack/Backend%20Developer/Python.md#django-environ)
 
 *   [ ] You know how to define defaults
 *   [ ] How to cast variables, including lists
 *   [ ] You can use helpers like db for connection strings
 
-##### django-reversion
+##### [django-reversion](/Technical%20Stack/Backend%20Developer/Python.md#django-reversion)
 
 *   [ ] How to declare a model with versioned history
 
-##### django-inline-actions
+##### [django-inline-actions](/Technical%20Stack/Backend%20Developer/Python.md#django-inline-actions)
 
 *   [ ] You are able to add your own action in Django admin panel
 *   [ ] You know how to set a custom name for an action
 
-##### Django Enumeration types
+##### [Django Enumeration types](/Technical%20Stack/Backend%20Developer/Python.md#django-enumeration-types)
 
 *   [ ] You know how to declare a type
 
-#### Flask
+#### [Flask](/Technical%20Stack/Backend%20Developer/Python.md#flask)
 
 *   [ ] Define routes with http verbs
 *   [ ] How to setup an app config
 *   [ ] Use with storage, using DB of choice
 *   [ ] How to response with json and use http code constants
 
-#### django-filter
+#### [django-filter](/Technical%20Stack/Backend%20Developer/Python.md#django-filter)
 
 *   [ ] You can create full text search query
 *   [ ] You know how to use ordering query
 *   [ ] You can use it with DRF Generic View
 
-#### Serverless Framework
+#### [Serverless Framework](/Technical%20Stack/Backend%20Developer/Python.md#serverless-framework)
 
 *   [ ] You can create simple HTTP endpoint using API gateway
 *   [ ] You know plugins to handle local development like serverless offline
 
-#### Zappa
+#### [Zappa](/Technical%20Stack/Backend%20Developer/Python.md#zappa)
 
 *   [ ] You know how to scaffold a Django app
 
-#### FastAPI
+#### [FastAPI](/Technical%20Stack/Backend%20Developer/Python.md#fast-api)
 
 *   [ ] You know how to create routing with query params
 *   [ ] You can query DB using one of asynchronous libraries
 *   [ ] You know how to use model in response
 
-### Utils
+### [Utils](/Technical%20Stack/Backend%20Developer/Python.md#utils)
 
-#### pydantic
+#### [pydantic](/Technical%20Stack/Backend%20Developer/Python.md#pydantic)
 
 *   [ ] You know how to declare a model
 *   [ ] You can identify proper field types to model
 
-#### boto3
+#### [boto3](/Technical%20Stack/Backend%20Developer/Python.md#boto3)
 
 *   [ ] You know how to use resources
 *   [ ] You know how credentials are used, along with region
 
-#### django-whitenoise
+#### [django-whitenoise](/Technical%20Stack/Backend%20Developer/Python.md#django-whitenoise)
 
 *   [ ] Know how to setup static files served by a middleware
 
-#### WeasyPrint
+#### [WeasyPrint](/Technical%20Stack/Backend%20Developer/Python.md#weasy-print)
 
 *   [ ] You are able to render a PDF
 
-### ORM
+### [ORM](/Technical%20Stack/Backend%20Developer/Python.md#orm)
 
-#### Django ORM
+#### [Django ORM](/Technical%20Stack/Backend%20Developer/Python.md#django-orm)
 
 *   [ ] You are able to create Models
 
-#### Sequelize
+#### [Sequelize](/Technical%20Stack/Backend%20Developer/Python.md#sequelize)
 
 *   [ ] You can create Model
 
-#### sqlalchemy
+#### [sqlalchemy](/Technical%20Stack/Backend%20Developer/Python.md#sqlalchemy)
 
 *   [ ] You know how to configure a connection
 
-#### pynamodb
+#### [pynamodb](/Technical%20Stack/Backend%20Developer/Python.md#pynamodb)
 
 *   [ ] You know how to create a model
 *   [ ] You know how to fetch by a hash or scan by props
 
-### Task Queues
+### [Task Queues](/Technical%20Stack/Backend%20Developer/Python.md#task-queues)
 
-#### Celery
+#### [Celery](/Technical%20Stack/Backend%20Developer/Python.md#celery)
 
 *   [ ] You are able to create a task
 *   [ ] You know how to use flower
 
-### Template engines
+### [Template engines](/Technical%20Stack/Backend%20Developer/Python.md#template-engines)
 
-#### Jinja
+#### [Jinja](/Technical%20Stack/Backend%20Developer/Python.md#jinja)
 
 *   [ ] You know how to use it to render templates
 
-#### pystashe
+#### [pystashe](/Technical%20Stack/Backend%20Developer/Python.md#pystashe)
 
 *   [ ] You are able to render a template
 
 Testing
 -------
 
-### Python
+### [Python](/Technical%20Stack/Backend%20Developer/Testing.md#python)
 
-#### pytest
+#### [pytest](/Technical%20Stack/Backend%20Developer/Testing.md#pytest)
 
 *   [ ] Can setup a test case with multiple paths using fixtures
 *   [ ] You know how to add plugins
 
-#### factory_boy
+#### [factory_boy](/Technical%20Stack/Backend%20Developer/Testing.md#factory_boy)
 
 *   [ ] You know how to create a factory
 *   [ ] You know how to create related factories
 
-#### faker
+#### [faker](/Technical%20Stack/Backend%20Developer/Testing.md#faker)
 
 *   [ ] You know how to generate faked values using built-in providers
 
-### Node.js
+### [Node.js](/Technical%20Stack/Backend%20Developer/Testing.md#node.js)
 
-#### Jest
+#### [Jest](/Technical%20Stack/Backend%20Developer/Testing.md#jest)
 
 *   [ ] You know how to configure a test env
 *   [ ] You can describe a test using assertions
 
-### Performance Testing
+### [Performance Testing](/Technical%20Stack/Backend%20Developer/Testing.md#performance-testing)
 
-#### Artillery.io
+#### [Artillery.io](/Technical%20Stack/Backend%20Developer/Testing.md#artillery.io)
 
 *   [ ] You can create scenarios
 
 Date & Time
 -----------
 
-### Python
+### [Python](/Technical%20Stack/Backend%20Developer/Date%20&%20Time.md#python)
 
-#### pytz
+#### [pytz](/Technical%20Stack/Backend%20Developer/Date%20&%20Time.md#pytz)
 
 *   [ ] You can convert timezones of datetime objects
 
 Databases
 ---------
 
-### SQL
+### [SQL](/Technical%20Stack/Backend%20Developer/Databases.md#sql)
 
-#### PostgreSQL
+#### [PostgreSQL](/Technical%20Stack/Backend%20Developer/Databases.md#postgre-sql)
 
 *   [ ] You know how to create foreign keys
 *   [ ] You know data types, including JSON
 
-### NoSQL
+### [NoSQL](/Technical%20Stack/Backend%20Developer/Databases.md#no-sql)
 
-#### Firebase Firestore
+#### [Firebase Firestore](/Technical%20Stack/Backend%20Developer/Databases.md#firebase-firestore)
 
 *   [ ] You know how to connect and create a collection
 *   [ ] You can listen for changes using live data updates
 
-#### Redis
+#### [Redis](/Technical%20Stack/Backend%20Developer/Databases.md#redis)
 
 *   [ ] You know what data types are supported
 
-#### ElasticSearch
+#### [ElasticSearch](/Technical%20Stack/Backend%20Developer/Databases.md#elastic-search)
 
 *   [ ] You are able to define an index
 
-#### MongoDB
+#### [MongoDB](/Technical%20Stack/Backend%20Developer/Databases.md#mongo-db)
 
 *   [ ] You know how to structure documents
 
 Javascript
 ----------
 
-### NodeJS
+### [NodeJS](/Technical%20Stack/Backend%20Developer/Javascript.md#node-js)
 
-#### express
+#### [express](/Technical%20Stack/Backend%20Developer/Javascript.md#express)
 
 *   [ ] You know how to create a json response
 *   [ ] You know how to fetch/persist data in DB
@@ -217,22 +217,22 @@ Javascript
 3rd Party
 ---------
 
-### Payment Services
+### [Payment Services](/Technical%20Stack/Backend%20Developer/3rd%20Party.md#payment-services)
 
-#### Stripe
+#### [Stripe](/Technical%20Stack/Backend%20Developer/3rd%20Party.md#stripe)
 
-##### Python
+##### [Python](/Technical%20Stack/Backend%20Developer/3rd%20Party.md#python)
 
 *   [ ] You can create a payment using django-stripe-payments
 
-### Authentication Services
+### [Authentication Services](/Technical%20Stack/Backend%20Developer/3rd%20Party.md#authentication-services)
 
-#### JWT
+#### [JWT](/Technical%20Stack/Backend%20Developer/3rd%20Party.md#jwt)
 
 *   [ ] You how used at least one library to work with JWT
 *   [ ] You can create JWT with custom payload
 
-### Contentful
+### [Contentful](/Technical%20Stack/Backend%20Developer/3rd%20Party.md#contentful)
 
 *   [ ] You can manage webhooks
 
@@ -245,15 +245,15 @@ Development Tools
 Code Analysis
 -------------
 
-### Code Linters
+### [Code Linters](/Technical%20Stack/Backend%20Developer/Code%20Analysis.md#code-linters)
 
-#### flake8
+#### [flake8](/Technical%20Stack/Backend%20Developer/Code%20Analysis.md#flake8)
 
 *   [ ] You know how to configure
 
-### Code Formatters
+### [Code Formatters](/Technical%20Stack/Backend%20Developer/Code%20Analysis.md#code-formatters)
 
-#### black
+#### [black](/Technical%20Stack/Backend%20Developer/Code%20Analysis.md#black)
 
 *   [ ] You are able to adjust defaults
 

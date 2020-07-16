@@ -18,21 +18,21 @@ React is an open-source JavaScript library for building user interfaces. It is m
 *   [ ] You know how to reconcile global state with local component's state
 *   [ ] You know how and when to use portals. [:books:](https://blog.logrocket.com/learn-react-portals-by-example/)
 
-Hooks
------
+[Hooks](/Technical%20Stack/Frontend%20Developer/React.md#hooks)
+---------------------------------------------------------------
 
 *   [ ] You can use <code>useState</code> and <code>useEffect</code> hooks. [:books:](https://www.valentinog.com/blog/hooks/)
 *   [ ] You know how hook dependency array works. [:books:](https://medium.com/better-programming/understanding-the-useeffect-dependency-array-2913da504c44)
 *   [ ] You understand pros and cons of using <code>useCallback</code> hook. [:books:](https://kentcdodds.com/blog/usememo-and-usecallback/)
 *   [ ] You know how to write a custom React hook. [:books:](https://reactjs.org/docs/hooks-custom.html)
 
-### react-use
+### [react-use](/Technical%20Stack/Frontend%20Developer/React.md#react-use)
 
 *   [ ] You know how to incorporate react-use hooks in your component [:books:](https://github.com/streamich/react-use/blob/master/docs/useLocalStorage.md)
 *   [ ] You understand the advantages/disadvantages of the API compared to Lodash
 
-react-dom
----------
+[react-dom](/Technical%20Stack/Frontend%20Developer/React.md#react-dom)
+-----------------------------------------------------------------------
 
 *   [ ] You can explain how React.render function works. [:books:](https://reactjs.org/docs/rendering-elements.html)
 *   [ ] You can explain React.createPortal works. [:books:](https://blog.logrocket.com/learn-react-portals-by-example/)

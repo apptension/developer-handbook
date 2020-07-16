@@ -1,15 +1,15 @@
 Application Servers
 ===================
 
-Nginx
------
+[Nginx](/Technical%20Stack/DevOps%20Developer/Application%20Servers.md#nginx)
+-----------------------------------------------------------------------------
 
 *   [ ] You know configuration file syntax
 *   [ ] You know how to serve static files
 *   [ ] You know how to define a proxy pass to API server
 
-WSGI
-----
+[WSGI](/Technical%20Stack/DevOps%20Developer/Application%20Servers.md#wsgi)
+---------------------------------------------------------------------------
 
 *   [ ] You know how to deploy a wsgi app (django, flask) with one of the application servers
 *   [ ] You know wsgi configuration file syntax

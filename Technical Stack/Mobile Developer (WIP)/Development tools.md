@@ -1,15 +1,15 @@
 Development tools
 =================
 
-React Native Debugger
----------------------
+[React Native Debugger](/Technical%20Stack/Mobile%20Developer%20(WIP)/Development%20tools.md#react-native-debugger)
+-------------------------------------------------------------------------------------------------------------------
 
 *   [ ] You know how to use React/Redux dev tools
 *   [ ] You know how to use Network Inspect
 *   [ ] You know how to use debugger with a real device
 
-Xcode
------
+[Xcode](/Technical%20Stack/Mobile%20Developer%20(WIP)/Development%20tools.md#xcode)
+-----------------------------------------------------------------------------------
 
 *   [ ] You know how to run app on a real device
 *   [ ] You know how to run an app on a simulator
@@ -17,8 +17,8 @@ Xcode
 *   [ ] You know how to change Team, Certificate and Provisioning Profile
 *   [ ] You know how to build app ready for distribution
 
-Android Studio
---------------
+[Android Studio](/Technical%20Stack/Mobile%20Developer%20(WIP)/Development%20tools.md#android-studio)
+-----------------------------------------------------------------------------------------------------
 
 *   [ ] You know how to run app on a real device
 *   [ ] You know how to run an app on an emulator

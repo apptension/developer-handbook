@@ -1,8 +1,8 @@
 Docker Registry
 ===============
 
-AWS ECR
--------
+[AWS ECR](/Technical%20Stack/DevOps%20Developer/Docker%20Registry.md#aws-ecr)
+-----------------------------------------------------------------------------
 
 *   [ ] You know how to create a registry
 *   [ ] You know how to upload a Docker image to a registry

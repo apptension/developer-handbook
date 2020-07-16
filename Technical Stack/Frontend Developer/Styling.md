@@ -1,8 +1,8 @@
 Styling
 =======
 
-CSS
----
+[CSS](/Technical%20Stack/Frontend%20Developer/Styling.md#css)
+-------------------------------------------------------------
 
 *   [ ] You know how to write CSS rules [:books:](https://css-tricks.com/snippets/css/)
 *   [ ] You know how to apply basic styles to elements (colour, size, position, etc)
@@ -12,9 +12,9 @@ CSS
 *   [ ] You know how to add and use webfonts [:books:](https://css-tricks.com/snippets/css/using-font-face/)
 *   [ ] You know how to display different images depending on the screen pixel density ratio [:books:](https://css-tricks.com/snippets/css/retina-display-media-query/)
 
-### CSS in JS
+### [CSS in JS](/Technical%20Stack/Frontend%20Developer/Styling.md#css-in-js)
 
-#### styled-components
+#### [styled-components](/Technical%20Stack/Frontend%20Developer/Styling.md#styled-components)
 
 *   [ ] You can apply global styles [:books:](https://www.robinwieruch.de/react-styled-components)
 *   [ ] You can create a styled component for a primitive element [:books:](https://styled-components.com/docs/basics#getting-started)
@@ -22,12 +22,12 @@ CSS
 *   [ ] You can implement media queries [:books:](https://medium.com/@samuelresua/easy-media-queries-in-styled-components-690b78f50053)
 *   [ ] You can apply styles to 3rd party components that only support styling by classnames
 
-#### styled-theming
+#### [styled-theming](/Technical%20Stack/Frontend%20Developer/Styling.md#styled-theming)
 
 *   [ ] You know how to use theme modes to apply different themes based on the context [:books:](https://medium.com/@rossbulat/react-dark-mode-with-styled-theming-and-context-57557de6400)
 *   [ ] You know how to use theme variants to apply different styles to a component based on the context [:books:](https://styled-components.com/docs/advanced)
 
-### Flexbox
+### [Flexbox](/Technical%20Stack/Frontend%20Developer/Styling.md#flexbox)
 
 You can learn how to style HTML elements with flexbox by reading this awesome guide [https://css-tricks.com/snippets/css/a-guide-to-flexbox/](https://css-tricks.com/snippets/css/a-guide-to-flexbox/)
 
@@ -38,33 +38,33 @@ You can learn how to style HTML elements with flexbox by reading this awesome gu
 *   [ ] You understand variations of the shorthand syntax between browsers
 *   [ ] You are aware of the pitfalls of using flexbox and know to work around it [:books:](https://github.com/philipwalton/flexbugs)
 
-### Reset libraries
+### [Reset libraries](/Technical%20Stack/Frontend%20Developer/Styling.md#reset-libraries)
 
-#### normalize.css
+#### [normalize.css](/Technical%20Stack/Frontend%20Developer/Styling.md#normalize.css)
 
 *   [ ] You can explain benefits of the library
 *   [ ] You know how to use this library in a project
 
-### CSS Grid
+### [CSS Grid](/Technical%20Stack/Frontend%20Developer/Styling.md#css-grid)
 
 *   [ ] You know how to divide a web page to rows and columns
 *   [ ] You can position elements in a grid
 *   [ ] You can define and use named grid areas
 *   [ ] You can align items in grid cells
 
-UI Kits
--------
+[UI Kits](/Technical%20Stack/Frontend%20Developer/Styling.md#ui-kits)
+---------------------------------------------------------------------
 
 *   [ ] You understand basics of at least one of the UI Kit libraries [:books:](https://material-ui.com/getting-started/installation/)
 *   [ ] You have used one of the UI Kit libraries in a project
 
-Icons
------
+[Icons](/Technical%20Stack/Frontend%20Developer/Styling.md#icons)
+-----------------------------------------------------------------
 
 *   [ ] You used at least one of the icon libraries in a project
 
-Emails
-------
+[Emails](/Technical%20Stack/Frontend%20Developer/Styling.md#emails)
+-------------------------------------------------------------------
 
 *   [ ] You understand the emails engine support for HTML elements and CSS styles [:books:](https://templates.mailchimp.com/resources/email-client-css-support/)
 *   [ ] You know how to write CSS in order to be interpreted by email engines

@@ -4,8 +4,8 @@ SEO
 *   [ ] You understand HTML semantics and use them properly
 *   [ ] You generate page's content following best SEO practices
 
-react-helmet
-------------
+[react-helmet](/Technical%20Stack/Frontend%20Developer/SEO.md#react-helmet)
+---------------------------------------------------------------------------
 
 *   [ ] You can configure SEO meta tags, OG tags and page descriptions
 *   [ ] You're able to generate descriptions based on content

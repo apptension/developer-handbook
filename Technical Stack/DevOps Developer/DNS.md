@@ -8,15 +8,15 @@ DNS
 *   [ ] You know how to switch NS from default ones set by DNR to another provider
 *   [ ] You know what a MX record is and when to use it
 
-DNS Services
-------------
+[DNS Services](/Technical%20Stack/DevOps%20Developer/DNS.md#dns-services)
+-------------------------------------------------------------------------
 
-### Route 53
+### [Route 53](/Technical%20Stack/DevOps%20Developer/DNS.md#route-53)
 
 *   [ ] You know how to define a new hosted zone
 *   [ ] You can create DNS records using AWS CLI
 
-### Cloudflare
+### [Cloudflare](/Technical%20Stack/DevOps%20Developer/DNS.md#cloudflare)
 
 *   [ ] You know how to define a new DNS zone
 *   [ ] You can create DNS records using Cloudflare API

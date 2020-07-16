@@ -4,8 +4,8 @@ Functional programming
 *   [ ] You know the key concepts of functional programming: pure functions, same input -> same output, no side-effects [:books:](https://thecodeboss.dev/2016/12/core-functional-programming-concepts/)
 *   [ ] You know and uses concepts such as immutability, first-class functions, referential transparency and recursion
 
-ramda
------
+[ramda](/Technical%20Stack/Frontend%20Developer/Functional%20programming.md#ramda)
+----------------------------------------------------------------------------------
 
 *   [ ] You know how to curry a function [:books:](https://www.educative.io/courses/functional-programming-patterns-with-ramdajs/xV9vlmDPJAE)
 *   [ ] You know how to compose a function from other functions

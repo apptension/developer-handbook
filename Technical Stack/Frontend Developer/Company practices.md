@@ -1,23 +1,23 @@
 Company practices
 =================
 
-Security
---------
+[Security](/Technical%20Stack/Frontend%20Developer/Company%20practices.md#security)
+-----------------------------------------------------------------------------------
 
-### Keeper Security
+### [Keeper Security](/Technical%20Stack/Frontend%20Developer/Company%20practices.md#keeper-security)
 
 *   [ ] You know how to share secret values with other employees. [:books:](https://docs.keeper.io/user-guides/)
 
-### aws-vault
+### [aws-vault](/Technical%20Stack/Frontend%20Developer/Company%20practices.md#aws-vault)
 
 *   [ ] You know how to use the command line to switch between users
 
-### Onetimesecret
+### [Onetimesecret](/Technical%20Stack/Frontend%20Developer/Company%20practices.md#onetimesecret)
 
 *   [ ] You know how to share secret values externally [:books:](https://support.painchek.com/hc/en-us/articles/360038504674-How-to-use-One-Time-Secret)
 
-Git
----
+[Git](/Technical%20Stack/Frontend%20Developer/Company%20practices.md#git)
+-------------------------------------------------------------------------
 
 *   [ ] You create pull requests with proper name and description [:books:](https://medium.com/@hugooodias/the-anatomy-of-a-perfect-pull-request-567382bb6067)
 *   [ ] You squash merge your pull requests [:books:](https://blog.pairworking.com/why-you-should-care-about-squash-and-merge-in-git-675856bf66b0)
@@ -28,39 +28,39 @@ Git
 *   [ ] You add proper label in pull requests
 *   [ ] You create your branches under the proper folder (feature, fix, hotfix)
 
-### GitHub
+### [GitHub](/Technical%20Stack/Frontend%20Developer/Company%20practices.md#git-hub)
 
 *   [ ] You know how to create and reference issues
 *   [ ] You know how to verify when a build check failed
 *   [ ] You know how to create GitHub Wiki pages
 
-### Bitbucket
+### [Bitbucket](/Technical%20Stack/Frontend%20Developer/Company%20practices.md#bitbucket)
 
 *   [ ] You know how to verify when a build check failed
 *   [ ] You know how to reference a Jira ticket in your commit
 
-Communication
--------------
+[Communication](/Technical%20Stack/Frontend%20Developer/Company%20practices.md#communication)
+---------------------------------------------------------------------------------------------
 
-### Slack
+### [Slack](/Technical%20Stack/Frontend%20Developer/Company%20practices.md#slack)
 
 *   [ ] You know how to create groups and channels
 *   [ ] You use Slack statuses in line with company policy (remote working, vacationing, in a meeting, etc)
 
-### Confluence
+### [Confluence](/Technical%20Stack/Frontend%20Developer/Company%20practices.md#confluence)
 
 *   [ ] You know how to create Confluence pages
 
-### Small Improvements
+### [Small Improvements](/Technical%20Stack/Frontend%20Developer/Company%20practices.md#small-improvements)
 
 *   [ ] You know how to create goals and mark them as complete
 *   [ ] You know how to give praise and add talk topics to a 1:1 meeting
 
-### Jira
+### [Jira](/Technical%20Stack/Frontend%20Developer/Company%20practices.md#jira)
 
 *   [ ] You know how to create tickets and write comments
 
-### Email
+### [Email](/Technical%20Stack/Frontend%20Developer/Company%20practices.md#email)
 
 *   [ ] You can configure email signatures
 *   [ ] You can configure local email client

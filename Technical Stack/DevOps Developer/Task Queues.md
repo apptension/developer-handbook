@@ -1,8 +1,8 @@
 Task Queues
 ===========
 
-Celery
-------
+[Celery](/Technical%20Stack/DevOps%20Developer/Task%20Queues.md#celery)
+-----------------------------------------------------------------------
 
 *   [ ] You can choose one of the message brokers and configure Celery to use it
 *   [ ] You can deploy Celery workers to at least one platform of your choice

@@ -1,8 +1,8 @@
 Authentication
 ==============
 
-@react-native-community/google-signin
--------------------------------------
+[@react-native-community/google-signin](/Technical%20Stack/Mobile%20Developer%20(WIP)/Authentication.md#@react-native-community/google-signin)
+----------------------------------------------------------------------------------------------------------------------------------------------
 
 *   [ ] You can configure Google SignIn
 *   [ ] You can handle sign in process
@@ -11,22 +11,22 @@ Authentication
 *   [ ] You can use Google SignIn button
 *   [ ] You know how to define sign in scopes
 
-react-native-fbsdk
-------------------
+[react-native-fbsdk](/Technical%20Stack/Mobile%20Developer%20(WIP)/Authentication.md#react-native-fbsdk)
+--------------------------------------------------------------------------------------------------------
 
 *   [ ] You can configure FB sdk
 *   [ ] You know how to login user with correct permissions
 *   [ ] You know how to revoke access and logout
 
-@react-native-firebase/auth
----------------------------
+[@react-native-firebase/auth](/Technical%20Stack/Mobile%20Developer%20(WIP)/Authentication.md#@react-native-firebase/auth)
+--------------------------------------------------------------------------------------------------------------------------
 
 *   [ ] You know how to sign in anonymously
 *   [ ] You know how to sign in using e-mail and password
 *   [ ] You know how to sign out
 
-@invertase/react-native-apple-authentication
---------------------------------------------
+[@invertase/react-native-apple-authentication](/Technical%20Stack/Mobile%20Developer%20(WIP)/Authentication.md#@invertase/react-native-apple-authentication)
+------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 *   [ ] You know how to login user with correct permissions
 *   [ ] You know how to listen on credentials change

@@ -1,26 +1,26 @@
 Visualizations
 ==============
 
-Charting
---------
+[Charting](/Technical%20Stack/Frontend%20Developer/Visualizations.md#charting)
+------------------------------------------------------------------------------
 
 You don't need to know all of the charting libraries. One is enough, but make sure to master it!  
 
 *   [ ] You used at least one charting library in a project
 *   [ ] You implemented custom interactive charts using one of the charting libraries
 
-Canvas
-------
+[Canvas](/Technical%20Stack/Frontend%20Developer/Visualizations.md#canvas)
+--------------------------------------------------------------------------
 
-SVG
----
+[SVG](/Technical%20Stack/Frontend%20Developer/Visualizations.md#svg)
+--------------------------------------------------------------------
 
 *   [ ] D3.js
 *   [ ] react-d3
 *   [ ] svgr
 
-WebGL
------
+[WebGL](/Technical%20Stack/Frontend%20Developer/Visualizations.md#web-gl)
+-------------------------------------------------------------------------
 
 *   [ ] three.js
 *   [ ] babylon.js

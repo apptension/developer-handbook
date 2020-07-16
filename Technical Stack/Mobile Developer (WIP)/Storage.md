@@ -1,14 +1,14 @@
 Storage
 =======
 
-react-native-keychain
----------------------
+[react-native-keychain](/Technical%20Stack/Mobile%20Developer%20(WIP)/Storage.md#react-native-keychain)
+-------------------------------------------------------------------------------------------------------
 
 *   [ ] You know how to store sensitive info like certificates, tokens, passwords
 *   [ ] You know how to use biometry
 
-@react-native-community/async-storage
--------------------------------------
+[@react-native-community/async-storage](/Technical%20Stack/Mobile%20Developer%20(WIP)/Storage.md#@react-native-community/async-storage)
+---------------------------------------------------------------------------------------------------------------------------------------
 
 *   [ ] You know how to read and write async storage data
 *   [ ] You know how to use async storage with redux-persist

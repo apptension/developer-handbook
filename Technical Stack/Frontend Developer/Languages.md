@@ -1,8 +1,8 @@
 Languages
 =========
 
-JavaScript
-----------
+[JavaScript](/Technical%20Stack/Frontend%20Developer/Languages.md#java-script)
+------------------------------------------------------------------------------
 
 *   [ ] You know javascript
 

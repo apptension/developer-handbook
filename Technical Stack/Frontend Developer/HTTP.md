@@ -1,12 +1,12 @@
 HTTP
 ====
 
-Requests
---------
+[Requests](/Technical%20Stack/Frontend%20Developer/HTTP.md#requests)
+--------------------------------------------------------------------
 
 *   [ ] You can explain what CORS is and understand its shortcomings
 
-### Axios
+### [Axios](/Technical%20Stack/Frontend%20Developer/HTTP.md#axios)
 
 *   [ ] You know how to use axios to send HTTP request to an API endpoint [:books:](https://github.com/apptension/cra-template-apptension/blob/master/template/src/modules/users/users.sagas.ts)
 *   [ ] You know how to handle errors returned in HTTP response [:books:](https://www.intricatecloud.io/2020/03/how-to-handle-api-errors-in-your-web-app-using-axios/)
@@ -17,37 +17,37 @@ Requests
 *   [ ] You know how to use interceptors
 *   [ ] You know how to cancel a request
 
-### fetch
+### [fetch](/Technical%20Stack/Frontend%20Developer/HTTP.md#fetch)
 
 *   [ ] You know how to create an HTTP request using native <code>fetch</code> [:books:](https://developer.mozilla.org/en-US/docs/Web/API/Fetch_API/Using_Fetch)
 *   [ ] You know how to handle errors returned in HTTP response [:books:](https://levelup.gitconnected.com/the-definite-guide-to-handling-errors-gracefully-in-javascript-58424d9c60e6)
 *   [ ] You know how to cancel a request
 
-Websockets
-----------
+[Websockets](/Technical%20Stack/Frontend%20Developer/HTTP.md#websockets)
+------------------------------------------------------------------------
 
 *   [ ] You know how to connect to a websocket connection using either a native configuration or an existing library
 
-Tools
------
+[Tools](/Technical%20Stack/Frontend%20Developer/HTTP.md#tools)
+--------------------------------------------------------------
 
-### humps
+### [humps](/Technical%20Stack/Frontend%20Developer/HTTP.md#humps)
 
 *   [ ] You know how to use humps to camelize or decamelize strings and object's keys
 *   [ ] You know how to split strings and object's keys containing numerical values
 
-### query-string
+### [query-string](/Technical%20Stack/Frontend%20Developer/HTTP.md#query-string)
 
 *   [ ] You know how to parse URLs
 *   [ ] You know how to create a query string out of an object
 
-### normalizr
+### [normalizr](/Technical%20Stack/Frontend%20Developer/HTTP.md#normalizr)
 
 *   [ ] You know how to define an object entity schema
 *   [ ] You know how to normalize data returned from server
 *   [ ] You can explain what are the benefits of using normalizr library
 
-### http-status-codes
+### [http-status-codes](/Technical%20Stack/Frontend%20Developer/HTTP.md#http-status-codes)
 
 *   [ ] You use descriptive status codes instead of number literals
 

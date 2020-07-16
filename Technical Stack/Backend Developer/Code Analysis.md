@@ -1,32 +1,32 @@
 Code Analysis
 =============
 
-Profilers
----------
+[Profilers](/Technical%20Stack/Backend%20Developer/Code%20Analysis.md#profilers)
+--------------------------------------------------------------------------------
 
-### Google Cloud Profiler
+### [Google Cloud Profiler](/Technical%20Stack/Backend%20Developer/Code%20Analysis.md#google-cloud-profiler)
 
 *   [ ] You are able to read flame graph
 
-### cProfiler
+### [cProfiler](/Technical%20Stack/Backend%20Developer/Code%20Analysis.md#c-profiler)
 
 *   [ ] You know how to read results table, including cumulative time
 
-Code Linters
-------------
+[Code Linters](/Technical%20Stack/Backend%20Developer/Code%20Analysis.md#code-linters)
+--------------------------------------------------------------------------------------
 
-### flake8
+### [flake8](/Technical%20Stack/Backend%20Developer/Code%20Analysis.md#flake8)
 
 *   [ ] You know how to configure
 
-### pylint
+### [pylint](/Technical%20Stack/Backend%20Developer/Code%20Analysis.md#pylint)
 
 *   [ ] You know how to write custom rule
 
-Code Formatters
----------------
+[Code Formatters](/Technical%20Stack/Backend%20Developer/Code%20Analysis.md#code-formatters)
+--------------------------------------------------------------------------------------------
 
-### black
+### [black](/Technical%20Stack/Backend%20Developer/Code%20Analysis.md#black)
 
 *   [ ] You are able to adjust defaults
 

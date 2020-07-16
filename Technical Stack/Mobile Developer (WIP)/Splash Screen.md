@@ -1,8 +1,8 @@
 Splash Screen
 =============
 
-react-native-splash-screen
---------------------------
+[react-native-splash-screen](/Technical%20Stack/Mobile%20Developer%20(WIP)/Splash%20Screen.md#react-native-splash-screen)
+-------------------------------------------------------------------------------------------------------------------------
 
 *   [ ] You know how to correctly configure splash screen showing/hiding
 *   [ ] You know what type of images you should use to display splash screen correctly with a proper image fill type

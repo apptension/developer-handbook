@@ -1,25 +1,25 @@
 Misc
 ====
 
-Service Workers
----------------
+[Service Workers](/Technical%20Stack/Frontend%20Developer/Misc.md#service-workers)
+----------------------------------------------------------------------------------
 
 *   [ ] You understand what Service Workers are and the APIs they allow us to interact among different browsers
 *   [ ] You can choose and install a SW plugin
 *   [ ] You understand the challenges of updating a website that has a service worker cache enabled
 *   [ ] You know how to create a service worker manually
 
-Progressive Web Apps
---------------------
+[Progressive Web Apps](/Technical%20Stack/Frontend%20Developer/Misc.md#progressive-web-apps)
+--------------------------------------------------------------------------------------------
 
 *   [ ] You understand the usage of PWA and can recommend different modes depending on project needs
 *   [ ] You're able to create a manifest yourself or generate one using a plugin
 *   [ ] You are aware of the pros and cons and the differences between browsers
 
-Drag & Drop
------------
+[Drag & Drop](/Technical%20Stack/Frontend%20Developer/Misc.md#drag-&-drop)
+--------------------------------------------------------------------------
 
-### react-dnd
+### [react-dnd](/Technical%20Stack/Frontend%20Developer/Misc.md#react-dnd)
 
 *   [ ] You can order a list of elements
 *   [ ] You can drag and drop elements in specific areas
@@ -27,8 +27,8 @@ Drag & Drop
 *   [ ] You can add validations on dragging and dropping elements
 *   [ ] You can specify the proper backend to support mobiles and desktops
 
-WYSIWYG Text editors
---------------------
+[WYSIWYG Text editors](/Technical%20Stack/Frontend%20Developer/Misc.md#wysiwyg-text-editors)
+--------------------------------------------------------------------------------------------
 
 *   [ ] You have used one of the text editor libraries
 

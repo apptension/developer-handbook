@@ -1,8 +1,8 @@
 Sharing
 =======
 
-react-native-share
-------------------
+[react-native-share](/Technical%20Stack/Mobile%20Developer%20(WIP)/Sharing.md#react-native-share)
+-------------------------------------------------------------------------------------------------
 
 *   [ ] You know how to share content
 *   [ ] You know how to share images

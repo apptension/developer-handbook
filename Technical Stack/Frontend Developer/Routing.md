@@ -1,8 +1,8 @@
 Routing
 =======
 
-react-router
-------------
+[react-router](/Technical%20Stack/Frontend%20Developer/Routing.md#react-router)
+-------------------------------------------------------------------------------
 
 *   [ ] You can create a simple route structure using Switch and Route [:books:](https://reacttraining.com/blog/react-router-v5-1/)
 *   [ ] You know how to add parameters to a route, and make them required or optional [:books:](https://scotch.io/courses/using-react-router-4/route-params)
@@ -15,8 +15,8 @@ react-router
 *   [ ] You know to how separate private routes from public routes
 *   [ ] You know how to securely render routes depending on the user's permission
 
-react-router-dom
-----------------
+[react-router-dom](/Technical%20Stack/Frontend%20Developer/Routing.md#react-router-dom)
+---------------------------------------------------------------------------------------
 
 *   [ ] You know how to use basic components - Link, NavLink [:books:](https://www.codementor.io/@packt/using-the-link-and-navlink-components-to-navigate-to-a-route-rieqipp42)
 

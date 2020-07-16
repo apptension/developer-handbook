@@ -1,15 +1,15 @@
 Internationalization
 ====================
 
-react-Intl
-----------
+[react-Intl](/Technical%20Stack/Frontend%20Developer/Internationalization.md#react-intl)
+----------------------------------------------------------------------------------------
 
 *   [ ] You know and use React-intl components [:books:](https://www.newline.co/@dmitryrogozhny/quick-introduction-to-internationalization-in-react-with-react-intl--13b17de9)
 *   [ ] You know how to create messages files using defineMessage api [:books:](https://github.com/apptension/cra-template-apptension/blob/master/template/src/routes/home/home.messages.ts)
 *   [ ] You know how to use <code>useIntl</code> hook
 
-format.js
----------
+[format.js](/Technical%20Stack/Frontend%20Developer/Internationalization.md#format.js)
+--------------------------------------------------------------------------------------
 
 *   [ ] You know how to format a message passing values and date-time stamps
 *   [ ] You know how to pluralize messages based on a passed value

@@ -1,8 +1,8 @@
 Animations
 ==========
 
-react-native-reanimated
------------------------
+[react-native-reanimated](/Technical%20Stack/Mobile%20Developer%20(WIP)/Animations.md#react-native-reanimated)
+--------------------------------------------------------------------------------------------------------------
 
 *   [ ] You know how to use Value
 *   [ ] You know how to run timing animation with easing
@@ -15,8 +15,8 @@ react-native-reanimated
 *   [ ] You know how to use clock methods
 *   [ ] You can create animation block with conditions and calculations
 
-lottie-react-native
--------------------
+[lottie-react-native](/Technical%20Stack/Mobile%20Developer%20(WIP)/Animations.md#lottie-react-native)
+------------------------------------------------------------------------------------------------------
 
 *   [ ] You know how to correctly configure library and import json animations
 *   [ ] You know how to run animation using Animated.Value

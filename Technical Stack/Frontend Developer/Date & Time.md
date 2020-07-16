@@ -5,8 +5,8 @@ Date & Time
 *   [ ] You know what ISO 8601 standard format is and how to parse it to a date object [:books:](https://www.iso.org/iso-8601-date-and-time-format.html)
 *   [ ] You know what unix timestamp is and how to parse it to a date object [:books:](https://stackoverflow.com/questions/20822821/what-is-a-unix-timestamp-and-why-use-it)
 
-date-fns
---------
+[date-fns](/Technical%20Stack/Frontend%20Developer/Date%20&%20Time.md#date-fns)
+-------------------------------------------------------------------------------
 
 *   [ ] You know how to create a date-fns date object for specific date [:books:](https://date-fns.org/v2.0.0-alpha.7/docs/FP-Guide#usage)
 *   [ ] You know how to format and display a date object using standard format strings [:books:](https://www.digitalocean.com/community/tutorials/js-date-fns)

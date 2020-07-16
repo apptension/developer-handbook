@@ -1,8 +1,8 @@
 Deep linking
 ============
 
-@react-native-firebase/dynamic-links
-------------------------------------
+[@react-native-firebase/dynamic-links](/Technical%20Stack/Mobile%20Developer%20(WIP)/Deep%20linking.md#@react-native-firebase/dynamic-links)
+--------------------------------------------------------------------------------------------------------------------------------------------
 
 *   [ ] You know how to correctly configure Dynamic Links in Firebase Console
 *   [ ] You know how to configure Dynamic Links in iOS and Android app

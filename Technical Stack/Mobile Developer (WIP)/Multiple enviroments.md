@@ -1,14 +1,14 @@
 Multiple enviroments
 ====================
 
-react-native-config
--------------------
+[react-native-config](/Technical%20Stack/Mobile%20Developer%20(WIP)/Multiple%20enviroments.md#react-native-config)
+------------------------------------------------------------------------------------------------------------------
 
 *   [ ] You know how to configure app to use .env file
 *   [ ] You know how to overwrite enviroment variables via App Center scripts
 
-Xcode
------
+[Xcode](/Technical%20Stack/Mobile%20Developer%20(WIP)/Multiple%20enviroments.md#xcode)
+--------------------------------------------------------------------------------------
 
 *   [ ] You know how to manage schemas
 *   [ ] You know how to use proper certificate and provisioning profile

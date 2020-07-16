@@ -1,14 +1,14 @@
 CDN
 ===
 
-AWS CloudFront
---------------
+[AWS CloudFront](/Technical%20Stack/DevOps%20Developer/CDN.md#aws-cloud-front)
+------------------------------------------------------------------------------
 
 *   [ ] You know how to create a CloudFront distribution
 *   [ ] You know how to add a behaviour pointing to an S3 website bucket
 
-Netlify
--------
+[Netlify](/Technical%20Stack/DevOps%20Developer/CDN.md#netlify)
+---------------------------------------------------------------
 
 *   [ ] You know how to create an app
 *   [ ] You know how to create a custom domain for an app

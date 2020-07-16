@@ -1,32 +1,32 @@
 3rd Party
 =========
 
-Payment Services
-----------------
+[Payment Services](/Technical%20Stack/Backend%20Developer/3rd%20Party.md#payment-services)
+------------------------------------------------------------------------------------------
 
-### Stripe
+### [Stripe](/Technical%20Stack/Backend%20Developer/3rd%20Party.md#stripe)
 
-#### Python
+#### [Python](/Technical%20Stack/Backend%20Developer/3rd%20Party.md#python)
 
 *   [ ] You can create a payment using django-stripe-payments
 *   [ ] You know how to do a refund
 
-Authentication Services
------------------------
+[Authentication Services](/Technical%20Stack/Backend%20Developer/3rd%20Party.md#authentication-services)
+--------------------------------------------------------------------------------------------------------
 
-### JWT
+### [JWT](/Technical%20Stack/Backend%20Developer/3rd%20Party.md#jwt)
 
 *   [ ] You how used at least one library to work with JWT
 *   [ ] You can create JWT with custom payload
 
-#### JWT Libraries
+#### [JWT Libraries](/Technical%20Stack/Backend%20Developer/3rd%20Party.md#jwt-libraries)
 
 *   [ ] pyjwt
 *   [ ] python-jose
 *   [ ] python-jwt
 
-Contentful
-----------
+[Contentful](/Technical%20Stack/Backend%20Developer/3rd%20Party.md#contentful)
+------------------------------------------------------------------------------
 
 *   [ ] You can manage webhooks
 *   [ ] You can upload models from CLI

@@ -1,22 +1,22 @@
 Continuous Integration
 ======================
 
-Bitbucket Pipelines
--------------------
+[Bitbucket Pipelines](/Technical%20Stack/DevOps%20Developer/Continuous%20Integration.md#bitbucket-pipelines)
+------------------------------------------------------------------------------------------------------------
 
 *   [ ] You know how to turn Bitbucket pipelines on in a repository
 *   [ ] You know how to run a pipeline execution after a commit or a tag push
 *   [ ] You know how to define environmental variables that will be available to a build script
 
-Github Actions
---------------
+[Github Actions](/Technical%20Stack/DevOps%20Developer/Continuous%20Integration.md#github-actions)
+--------------------------------------------------------------------------------------------------
 
 *   [ ] You know how to define a workflow
 *   [ ] You know how to run a workflow execution after a commit or a tag push
 *   [ ] You know how to define environmental variables that will be available to a build script
 
-AWS CodePipeline
-----------------
+[AWS CodePipeline](/Technical%20Stack/DevOps%20Developer/Continuous%20Integration.md#aws-code-pipeline)
+-------------------------------------------------------------------------------------------------------
 
 *   [ ] You know how to create a CodePipeline
 *   [ ] You know how to define a build step using CodeBuild

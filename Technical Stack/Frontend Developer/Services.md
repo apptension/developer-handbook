@@ -1,71 +1,71 @@
 Services
 ========
 
-Payments
---------
+[Payments](/Technical%20Stack/Frontend%20Developer/Services.md#payments)
+------------------------------------------------------------------------
 
 *   [ ] You understand and can explain what PCI Compliance is
 *   [ ] You can advise the client which SAQ document they need to fill out based on the chosen payment method and library
 *   [ ] You have implemented payment logic in at least one project
 
-### Stripe
+### [Stripe](/Technical%20Stack/Frontend%20Developer/Services.md#stripe)
 
 *   [ ] You can describe complete flow of a payment including the backend part
 
-#### @stripe/react-stripe-js
+#### [@stripe/react-stripe-js](/Technical%20Stack/Frontend%20Developer/Services.md#@stripe/react-stripe-js)
 
 *   [ ] You can install and configure the library in a project
 *   [ ] You can implement a credit card payment form using Stripe Elements
 *   [ ] You can implement Apple Pay payment
 *   [ ] You can implement Google Pay payment
 
-#### @stripe/stripe-js
+#### [@stripe/stripe-js](/Technical%20Stack/Frontend%20Developer/Services.md#@stripe/stripe-js)
 
 *   [ ] You can install and configure the library in a project
 *   [ ] You can implement a credit card payment form using Stripe Elements
 *   [ ] You can implement Apple Pay payment
 *   [ ] You can implement Google Pay payment
 
-Functions as a Service
-----------------------
+[Functions as a Service](/Technical%20Stack/Frontend%20Developer/Services.md#functions-as-a-service)
+----------------------------------------------------------------------------------------------------
 
-### Netlify Functions
+### [Netlify Functions](/Technical%20Stack/Frontend%20Developer/Services.md#netlify-functions)
 
 *   [ ] You know how to create and publish simple Netlify Functions implemented in NodeJS
 *   [ ] You know how to configure Netfliy to deploy your function to a custom AWS account
 
-Hosting
--------
+[Hosting](/Technical%20Stack/Frontend%20Developer/Services.md#hosting)
+----------------------------------------------------------------------
 
 *   [ ] You can use at least one Cloud Service to deploy the web app for public access
 
-### Netlify
+### [Netlify](/Technical%20Stack/Frontend%20Developer/Services.md#netlify)
 
 *   [ ] You know how to configure and deploy the app to Netlify
 *   [ ] You know how to configure Netlify DNS to set custom domain for your app
 
-Search engines
---------------
+[Search engines](/Technical%20Stack/Frontend%20Developer/Services.md#search-engines)
+------------------------------------------------------------------------------------
 
 *   [ ] You know at least one library which implements advanced search logic in structured documents
 
-Analytics
----------
+[Analytics](/Technical%20Stack/Frontend%20Developer/Services.md#analytics)
+--------------------------------------------------------------------------
 
-### Google Tag Manager
+### [Google Tag Manager](/Technical%20Stack/Frontend%20Developer/Services.md#google-tag-manager)
 
 *   [ ] You know how to configure GTM to track pages and events
 
-### Google Analytics
+### [Google Analytics](/Technical%20Stack/Frontend%20Developer/Services.md#google-analytics)
 
 *   [ ] You know how to configure google analytics to track pages
 *   [ ] You know how to configure events and set category, action and labels
 *   [ ] You know how to configure user properties
 
-Notifications
--------------
+[Notifications](/Technical%20Stack/Frontend%20Developer/Services.md#notifications)
+----------------------------------------------------------------------------------
 
-### Firebase Cloud Messaging
+### [Firebase Cloud Messaging](/Technical%20Stack/Frontend%20Developer/Services.md#firebase-cloud-messaging)
 
 *   [ ] You know how to configure FCM in a web app project
 *   [ ] You know how to listen to message events

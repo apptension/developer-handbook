@@ -1,8 +1,8 @@
 Native modules
 ==============
 
-Bridging
---------
+[Bridging](/Technical%20Stack/Mobile%20Developer%20(WIP)/Native%20modules.md#bridging)
+--------------------------------------------------------------------------------------
 
 [https://reactnative.dev/docs/native-modules-ios](https://reactnative.dev/docs/native-modules-ios)
 

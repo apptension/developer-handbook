@@ -1,14 +1,14 @@
 Date & Time
 ===========
 
-Python
-------
+[Python](/Technical%20Stack/Backend%20Developer/Date%20&%20Time.md#python)
+--------------------------------------------------------------------------
 
-### python-dateutil
+### [python-dateutil](/Technical%20Stack/Backend%20Developer/Date%20&%20Time.md#python-dateutil)
 
 *   [ ] You are able to create relative datetime objects
 
-### pytz
+### [pytz](/Technical%20Stack/Backend%20Developer/Date%20&%20Time.md#pytz)
 
 *   [ ] You can convert timezones of datetime objects
 

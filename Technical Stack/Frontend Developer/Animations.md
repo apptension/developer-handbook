@@ -1,42 +1,42 @@
 Animations
 ==========
 
-React Animation libraries
--------------------------
+[React Animation libraries](/Technical%20Stack/Frontend%20Developer/Animations.md#react-animation-libraries)
+------------------------------------------------------------------------------------------------------------
 
 *   [ ] You used and know well at least one of the react animation libraries
 
-### react-transition-group
+### [react-transition-group](/Technical%20Stack/Frontend%20Developer/Animations.md#react-transition-group)
 
 *   [ ] You know how to apply CSS or inline styles to add transition between components being rendered [:books:](https://alligator.io/react/react-transition-group/)
 *   [ ] You understand the 4 states of react-transition-group
 *   [ ] You can animate elements after application's state changes
 
-Animation Libraries
--------------------
+[Animation Libraries](/Technical%20Stack/Frontend%20Developer/Animations.md#animation-libraries)
+------------------------------------------------------------------------------------------------
 
 *   [ ] You know well at least one of the animation libraries
 *   [ ] You can implement complex animations with multiple phases
 
-CSS Animations
---------------
+[CSS Animations](/Technical%20Stack/Frontend%20Developer/Animations.md#css-animations)
+--------------------------------------------------------------------------------------
 
 *   [ ] You know how write CSS animations - transitions, keyframes [:books:](https://www.youtube.com/watch?v=zHUpx90NerM)
 *   [ ] You know what properties to add in order to provide the best browser performance in an animation
 
-Common effects
---------------
+[Common effects](/Technical%20Stack/Frontend%20Developer/Animations.md#common-effects)
+--------------------------------------------------------------------------------------
 
-### Scroll animations
+### [Scroll animations](/Technical%20Stack/Frontend%20Developer/Animations.md#scroll-animations)
 
 *   [ ] You know how to animate elements after they appear in the viewport
 
-### Parallax animations
+### [Parallax animations](/Technical%20Stack/Frontend%20Developer/Animations.md#parallax-animations)
 
 *   [ ] You know what parallax animation is and can implement it either manually or using one of the available libraries
 
-Techniques
-----------
+[Techniques](/Technical%20Stack/Frontend%20Developer/Animations.md#techniques)
+------------------------------------------------------------------------------
 
 * * *
 

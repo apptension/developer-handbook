@@ -1,26 +1,26 @@
 Apple Developer
 ===============
 
-Certificates
-------------
+[Certificates](/Technical%20Stack/Mobile%20Developer%20(WIP)/Apple%20Developer.md#certificates)
+-----------------------------------------------------------------------------------------------
 
 *   [ ] You know how to create development certificate
 *   [ ] You know how to create distribiution certificate
 
-Keys
-----
+[Keys](/Technical%20Stack/Mobile%20Developer%20(WIP)/Apple%20Developer.md#keys)
+-------------------------------------------------------------------------------
 
 *   [ ] You know how to create Apple Push Notifications service key
 
-App IDs
--------
+[App IDs](/Technical%20Stack/Mobile%20Developer%20(WIP)/Apple%20Developer.md#app-ids)
+-------------------------------------------------------------------------------------
 
 *   [ ] You can create App identifiers
 *   [ ] You can define correct App ID Capabilities
 *   [ ] You can manage app id suffixes
 
-Provisioning profiles
----------------------
+[Provisioning profiles](/Technical%20Stack/Mobile%20Developer%20(WIP)/Apple%20Developer.md#provisioning-profiles)
+-----------------------------------------------------------------------------------------------------------------
 
 *   [ ] You know how to create proper type of Provisioning Profile regarding the environment
 *   [ ] You know how to add test devices and assign them to the Provisioning Profile

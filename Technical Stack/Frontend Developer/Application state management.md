@@ -1,23 +1,23 @@
 Application state management
 ============================
 
-Redux
------
+[Redux](/Technical%20Stack/Frontend%20Developer/Application%20state%20management.md#redux)
+------------------------------------------------------------------------------------------
 
 *   [ ] You can describe full Redux flow [:books:](https://www.youtube.com/watch?v=1w-oQ-i1XB8)
 *   [ ] You know how to define a new Redux module (Reducer, Saga, Selector) [:books:](https://github.com/apptension/cra-template-apptension/tree/master/template/src/modules)
 *   [ ] You know how to dispatch Redux action (outside React context)
 
-### react-redux
+### [react-redux](/Technical%20Stack/Frontend%20Developer/Application%20state%20management.md#react-redux)
 
 *   [ ] You know how to apply selector functions to <code>useSelector</code> hook. [:books:](https://levelup.gitconnected.com/react-redux-hooks-useselector-and-usedispatch-f7d8c7f75cdd)
 *   [ ] You know how to dispatch actions from React component. [:books:](https://redux.js.org/basics/example)
 
-### Redux toolset
+### [Redux toolset](/Technical%20Stack/Frontend%20Developer/Application%20state%20management.md#redux-toolset)
 
 *   [ ] You can use one of the toolset libraries to create reducers, action types, and action creators more efficiently
 
-#### redux-toolkit
+#### [redux-toolkit](/Technical%20Stack/Frontend%20Developer/Application%20state%20management.md#redux-toolkit)
 
 *   [ ] You know how to create a reducer. [:books:](https://redux-toolkit.js.org/tutorials/basic-tutorial)
 *   [ ] You know how to create an action creator [:books:](https://www.johnraptis.dev/redux-toolkit/)
@@ -25,36 +25,36 @@ Redux
 *   [ ] You know how to define a reducer function for a specific action type.
 *   [ ] You know how to use slices
 
-### redux-persist
+### [redux-persist](/Technical%20Stack/Frontend%20Developer/Application%20state%20management.md#redux-persist)
 
 *   [ ] You know how to persist part of the state tree to local storage
 
-Immutable data structures
--------------------------
+[Immutable data structures](/Technical%20Stack/Frontend%20Developer/Application%20state%20management.md#immutable-data-structures)
+----------------------------------------------------------------------------------------------------------------------------------
 
 *   [ ] You understand benefits of using immutable data structures in Redux applications [:books:](https://medium.com/javascript-in-plain-english/why-react-and-redux-need-immutable-data-dae3ab3611a0)
 *   [ ] You know how to use at least one of the libraries that provide immutable data structures in redux state [:books:](https://css-tricks.com/using-immer-for-react-state-management/)
 
-### immer
+### [immer](/Technical%20Stack/Frontend%20Developer/Application%20state%20management.md#immer)
 
 *   [ ] You know how to create a reducer that uses immer [:books:](https://hackernoon.com/introducing-immer-immutability-the-easy-way-9d73d8f71cb3)
 *   [ ] You know how to convert immutable structure to regular JavaScript object
 *   [ ] You can explain how immer works internally.
 
-Selectors
----------
+[Selectors](/Technical%20Stack/Frontend%20Developer/Application%20state%20management.md#selectors)
+--------------------------------------------------------------------------------------------------
 
-### reselect
+### [reselect](/Technical%20Stack/Frontend%20Developer/Application%20state%20management.md#reselect)
 
 *   [ ] You know how to create a selector with <code>createSelector</code> function [:books:](https://medium.com/@pearlmcphee/selectors-react-redux-reselect-9ab984688dd4)
 *   [ ] You know how to create a selector that uses multiple other selectors as an input.
 
-Side effects
-------------
+[Side effects](/Technical%20Stack/Frontend%20Developer/Application%20state%20management.md#side-effects)
+--------------------------------------------------------------------------------------------------------
 
 *   [ ] You understand the concept of side effects [:books:](https://medium.com/javascript-scene/master-the-javascript-interview-what-is-functional-programming-7f218c68b3a0#:~:text=A%20side%20effect%20is%20any,the%20parent%20function%20scope%20chain)
 
-### redux-saga
+### [redux-saga](/Technical%20Stack/Frontend%20Developer/Application%20state%20management.md#redux-saga)
 
 *   [ ] You know how to take a side effect and dispatch an action based on it [:books:](https://redux-saga.js.org/docs/api/#putaction)
 *   [ ] You know how to select data from Redux state using selector functions inside sagas. [:books:](https://redux-saga.js.org/docs/api/#selectselector-args)
@@ -64,7 +64,7 @@ Side effects
 *   [ ] You can name <code>eventChannel</code> use cases and know how to implement a saga using it. [:books:](https://redux-saga.js.org/docs/advanced/Channels.html)
 *   [ ] You can name <code>actionChannel</code> use cases and know how to implement a saga using it. [:books:](https://redux-saga.js.org/docs/advanced/Channels.html)
 
-#### redux-saga-routines
+#### [redux-saga-routines](/Technical%20Stack/Frontend%20Developer/Application%20state%20management.md#redux-saga-routines)
 
 *   [ ] You know how to create your own routine
 *   [ ] You know how to promisify a routine

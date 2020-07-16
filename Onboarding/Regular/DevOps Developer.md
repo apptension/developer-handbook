@@ -13,22 +13,22 @@ DNS
 Databases
 ---------
 
-### SQL
+### [SQL](/Technical%20Stack/DevOps%20Developer/Databases.md#sql)
 
-#### AWS RDS
+#### [AWS RDS](/Technical%20Stack/DevOps%20Developer/Databases.md#aws-rds)
 
 *   [ ] You know how to instantiate a PostgreSQL database
 
 Application Servers
 -------------------
 
-### Nginx
+### [Nginx](/Technical%20Stack/DevOps%20Developer/Application%20Servers.md#nginx)
 
 *   [ ] You know configuration file syntax
 *   [ ] You know how to serve static files
 *   [ ] You know how to define a proxy pass to API server
 
-### WSGI
+### [WSGI](/Technical%20Stack/DevOps%20Developer/Application%20Servers.md#wsgi)
 
 *   [ ] You know how to deploy a wsgi app (django, flask) with one of the application servers
 *   [ ] You know wsgi configuration file syntax
@@ -36,12 +36,12 @@ Application Servers
 Message Brokers
 ---------------
 
-### AWS SQS
+### [AWS SQS](/Technical%20Stack/DevOps%20Developer/Message%20Brokers.md#aws-sqs)
 
 *   [ ] You know how to create an SQS queue
 *   [ ] You can attach Lambda function trigger to a queue
 
-### AWS EventBridge
+### [AWS EventBridge](/Technical%20Stack/DevOps%20Developer/Message%20Brokers.md#aws-event-bridge)
 
 *   [ ] You can create an EventBus
 *   [ ] You can send custom events to an EventBus
@@ -50,9 +50,9 @@ Message Brokers
 Generic AWS Services
 --------------------
 
-### AWS Client libraries
+### [AWS Client libraries](/Technical%20Stack/DevOps%20Developer/Generic%20AWS%20Services.md#aws-client-libraries)
 
-#### aws-cli
+#### [aws-cli](/Technical%20Stack/DevOps%20Developer/Generic%20AWS%20Services.md#aws-cli)
 
 *   [ ] You know how to create a local profile using acquired key id and secret to access AWS resources
 

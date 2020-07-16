@@ -1,8 +1,8 @@
 Message Brokers
 ===============
 
-RabbitMQ
---------
+[RabbitMQ](/Technical%20Stack/DevOps%20Developer/Message%20Brokers.md#rabbit-mq)
+--------------------------------------------------------------------------------
 
 *   [ ] You understand what a virtual host is and how to create one
 *   [ ] You can deploy RabbitMQ to AWS platform
@@ -10,22 +10,22 @@ RabbitMQ
 *   [ ] You understand what an Exchange is and you can describe common types of exchanges (direct, topic, fanout)
 *   [ ] You understand what a Channel is and how is it used in message flow
 
-AWS SQS
--------
+[AWS SQS](/Technical%20Stack/DevOps%20Developer/Message%20Brokers.md#aws-sqs)
+-----------------------------------------------------------------------------
 
 *   [ ] You know how to create an SQS queue
 *   [ ] You can attach Lambda function trigger to a queue
 *   [ ] You know how to use the concept of dead letter queues to repair broken messages
 
-AWS EventBridge
----------------
+[AWS EventBridge](/Technical%20Stack/DevOps%20Developer/Message%20Brokers.md#aws-event-bridge)
+----------------------------------------------------------------------------------------------
 
 *   [ ] You can create an EventBus
 *   [ ] You can send custom events to an EventBus
 *   [ ] You know how to trigger a Lambda function from an EventBus for a specific event source
 
-AWS Kinesis
------------
+[AWS Kinesis](/Technical%20Stack/DevOps%20Developer/Message%20Brokers.md#aws-kinesis)
+-------------------------------------------------------------------------------------
 
 *   [ ] You know what a Kinesis Stream is and can name some use cases
 *   [ ] You know what a shard is in Kinesis Stream context

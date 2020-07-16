@@ -1,14 +1,14 @@
 Performance
 ===========
 
-Lighthouse
-----------
+[Lighthouse](/Technical%20Stack/Frontend%20Developer/Performance.md#lighthouse)
+-------------------------------------------------------------------------------
 
 *   [ ] You know how to run Lighthouse audits in Google Chrome DevTools
 *   [ ] You can analyse Lighthouse results and draw conclusions to improve your web app
 
-PageSpeed Insights
-------------------
+[PageSpeed Insights](/Technical%20Stack/Frontend%20Developer/Performance.md#page-speed-insights)
+------------------------------------------------------------------------------------------------
 
 *   [ ] You know how to run PageSpeed Insights on your web app
 *   [ ] You can analyse PageSpeed Insights results and draw conclusions to improve your web app

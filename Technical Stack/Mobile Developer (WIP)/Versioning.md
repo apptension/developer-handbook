@@ -1,8 +1,8 @@
 Versioning
 ==========
 
-react-native-version
---------------------
+[react-native-version](/Technical%20Stack/Mobile%20Developer%20(WIP)/Versioning.md#react-native-version)
+--------------------------------------------------------------------------------------------------------
 
 *   [ ] You know how to run script updating an app version and a build version
 

@@ -4,8 +4,8 @@ Browsers
 *   [ ] You know what DOM is [:books:](https://developer.mozilla.org/en-US/docs/Web/API/Document_Object_Model/Introduction)
 *   [ ] You know what CSSOM is [:books:](https://developer.mozilla.org/en-US/docs/Web/API/CSS_Object_Model)
 
-Pixel pipeline
---------------
+[Pixel pipeline](/Technical%20Stack/Frontend%20Developer/Browsers.md#pixel-pipeline)
+------------------------------------------------------------------------------------
 
 [https://developers.google.com/web/fundamentals/performance/rendering](https://developers.google.com/web/fundamentals/performance/rendering)
 

@@ -1,8 +1,8 @@
 Images
 ======
 
-react-native-fast-image
------------------------
+[react-native-fast-image](/Technical%20Stack/Mobile%20Developer%20(WIP)/Images.md#react-native-fast-image)
+----------------------------------------------------------------------------------------------------------
 
 *   [ ] You know how to display image with proper resize mode
 *   [ ] You know how to handle image loader for cached images

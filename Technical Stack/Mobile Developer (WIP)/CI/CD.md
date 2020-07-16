@@ -1,15 +1,15 @@
 CI/CD
 =====
 
-fastlane
---------
+[fastlane](/Technical%20Stack/Mobile%20Developer%20(WIP)/CI/CD.md#fastlane)
+---------------------------------------------------------------------------
 
 *   [ ] Yow know how to define Appfile [:books:](http://docs.fastlane.tools/advanced/Appfile/#appfile)
 *   [ ] You know how to define Matchfile for proper enviroments [:books:](https://docs.fastlane.tools/actions/match/#match)
 *   [ ] You know how to prepare lanes overwriting app configuration and how to use plugins [:books:](http://docs.fastlane.tools/advanced/Fastfile/#fastfile)
 
-Visual Studio App Center
-------------------------
+[Visual Studio App Center](/Technical%20Stack/Mobile%20Developer%20(WIP)/CI/CD.md#visual-studio-app-center)
+-----------------------------------------------------------------------------------------------------------
 
 *   [ ] You know how to configure iOS and Android build
 *   [ ] You know how to correctly configure app signing

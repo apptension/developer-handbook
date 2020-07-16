@@ -1,8 +1,8 @@
 Storage
 =======
 
-AWS S3
-------
+[AWS S3](/Technical%20Stack/DevOps%20Developer/Storage.md#aws-s3)
+-----------------------------------------------------------------
 
 *   [ ] You know how to create an S3 bucket
 *   [ ] You know how to make a S3 bucket public

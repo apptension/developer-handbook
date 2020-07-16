@@ -4,9 +4,9 @@ Mobile Developer (WIP)
 React-native
 ------------
 
-### Core components
+### [Core components](/Technical%20Stack/Mobile%20Developer%20(WIP)/React-native.md#core-components)
 
-#### Touchable
+#### [Touchable](/Technical%20Stack/Mobile%20Developer%20(WIP)/React-native.md#touchable)
 
 [https://reactnative.dev/docs/touchablehighlight](https://reactnative.dev/docs/touchablehighlight)  
   
@@ -20,20 +20,20 @@ React-native
 *   [ ] You know how to use and style touchable components
 *   [ ] You know the difference between touchable components
 
-#### Scrollable Views
+#### [Scrollable Views](/Technical%20Stack/Mobile%20Developer%20(WIP)/React-native.md#scrollable-views)
 
 *   [ ] You know when to use FlatList, SectionList and ScrollView
 *   [ ] You know how to optimize FlatList and SectionList for large data sets using optimization props eg. removeClippedSubviews, getItemLayout, keyExtractor [:books:](https://reactnative.dev/docs/optimizing-flatlist-configuration)
 
-#### Basic components
+#### [Basic components](/Technical%20Stack/Mobile%20Developer%20(WIP)/React-native.md#basic-components)
 
 *   [ ] You know how to use View, Text, TextInput, Button, Switch, ActivityIndicator, Modal
 
-#### Loading Indicators
+#### [Loading Indicators](/Technical%20Stack/Mobile%20Developer%20(WIP)/React-native.md#loading-indicators)
 
 *   [ ] You know how to use RefreshControl for scrollable views [:books:](https://reactnative.dev/docs/refreshcontrol)
 
-#### Images
+#### [Images](/Technical%20Stack/Mobile%20Developer%20(WIP)/React-native.md#images)
 
 *   [ ] You know how to use Image component
 *   [ ] You know how to handle all the Image events
@@ -41,38 +41,38 @@ React-native
 *   [ ] You know how to use images from app's resources
 *   [ ] You know how to control image cache on iOS
 
-### APIs
+### [APIs](/Technical%20Stack/Mobile%20Developer%20(WIP)/React-native.md#apis)
 
-#### Alert
+#### [Alert](/Technical%20Stack/Mobile%20Developer%20(WIP)/React-native.md#alert)
 
 *   [ ] You know how to show alert
 *   [ ] You know how to render proper alert button variant on iOS and Android
 
-#### Appearance
+#### [Appearance](/Technical%20Stack/Mobile%20Developer%20(WIP)/React-native.md#appearance)
 
 *   [ ] You know how to get user's preffered color scheme
 *   [ ] You know how to listen on color scheme change
 
-#### AppState
+#### [AppState](/Technical%20Stack/Mobile%20Developer%20(WIP)/React-native.md#app-state)
 
 *   [ ] You can handle listening on app state
 *   [ ] You know Android-only events
 
-#### Dimensions
+#### [Dimensions](/Technical%20Stack/Mobile%20Developer%20(WIP)/React-native.md#dimensions)
 
 *   [ ] You can handle listening on window size
 
-#### InteractionManager
+#### [InteractionManager](/Technical%20Stack/Mobile%20Developer%20(WIP)/React-native.md#interaction-manager)
 
 *   [ ] You know when and how to use runAfterInteractions
 
-#### Keyboard
+#### [Keyboard](/Technical%20Stack/Mobile%20Developer%20(WIP)/React-native.md#keyboard)
 
 *   [ ] You can hide keyboard
 *   [ ] You can listen on keyboard events
 *   [ ] You know how to animate layout with keyboard
 
-#### Linking
+#### [Linking](/Technical%20Stack/Mobile%20Developer%20(WIP)/React-native.md#linking)
 
 *   [ ] You know how to open url
 *   [ ] You know how to configure app deep linking
@@ -80,17 +80,17 @@ React-native
 *   [ ] You know how to listen on deep links when the app is opened in foreground
 *   [ ] You know how to handle app navigation using received deep link
 
-#### PanResponder
+#### [PanResponder](/Technical%20Stack/Mobile%20Developer%20(WIP)/React-native.md#pan-responder)
 
 *   [ ] You know how to create pan responder
 *   [ ] You know how to handle multiple pan responders
 *   [ ] You can prepare an animation using pan responder events
 
-#### Android BackHandler
+#### [Android BackHandler](/Technical%20Stack/Mobile%20Developer%20(WIP)/React-native.md#android-back-handler)
 
 *   [ ] You know how to define hardware Android back button behavior
 
-#### Animated
+#### [Animated](/Technical%20Stack/Mobile%20Developer%20(WIP)/React-native.md#animated)
 
 [https://reactnative.dev/docs/animated](https://reactnative.dev/docs/animated)
 
@@ -121,21 +121,21 @@ React-native
 *   [ ] You know how to interpolate values
 *   [ ] You know how to do Animated.Value calculations
 
-### Styling
+### [Styling](/Technical%20Stack/Mobile%20Developer%20(WIP)/React-native.md#styling)
 
-#### StyleSheet
+#### [StyleSheet](/Technical%20Stack/Mobile%20Developer%20(WIP)/React-native.md#style-sheet)
 
 *   [ ] You know how to define stylesheets per component
 *   [ ] You know how to handle media queries for stylesheets
 
-### Linking libraries
+### [Linking libraries](/Technical%20Stack/Mobile%20Developer%20(WIP)/React-native.md#linking-libraries)
 
 *   [ ] You can manually link iOS library [:books:](https://reactnative.dev/docs/linking-libraries-ios)
 
 Storage
 -------
 
-### @react-native-community/async-storage
+### [@react-native-community/async-storage](/Technical%20Stack/Mobile%20Developer%20(WIP)/Storage.md#@react-native-community/async-storage)
 
 *   [ ] You know how to read and write async storage data
 *   [ ] You know how to use async storage with redux-persist
@@ -143,7 +143,7 @@ Storage
 Animations
 ----------
 
-### react-native-reanimated
+### [react-native-reanimated](/Technical%20Stack/Mobile%20Developer%20(WIP)/Animations.md#react-native-reanimated)
 
 *   [ ] You know how to use Value
 *   [ ] You know how to run timing animation with easing
@@ -156,7 +156,7 @@ Animations
 *   [ ] You know how to use clock methods
 *   [ ] You can create animation block with conditions and calculations
 
-### lottie-react-native
+### [lottie-react-native](/Technical%20Stack/Mobile%20Developer%20(WIP)/Animations.md#lottie-react-native)
 
 *   [ ] You know how to correctly configure library and import json animations
 *   [ ] You know how to run animation using Animated.Value
@@ -165,20 +165,20 @@ Animations
 Internationalization
 --------------------
 
-### react-intl
+### [react-intl](/Technical%20Stack/Mobile%20Developer%20(WIP)/Internationalization.md#react-intl)
 
 *   [ ] You know how to configure react-intl with react-native
 *   [ ] You can define multiple languages
 *   [ ] You can handle language change
 
-### Native Modules
+### [Native Modules](/Technical%20Stack/Mobile%20Developer%20(WIP)/Internationalization.md#native-modules)
 
 *   [ ] You know how to get device locale
 
 Forms
 -----
 
-### react-native-keyboard-aware-scroll-view
+### [react-native-keyboard-aware-scroll-view](/Technical%20Stack/Mobile%20Developer%20(WIP)/Forms.md#react-native-keyboard-aware-scroll-view)
 
 *   [ ] You know how to handle automatic scroll to the form inputs on focus
 *   [ ] You know how to navigate between form fields
@@ -186,7 +186,7 @@ Forms
 Navigation
 ----------
 
-### @react-navigation/native
+### [@react-navigation/native](/Technical%20Stack/Mobile%20Developer%20(WIP)/Navigation.md#@react-navigation/native)
 
 *   [ ] You know how to create stack navigator
 *   [ ] You know how to create tab navigator
@@ -198,14 +198,14 @@ Navigation
 Analytics
 ---------
 
-### @react-native-firebase/analytics
+### [@react-native-firebase/analytics](/Technical%20Stack/Mobile%20Developer%20(WIP)/Analytics.md#@react-native-firebase/analytics)
 
 *   [ ] You know how to log events
 *   [ ] You know how to set user properties
 *   [ ] You know how to log predefined events
 *   [ ] You can handle screen tracking
 
-### react-native-appsflyer
+### [react-native-appsflyer](/Technical%20Stack/Mobile%20Developer%20(WIP)/Analytics.md#react-native-appsflyer)
 
 *   [ ] You can configure Appsflyer SDK
 *   [ ] You know how to log conversion events
@@ -213,7 +213,7 @@ Analytics
 Authentication
 --------------
 
-### @react-native-community/google-signin
+### [@react-native-community/google-signin](/Technical%20Stack/Mobile%20Developer%20(WIP)/Authentication.md#@react-native-community/google-signin)
 
 *   [ ] You can configure Google SignIn
 *   [ ] You can handle sign in process
@@ -222,19 +222,19 @@ Authentication
 *   [ ] You can use Google SignIn button
 *   [ ] You know how to define sign in scopes
 
-### react-native-fbsdk
+### [react-native-fbsdk](/Technical%20Stack/Mobile%20Developer%20(WIP)/Authentication.md#react-native-fbsdk)
 
 *   [ ] You can configure FB sdk
 *   [ ] You know how to login user with correct permissions
 *   [ ] You know how to revoke access and logout
 
-### @react-native-firebase/auth
+### [@react-native-firebase/auth](/Technical%20Stack/Mobile%20Developer%20(WIP)/Authentication.md#@react-native-firebase/auth)
 
 *   [ ] You know how to sign in anonymously
 *   [ ] You know how to sign in using e-mail and password
 *   [ ] You know how to sign out
 
-### @invertase/react-native-apple-authentication
+### [@invertase/react-native-apple-authentication](/Technical%20Stack/Mobile%20Developer%20(WIP)/Authentication.md#@invertase/react-native-apple-authentication)
 
 *   [ ] You know how to login user with correct permissions
 *   [ ] You know how to listen on credentials change
@@ -243,7 +243,7 @@ Authentication
 Lists
 -----
 
-### react-native-largelist
+### [react-native-largelist](/Technical%20Stack/Mobile%20Developer%20(WIP)/Lists.md#react-native-largelist)
 
 *   [ ] You know how to render LargeList with header and footer
 *   [ ] You know how to use pull to refresh
@@ -253,14 +253,14 @@ Lists
 Versioning
 ----------
 
-### react-native-version
+### [react-native-version](/Technical%20Stack/Mobile%20Developer%20(WIP)/Versioning.md#react-native-version)
 
 *   [ ] You know how to run script updating an app version and a build version
 
 Sharing
 -------
 
-### react-native-share
+### [react-native-share](/Technical%20Stack/Mobile%20Developer%20(WIP)/Sharing.md#react-native-share)
 
 *   [ ] You know how to share content
 *   [ ] You know how to share images
@@ -270,7 +270,7 @@ Sharing
 Splash Screen
 -------------
 
-### react-native-splash-screen
+### [react-native-splash-screen](/Technical%20Stack/Mobile%20Developer%20(WIP)/Splash%20Screen.md#react-native-splash-screen)
 
 *   [ ] You know how to correctly configure splash screen showing/hiding
 *   [ ] You know what type of images you should use to display splash screen correctly with a proper image fill type
@@ -278,7 +278,7 @@ Splash Screen
 Images
 ------
 
-### react-native-fast-image
+### [react-native-fast-image](/Technical%20Stack/Mobile%20Developer%20(WIP)/Images.md#react-native-fast-image)
 
 *   [ ] You know how to display image with proper resize mode
 *   [ ] You know how to handle image loader for cached images
@@ -288,9 +288,9 @@ Images
 Performance
 -----------
 
-### JS Engines
+### [JS Engines](/Technical%20Stack/Mobile%20Developer%20(WIP)/Performance.md#js-engines)
 
-#### Hermes
+#### [Hermes](/Technical%20Stack/Mobile%20Developer%20(WIP)/Performance.md#hermes)
 
 *   [ ] You know how to enable Hermes on Android
 *   [ ] You know profits of using Hermes
@@ -298,7 +298,7 @@ Performance
 Crash reporting / Monitoring
 ----------------------------
 
-### @sentry/react-native
+### [@sentry/react-native](/Technical%20Stack/Mobile%20Developer%20(WIP)/Crash%20reporting%20/%20Monitoring.md#@sentry/react-native)
 
 *   [ ] You know how to set tags
 *   [ ] You know how to add breadcrumbs
@@ -306,7 +306,7 @@ Crash reporting / Monitoring
 *   [ ] You know how to capture custom message
 *   [ ] You know how to view and analyze crash reports
 
-### @react-native-firebase/crashlytics
+### [@react-native-firebase/crashlytics](/Technical%20Stack/Mobile%20Developer%20(WIP)/Crash%20reporting%20/%20Monitoring.md#@react-native-firebase/crashlytics)
 
 *   [ ] You know how to set user attributes
 *   [ ] You know how to report errors
@@ -315,13 +315,13 @@ Crash reporting / Monitoring
 Development tools
 -----------------
 
-### React Native Debugger
+### [React Native Debugger](/Technical%20Stack/Mobile%20Developer%20(WIP)/Development%20tools.md#react-native-debugger)
 
 *   [ ] You know how to use React/Redux dev tools
 *   [ ] You know how to use Network Inspect
 *   [ ] You know how to use debugger with a real device
 
-### Xcode
+### [Xcode](/Technical%20Stack/Mobile%20Developer%20(WIP)/Development%20tools.md#xcode)
 
 *   [ ] You know how to run app on a real device
 *   [ ] You know how to run an app on a simulator
@@ -329,7 +329,7 @@ Development tools
 *   [ ] You know how to change Team, Certificate and Provisioning Profile
 *   [ ] You know how to build app ready for distribution
 
-### Android Studio
+### [Android Studio](/Technical%20Stack/Mobile%20Developer%20(WIP)/Development%20tools.md#android-studio)
 
 *   [ ] You know how to run app on a real device
 *   [ ] You know how to run an app on an emulator

@@ -1,10 +1,10 @@
 React-native
 ============
 
-Core components
----------------
+[Core components](/Technical%20Stack/Mobile%20Developer%20(WIP)/React-native.md#core-components)
+------------------------------------------------------------------------------------------------
 
-### Touchable
+### [Touchable](/Technical%20Stack/Mobile%20Developer%20(WIP)/React-native.md#touchable)
 
 [https://reactnative.dev/docs/touchablehighlight](https://reactnative.dev/docs/touchablehighlight)  
   
@@ -18,21 +18,21 @@ Core components
 *   [ ] You know how to use and style touchable components
 *   [ ] You know the difference between touchable components
 
-### Scrollable Views
+### [Scrollable Views](/Technical%20Stack/Mobile%20Developer%20(WIP)/React-native.md#scrollable-views)
 
 *   [ ] You know when to use FlatList, SectionList and ScrollView
 *   [ ] You know how to optimize FlatList and SectionList for large data sets using optimization props eg. removeClippedSubviews, getItemLayout, keyExtractor [:books:](https://reactnative.dev/docs/optimizing-flatlist-configuration)
 *   [ ] You know how to build optimized components for Lists [:books:](https://reactnative.dev/docs/optimizing-flatlist-configuration)
 
-### Basic components
+### [Basic components](/Technical%20Stack/Mobile%20Developer%20(WIP)/React-native.md#basic-components)
 
 *   [ ] You know how to use View, Text, TextInput, Button, Switch, ActivityIndicator, Modal
 
-### Loading Indicators
+### [Loading Indicators](/Technical%20Stack/Mobile%20Developer%20(WIP)/React-native.md#loading-indicators)
 
 *   [ ] You know how to use RefreshControl for scrollable views [:books:](https://reactnative.dev/docs/refreshcontrol)
 
-### Images
+### [Images](/Technical%20Stack/Mobile%20Developer%20(WIP)/React-native.md#images)
 
 *   [ ] You know how to use Image component
 *   [ ] You know how to handle all the Image events
@@ -40,41 +40,41 @@ Core components
 *   [ ] You know how to use images from app's resources
 *   [ ] You know how to control image cache on iOS
 
-APIs
-----
+[APIs](/Technical%20Stack/Mobile%20Developer%20(WIP)/React-native.md#apis)
+--------------------------------------------------------------------------
 
-### Alert
+### [Alert](/Technical%20Stack/Mobile%20Developer%20(WIP)/React-native.md#alert)
 
 *   [ ] You know how to show alert
 *   [ ] You know how to render proper alert button variant on iOS and Android
 
-### Appearance
+### [Appearance](/Technical%20Stack/Mobile%20Developer%20(WIP)/React-native.md#appearance)
 
 *   [ ] You know how to get user's preffered color scheme
 *   [ ] You know how to listen on color scheme change
 
-### AppState
+### [AppState](/Technical%20Stack/Mobile%20Developer%20(WIP)/React-native.md#app-state)
 
 *   [ ] You can handle listening on app state
 *   [ ] You know Android-only events
 
-### Dimensions
+### [Dimensions](/Technical%20Stack/Mobile%20Developer%20(WIP)/React-native.md#dimensions)
 
 *   [ ] You can handle listening on window size
 
-### InteractionManager
+### [InteractionManager](/Technical%20Stack/Mobile%20Developer%20(WIP)/React-native.md#interaction-manager)
 
 *   [ ] You know when and how to use runAfterInteractions
 *   [ ] You know when and how to use runAfterInteractions
 *   [ ] You know when and how to use interactionHandle
 
-### Keyboard
+### [Keyboard](/Technical%20Stack/Mobile%20Developer%20(WIP)/React-native.md#keyboard)
 
 *   [ ] You can hide keyboard
 *   [ ] You can listen on keyboard events
 *   [ ] You know how to animate layout with keyboard
 
-### Linking
+### [Linking](/Technical%20Stack/Mobile%20Developer%20(WIP)/React-native.md#linking)
 
 *   [ ] You know how to open url
 *   [ ] You know how to configure app deep linking
@@ -82,18 +82,18 @@ APIs
 *   [ ] You know how to listen on deep links when the app is opened in foreground
 *   [ ] You know how to handle app navigation using received deep link
 
-### PanResponder
+### [PanResponder](/Technical%20Stack/Mobile%20Developer%20(WIP)/React-native.md#pan-responder)
 
 *   [ ] You know how to create pan responder
 *   [ ] You know how to handle multiple pan responders
 *   [ ] You can prepare an animation using pan responder events
 *   [ ] You know how to recognize multi-touch gestures
 
-### Android BackHandler
+### [Android BackHandler](/Technical%20Stack/Mobile%20Developer%20(WIP)/React-native.md#android-back-handler)
 
 *   [ ] You know how to define hardware Android back button behavior
 
-### Animated
+### [Animated](/Technical%20Stack/Mobile%20Developer%20(WIP)/React-native.md#animated)
 
 [https://reactnative.dev/docs/animated](https://reactnative.dev/docs/animated)
 
@@ -124,16 +124,16 @@ APIs
 *   [ ] You know how to interpolate values
 *   [ ] You know how to do Animated.Value calculations
 
-Styling
--------
+[Styling](/Technical%20Stack/Mobile%20Developer%20(WIP)/React-native.md#styling)
+--------------------------------------------------------------------------------
 
-### StyleSheet
+### [StyleSheet](/Technical%20Stack/Mobile%20Developer%20(WIP)/React-native.md#style-sheet)
 
 *   [ ] You know how to define stylesheets per component
 *   [ ] You know how to handle media queries for stylesheets
 
-Linking libraries
------------------
+[Linking libraries](/Technical%20Stack/Mobile%20Developer%20(WIP)/React-native.md#linking-libraries)
+----------------------------------------------------------------------------------------------------
 
 *   [ ] You can manually link iOS library [:books:](https://reactnative.dev/docs/linking-libraries-ios)
 

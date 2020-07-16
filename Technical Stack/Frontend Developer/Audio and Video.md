@@ -4,19 +4,19 @@ Audio and Video
 *   [ ] You know how to use standard HTML Audio and Video tags
 *   [ ] You know which formats and codecs should be used to support all modern browsers
 
-Streaming
----------
+[Streaming](/Technical%20Stack/Frontend%20Developer/Audio%20and%20Video.md#streaming)
+-------------------------------------------------------------------------------------
 
-### HLS
+### [HLS](/Technical%20Stack/Frontend%20Developer/Audio%20and%20Video.md#hls)
 
 *   [ ] You understand what HLS is, and are able to use it with a chosen player
 
-### MPEG Dash
+### [MPEG Dash](/Technical%20Stack/Frontend%20Developer/Audio%20and%20Video.md#mpeg-dash)
 
 *   [ ] You understand what MPEG Dash is, and are able to use it with a chosen player
 
-Players
--------
+[Players](/Technical%20Stack/Frontend%20Developer/Audio%20and%20Video.md#players)
+---------------------------------------------------------------------------------
 
 *   [ ] You have used at least one video player libraries
 

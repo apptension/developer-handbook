@@ -1,8 +1,8 @@
 Push notifications
 ==================
 
-@react-native-community/push-notification-ios
----------------------------------------------
+[@react-native-community/push-notification-ios](/Technical%20Stack/Mobile%20Developer%20(WIP)/Push%20notifications.md#@react-native-community/push-notification-ios)
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 *   [ ] You know how to configure iOS project to register for notifications
 *   [ ] You know how to configure iOS project to receive local notifications
@@ -14,8 +14,8 @@ Push notifications
 *   [ ] You know how to schedule local notification
 *   [ ] You know how to request permissions to display notifications
 
-react-native-push-notification
-------------------------------
+[react-native-push-notification](/Technical%20Stack/Mobile%20Developer%20(WIP)/Push%20notifications.md#react-native-push-notification)
+--------------------------------------------------------------------------------------------------------------------------------------
 
 *   [ ] You know how to receive notification from FCM and handle it in background/foreground
 *   [ ] You can handle initial notification which has opened the app
@@ -25,8 +25,8 @@ react-native-push-notification
 *   [ ] You know how to present local notification
 *   [ ] You know how to schedule local notification
 
-@react-native-firebase/messaging
---------------------------------
+[@react-native-firebase/messaging](/Technical%20Stack/Mobile%20Developer%20(WIP)/Push%20notifications.md#@react-native-firebase/messaging)
+------------------------------------------------------------------------------------------------------------------------------------------
 
 *   [ ] You know how to get device FCM token
 

@@ -1,33 +1,33 @@
 Databases
 =========
 
-SQL
----
+[SQL](/Technical%20Stack/DevOps%20Developer/Databases.md#sql)
+-------------------------------------------------------------
 
-### AWS RDS
+### [AWS RDS](/Technical%20Stack/DevOps%20Developer/Databases.md#aws-rds)
 
 *   [ ] You know how to instantiate a PostgreSQL database
 *   [ ] You know how to instantiate a MySQL database
 *   [ ] You know how to instantiate an AWS Aurora instance with chosen DB flavour
 
-NoSQL
------
+[NoSQL](/Technical%20Stack/DevOps%20Developer/Databases.md#no-sql)
+------------------------------------------------------------------
 
-### Redis
+### [Redis](/Technical%20Stack/DevOps%20Developer/Databases.md#redis)
 
-#### AWS ElastiCache
+#### [AWS ElastiCache](/Technical%20Stack/DevOps%20Developer/Databases.md#aws-elasti-cache)
 
 *   [ ] You know how to create a Redis instance
 *   [ ] You know how to connect to Redis instance from the application code
 
-### ElasticSearch
+### [ElasticSearch](/Technical%20Stack/DevOps%20Developer/Databases.md#elastic-search)
 
-#### AWS Elasticsearch Service
+#### [AWS Elasticsearch Service](/Technical%20Stack/DevOps%20Developer/Databases.md#aws-elasticsearch-service)
 
 *   [ ] You know how to create an ElasticSearch instance
 *   [ ] You know how to connect to ElasticSearch from the application code
 
-### AWS DynamoDB
+### [AWS DynamoDB](/Technical%20Stack/DevOps%20Developer/Databases.md#aws-dynamo-db)
 
 *   [ ] You know how to manage dynamodb read/write throughput
 *   [ ] You know how to configure pay per use model

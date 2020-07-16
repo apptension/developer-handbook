@@ -1,8 +1,8 @@
 Crash reporting / Monitoring
 ============================
 
-@sentry/react-native
---------------------
+[@sentry/react-native](/Technical%20Stack/Mobile%20Developer%20(WIP)/Crash%20reporting%20/%20Monitoring.md#@sentry/react-native)
+--------------------------------------------------------------------------------------------------------------------------------
 
 *   [ ] You know how to set tags
 *   [ ] You know how to add breadcrumbs
@@ -10,8 +10,8 @@ Crash reporting / Monitoring
 *   [ ] You know how to capture custom message
 *   [ ] You know how to view and analyze crash reports
 
-@react-native-firebase/crashlytics
-----------------------------------
+[@react-native-firebase/crashlytics](/Technical%20Stack/Mobile%20Developer%20(WIP)/Crash%20reporting%20/%20Monitoring.md#@react-native-firebase/crashlytics)
+------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 *   [ ] You know how to set user attributes
 *   [ ] You know how to report errors

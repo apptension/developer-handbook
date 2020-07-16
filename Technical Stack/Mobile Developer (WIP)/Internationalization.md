@@ -1,15 +1,15 @@
 Internationalization
 ====================
 
-react-intl
-----------
+[react-intl](/Technical%20Stack/Mobile%20Developer%20(WIP)/Internationalization.md#react-intl)
+----------------------------------------------------------------------------------------------
 
 *   [ ] You know how to configure react-intl with react-native
 *   [ ] You can define multiple languages
 *   [ ] You can handle language change
 
-Native Modules
---------------
+[Native Modules](/Technical%20Stack/Mobile%20Developer%20(WIP)/Internationalization.md#native-modules)
+------------------------------------------------------------------------------------------------------
 
 *   [ ] You know how to get device locale
 

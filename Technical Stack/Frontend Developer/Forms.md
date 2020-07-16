@@ -1,22 +1,22 @@
 Forms
 =====
 
-Validation
-----------
+[Validation](/Technical%20Stack/Frontend%20Developer/Forms.md#validation)
+-------------------------------------------------------------------------
 
-### yup
+### [yup](/Technical%20Stack/Frontend%20Developer/Forms.md#yup)
 
 *   [ ] You know how to create schemas with proper types
 *   [ ] You know how to extend a schema type
 *   [ ] You know how to add transformations
 
-File upload
------------
+[File upload](/Technical%20Stack/Frontend%20Developer/Forms.md#file-upload)
+---------------------------------------------------------------------------
 
 *   [ ] You know how to send a HTTP request to upload a file to backend
 
-React
------
+[React](/Technical%20Stack/Frontend%20Developer/Forms.md#react)
+---------------------------------------------------------------
 
 *   [ ] You used and fulfill all requirements of at least one library that manages forms in react
 

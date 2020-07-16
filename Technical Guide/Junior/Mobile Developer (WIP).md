@@ -4,9 +4,9 @@ Mobile Developer (WIP)
 React-native
 ------------
 
-### Core components
+### [Core components](/Technical%20Stack/Mobile%20Developer%20(WIP)/React-native.md#core-components)
 
-#### Touchable
+#### [Touchable](/Technical%20Stack/Mobile%20Developer%20(WIP)/React-native.md#touchable)
 
 [https://reactnative.dev/docs/touchablehighlight](https://reactnative.dev/docs/touchablehighlight)  
   
@@ -20,47 +20,47 @@ React-native
 *   [ ] You know how to use and style touchable components
 *   [ ] You know the difference between touchable components
 
-#### Scrollable Views
+#### [Scrollable Views](/Technical%20Stack/Mobile%20Developer%20(WIP)/React-native.md#scrollable-views)
 
 *   [ ] You know when to use FlatList, SectionList and ScrollView
 
-#### Basic components
+#### [Basic components](/Technical%20Stack/Mobile%20Developer%20(WIP)/React-native.md#basic-components)
 
 *   [ ] You know how to use View, Text, TextInput, Button, Switch, ActivityIndicator, Modal
 
-#### Loading Indicators
+#### [Loading Indicators](/Technical%20Stack/Mobile%20Developer%20(WIP)/React-native.md#loading-indicators)
 
 *   [ ] You know how to use RefreshControl for scrollable views [:books:](https://reactnative.dev/docs/refreshcontrol)
 
-#### Images
+#### [Images](/Technical%20Stack/Mobile%20Developer%20(WIP)/React-native.md#images)
 
 *   [ ] You know how to use Image component
 *   [ ] You know how to handle all the Image events
 *   [ ] You can create animated Image loader
 
-### APIs
+### [APIs](/Technical%20Stack/Mobile%20Developer%20(WIP)/React-native.md#apis)
 
-#### Alert
+#### [Alert](/Technical%20Stack/Mobile%20Developer%20(WIP)/React-native.md#alert)
 
 *   [ ] You know how to show alert
 *   [ ] You know how to render proper alert button variant on iOS and Android
 
-#### Appearance
+#### [Appearance](/Technical%20Stack/Mobile%20Developer%20(WIP)/React-native.md#appearance)
 
 *   [ ] You know how to get user's preffered color scheme
 *   [ ] You know how to listen on color scheme change
 
-#### Keyboard
+#### [Keyboard](/Technical%20Stack/Mobile%20Developer%20(WIP)/React-native.md#keyboard)
 
 *   [ ] You can hide keyboard
 
-#### Linking
+#### [Linking](/Technical%20Stack/Mobile%20Developer%20(WIP)/React-native.md#linking)
 
 *   [ ] You know how to open url
 
-### Styling
+### [Styling](/Technical%20Stack/Mobile%20Developer%20(WIP)/React-native.md#styling)
 
-#### StyleSheet
+#### [StyleSheet](/Technical%20Stack/Mobile%20Developer%20(WIP)/React-native.md#style-sheet)
 
 *   [ ] You know how to define stylesheets per component
 *   [ ] You know how to handle media queries for stylesheets
@@ -68,25 +68,25 @@ React-native
 Images
 ------
 
-### react-native-fast-image
+### [react-native-fast-image](/Technical%20Stack/Mobile%20Developer%20(WIP)/Images.md#react-native-fast-image)
 
 *   [ ] You know how to display image with proper resize mode
 
 Development tools
 -----------------
 
-### React Native Debugger
+### [React Native Debugger](/Technical%20Stack/Mobile%20Developer%20(WIP)/Development%20tools.md#react-native-debugger)
 
 *   [ ] You know how to use React/Redux dev tools
 *   [ ] You know how to use Network Inspect
 *   [ ] You know how to use debugger with a real device
 
-### Xcode
+### [Xcode](/Technical%20Stack/Mobile%20Developer%20(WIP)/Development%20tools.md#xcode)
 
 *   [ ] You know how to run app on a real device
 *   [ ] You know how to run an app on a simulator
 
-### Android Studio
+### [Android Studio](/Technical%20Stack/Mobile%20Developer%20(WIP)/Development%20tools.md#android-studio)
 
 *   [ ] You know how to run app on a real device
 *   [ ] You know how to run an app on an emulator

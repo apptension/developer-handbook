@@ -1,19 +1,19 @@
 Google Play Console
 ===================
 
-Release management
-------------------
+[Release management](/Technical%20Stack/Mobile%20Developer%20(WIP)/Google%20Play%20Console.md#release-management)
+-----------------------------------------------------------------------------------------------------------------
 
 *   [ ] You know how to distribute app via Alpha/Beta enviroment to the beta testers
 *   [ ] You know how to promote an app to the Production with full/partial roll-out
 
-Store presence
---------------
+[Store presence](/Technical%20Stack/Mobile%20Developer%20(WIP)/Google%20Play%20Console.md#store-presence)
+---------------------------------------------------------------------------------------------------------
 
 *   [ ] You can define all the required options to show the app in the Google Play
 
-App signing
------------
+[App signing](/Technical%20Stack/Mobile%20Developer%20(WIP)/Google%20Play%20Console.md#app-signing)
+---------------------------------------------------------------------------------------------------
 
 *   [ ] You know how to handle App Signing by Google Play
 

@@ -1,13 +1,13 @@
 VPS Services
 ============
 
-DigitalOcean
-------------
+[DigitalOcean](/Technical%20Stack/DevOps%20Developer/VPS%20Services.md#digital-ocean)
+-------------------------------------------------------------------------------------
 
 *   [ ] You know how to create a droplet in chosen region
 
-AWS EC2
--------
+[AWS EC2](/Technical%20Stack/DevOps%20Developer/VPS%20Services.md#aws-ec2)
+--------------------------------------------------------------------------
 
 *   [ ] You know how to create an instance in a chosen region
 

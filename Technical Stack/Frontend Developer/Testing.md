@@ -4,46 +4,46 @@ Testing
 *   [ ] You know how to test custom React hooks.
 *   [ ] You know how to test a selector function.
 
-jest
-----
+[jest](/Technical%20Stack/Frontend%20Developer/Testing.md#jest)
+---------------------------------------------------------------
 
 *   [ ] You know how to test components and functions
 *   [ ] You know how to mock functions and global objects
 *   [ ] You know how to add snapshot testing
 *   [ ] You know how to add and configure Jest in the build tools
 
-react-testing-library
----------------------
+[react-testing-library](/Technical%20Stack/Frontend%20Developer/Testing.md#react-testing-library)
+-------------------------------------------------------------------------------------------------
 
 *   [ ] You know how to install and configure it in the build tools
 *   [ ] You know how to query for the component you want to test according to library best practices
 *   [ ] You know how to mock server's response
 *   [ ] You know how to test the redux store actions
 
-jest-styled-components
-----------------------
+[jest-styled-components](/Technical%20Stack/Frontend%20Developer/Testing.md#jest-styled-components)
+---------------------------------------------------------------------------------------------------
 
 *   [ ] You can install and configure it in a project
 *   [ ] You can test if an HTML node has the proper style
 *   [ ] You can create snapshots with readable classes and proper styles properties
 
-redux-saga-test-plan
---------------------
+[redux-saga-test-plan](/Technical%20Stack/Frontend%20Developer/Testing.md#redux-saga-test-plan)
+-----------------------------------------------------------------------------------------------
 
 *   [ ] You know how to test when an action has been put for processing
 *   [ ] You know how to provide an initial state for a saga execution
 *   [ ] You know how to check if the expected action has been called
 
-Mocking
--------
+[Mocking](/Technical%20Stack/Frontend%20Developer/Testing.md#mocking)
+---------------------------------------------------------------------
 
-### nock
+### [nock](/Technical%20Stack/Frontend%20Developer/Testing.md#nock)
 
 *   [ ] You know how to mock API calls with or without payload
 *   [ ] You know how to set configuration header's and meta data
 *   [ ] You can write assertions to check if API endpoint has been called with proper data
 
-### mockdate
+### [mockdate](/Technical%20Stack/Frontend%20Developer/Testing.md#mockdate)
 
 *   [ ] You know how to mock Date object to return specific value in test environment
 
