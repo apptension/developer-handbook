@@ -1,6 +1,29 @@
 Classes Enhancement
 ===================
 
+[You enhance code with two or more libraries](/Technical%20Stack/Backend%20Developer/Classes%20Enhancement.md#you-enhance-code-with-two-or-more-libraries)
+----------------------------------------------------------------------------------------------------------------------------------------------------------
+
+### [dataclasses](/Technical%20Stack/Backend%20Developer/Classes%20Enhancement.md#dataclasses)
+
+*   [ ] dataclasses - (Python standard library) Data classes.
+
+### [attrs](/Technical%20Stack/Backend%20Developer/Classes%20Enhancement.md#attrs)
+
+*   [ ] attrs - Replacement for __init__, __eq__, __repr__, etc. boilerplate in class definitions.
+
+### [bidict](/Technical%20Stack/Backend%20Developer/Classes%20Enhancement.md#bidict)
+
+*   [ ] bidict - Efficient, Pythonic bidirectional map data structures and related functionality..
+
+### [Box](/Technical%20Stack/Backend%20Developer/Classes%20Enhancement.md#box)
+
+*   [ ] Box - Python dictionaries with advanced dot notation access.
+
+### [DottedDict](/Technical%20Stack/Backend%20Developer/Classes%20Enhancement.md#dotted-dict)
+
+*   [ ] DottedDict - A library that provides a method of accessing lists and dicts with a dotted path notation.
+
 * * *
 
 Contribution

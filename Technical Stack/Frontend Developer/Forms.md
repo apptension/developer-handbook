@@ -15,10 +15,45 @@ Forms
 
 *   [ ] You know how to send a HTTP request to upload a file to backend
 
+### [react-dropzone](/Technical%20Stack/Frontend%20Developer/Forms.md#react-dropzone)
+
+*   [ ] You know how to change styles when dragging an element to dropzone area
+*   [ ] You know how to validate file name, type and size
+
 [React](/Technical%20Stack/Frontend%20Developer/Forms.md#react)
 ---------------------------------------------------------------
 
 *   [ ] You used and fulfill all requirements of at least one library that manages forms in react
+
+### [formik](/Technical%20Stack/Frontend%20Developer/Forms.md#formik)
+
+*   [ ] You know how to submit a form
+*   [ ] You know how inject Formik with Hooks
+*   [ ] You know how to validate form's data before & after submission
+*   [ ] You know how to add fields dynamically
+*   [ ] You know how to render a form with initial data
+*   [ ] You know how to display errors based on data validation
+*   [ ] You know how to clear forms data
+
+### [react-hook-form](/Technical%20Stack/Frontend%20Developer/Forms.md#react-hook-form)
+
+*   [ ] You know how to inject react-hook-form in the component's lifecycle
+*   [ ] You know how to register an input
+*   [ ] You know how to validate form's data before & after submission
+*   [ ] You know how to pass data to be processed by the backend
+*   [ ] You know how to add fields dynamically
+*   [ ] You know how to render a form with data
+*   [ ] You know how to display errors based on data validation
+*   [ ] You know how to clear forms data
+
+### [redux-form](/Technical%20Stack/Frontend%20Developer/Forms.md#redux-form)
+
+*   [ ] You know how to validate form's data before & after submission
+*   [ ] You know how to pass data to be processed by the backend
+*   [ ] You know how to add fields dynamically
+*   [ ] You know how to render a form with data
+*   [ ] You know how to display errors based on data validation
+*   [ ] You know how to clear forms data
 
 * * *
 

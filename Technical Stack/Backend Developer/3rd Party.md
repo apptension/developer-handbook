@@ -14,6 +14,19 @@
 [Authentication Services](/Technical%20Stack/Backend%20Developer/3rd%20Party.md#authentication-services)
 --------------------------------------------------------------------------------------------------------
 
+### [OAuth](/Technical%20Stack/Backend%20Developer/3rd%20Party.md#oauth)
+
+#### [Auth0](/Technical%20Stack/Backend%20Developer/3rd%20Party.md#auth0)
+
+*   [ ] You know how to activate a provider
+*   [ ] You know how to upload custom templates
+
+#### [You know how to authorize a user with one of the social accounts](/Technical%20Stack/Backend%20Developer/3rd%20Party.md#you-know-how-to-authorize-a-user-with-one-of-the-social-accounts)
+
+*   [ ] django-oauth-toolkit
+*   [ ] python-social-auth
+*   [ ] oauthlib
+
 ### [JWT](/Technical%20Stack/Backend%20Developer/3rd%20Party.md#jwt)
 
 *   [ ] You how used at least one library to work with JWT

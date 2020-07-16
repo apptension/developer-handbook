@@ -28,6 +28,12 @@ HTTP
 
 *   [ ] You know how to connect to a websocket connection using either a native configuration or an existing library
 
+### [pusher-js](/Technical%20Stack/Frontend%20Developer/HTTP.md#pusher-js)
+
+*   [ ] You know how to configure Pusher JS
+*   [ ] You know how to subscribe/unsubscribe to a channel
+*   [ ] You know how to bind/unbind to events
+
 [Tools](/Technical%20Stack/Frontend%20Developer/HTTP.md#tools)
 --------------------------------------------------------------
 

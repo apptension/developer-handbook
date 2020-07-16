@@ -1,6 +1,20 @@
 Documenting
 ===========
 
+[Swagger](/Technical%20Stack/Backend%20Developer/Documenting.md#swagger)
+------------------------------------------------------------------------
+
+*   [ ] You know how to annotate endpoints to describe it
+
+### [drf-yasg](/Technical%20Stack/Backend%20Developer/Documenting.md#drf-yasg)
+
+*   [ ] You know how to configure the view
+
+[Redoc](/Technical%20Stack/Backend%20Developer/Documenting.md#redoc)
+--------------------------------------------------------------------
+
+*   [ ] You know how to initialize it
+
 * * *
 
 Contribution

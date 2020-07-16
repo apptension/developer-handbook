@@ -4,6 +4,24 @@ CMS
 *   [ ] You know at least one of the CMS platforms and can easily use its basic features (defining data models, editing, etc)
 *   [ ] You know couple of the CMS platforms and can select one for the project to satisfy its requirements
 
+[Wordpress](/Technical%20Stack/Frontend%20Developer/CMS.md#wordpress)
+---------------------------------------------------------------------
+
+*   [ ] You understand how wordpress work, and are able to customise the designs of a given application
+
+[Contentful](/Technical%20Stack/Frontend%20Developer/CMS.md#contentful)
+-----------------------------------------------------------------------
+
+*   [ ] You can create a contentful structure
+*   [ ] You know how to use Contentful's assets CDN
+*   [ ] You know how to incorporate Contenful's API in your build process
+*   [ ] You can feed the application internationalization system with the content from Contentful
+
+[Webflow](/Technical%20Stack/Frontend%20Developer/CMS.md#webflow)
+-----------------------------------------------------------------
+
+*   [ ] You are able to chose one of the plans available, customise, and content
+
 * * *
 
 Contribution

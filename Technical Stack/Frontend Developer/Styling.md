@@ -52,16 +52,50 @@ You can learn how to style HTML elements with flexbox by reading this awesome gu
 *   [ ] You can define and use named grid areas
 *   [ ] You can align items in grid cells
 
+### [CSS Modules](/Technical%20Stack/Frontend%20Developer/Styling.md#css-modules)
+
+*   [ ] You can separate styles that are applied globally from the local ones [:books:](https://css-tricks.com/css-modules-part-1-need/)
+*   [ ] You know how to add CSS modules to the build tool
+*   [ ] You understand the benefits of having CSS with a local scope
+
+### [BEM](/Technical%20Stack/Frontend%20Developer/Styling.md#bem)
+
+*   [ ] You know what BEM is and can describe its components [:books:](https://apptension.com/blog/2016/02/03/introduction-to-bem/)
+
+[Sass](/Technical%20Stack/Frontend%20Developer/Styling.md#sass)
+---------------------------------------------------------------
+
+*   [ ] You understand the SCSS syntax and file extensions [:books:](https://www.youtube.com/watch?v=_a5j7KoflTs)
+*   [ ] You know how to create and use scss variables
+*   [ ] You know how to create and use mixins [:books:](https://sass-lang.com/documentation/at-rules/mixin)
+*   [ ] You know how to use operators [:books:](https://sass-lang.com/documentation/operators)
+*   [ ] You know to install and configure it in build tools
+
 [UI Kits](/Technical%20Stack/Frontend%20Developer/Styling.md#ui-kits)
 ---------------------------------------------------------------------
 
 *   [ ] You understand basics of at least one of the UI Kit libraries [:books:](https://material-ui.com/getting-started/installation/)
 *   [ ] You have used one of the UI Kit libraries in a project
 
+### [Material-Ui](/Technical%20Stack/Frontend%20Developer/Styling.md#material-ui)
+
+*   [ ] You have used the library in a project [:books:](https://medium.com/codingthesmartway-com-blog/getting-started-with-material-ui-for-react-material-design-for-react-364b2688b555)
+*   [ ] You know how to use material-ui theme API
+*   [ ] You know how to customize component's styles and behaviour
+*   [ ] You understand the pros and cons in usability, mobile performance & bootstraping when choosing material-ui
+
+### [antd](/Technical%20Stack/Frontend%20Developer/Styling.md#antd)
+
+*   [ ] You have used the library in a project [:books:](https://medium.com/@yoniweisbrod/styling-react-applications-with-ant-design-92b742aab0b0)
+
 [Icons](/Technical%20Stack/Frontend%20Developer/Styling.md#icons)
 -----------------------------------------------------------------
 
 *   [ ] You used at least one of the icon libraries in a project
+
+### [material-ui-icons](/Technical%20Stack/Frontend%20Developer/Styling.md#material-ui-icons)
+
+*   [ ] You know how to use, extend and modify material ui icons
 
 [Emails](/Technical%20Stack/Frontend%20Developer/Styling.md#emails)
 -------------------------------------------------------------------
@@ -71,6 +105,11 @@ You can learn how to style HTML elements with flexbox by reading this awesome gu
 *   [ ] You know how to attach images so they're properly displayed
 *   [ ] You know how to incorporate backend variables in order to properly present in the email
 *   [ ] You know and use email templating tools to facilitate the creation of emails [:books:](https://github.com/eleith/emailjs)
+
+### [Mailchimp templates](/Technical%20Stack/Frontend%20Developer/Styling.md#mailchimp-templates)
+
+*   [ ] You know how to create mailchimp templates [:books:](https://mailchimp.com/help/create-a-template-with-the-template-builder/)
+*   [ ] You know how to bind variables to the templates
 
 * * *
 

@@ -34,6 +34,10 @@ Services
 *   [ ] You know how to create and publish simple Netlify Functions implemented in NodeJS
 *   [ ] You know how to configure Netfliy to deploy your function to a custom AWS account
 
+### [Firebase Cloud Functions](/Technical%20Stack/Frontend%20Developer/Services.md#firebase-cloud-functions)
+
+*   [ ] You know how to create and publish simple Firebase Cloud Functions implemented in NodeJS
+
 [Hosting](/Technical%20Stack/Frontend%20Developer/Services.md#hosting)
 ----------------------------------------------------------------------
 
@@ -44,10 +48,40 @@ Services
 *   [ ] You know how to configure and deploy the app to Netlify
 *   [ ] You know how to configure Netlify DNS to set custom domain for your app
 
+### [Firebase Website](/Technical%20Stack/Frontend%20Developer/Services.md#firebase-website)
+
+*   [ ] You know how to configure and deploy to Firebase Website
+*   [ ] You can configure it to use other firebase services
+
+[Authentication](/Technical%20Stack/Frontend%20Developer/Services.md#authentication)
+------------------------------------------------------------------------------------
+
+### [Firebase Auth](/Technical%20Stack/Frontend%20Developer/Services.md#firebase-auth)
+
+*   [ ] You know how to configure Firebase Authentication Service
+
+#### [firebaseui](/Technical%20Stack/Frontend%20Developer/Services.md#firebaseui)
+
+*   [ ] You know how to add firebase ui with proper configurations
+*   [ ] You know how to set authentication tokens and redirect users after authentication
+
+### [Auth0](/Technical%20Stack/Frontend%20Developer/Services.md#auth0)
+
+*   [ ] You know how to configure the proper tenant
+*   [ ] You know how to add application configuration
+*   [ ] You know how to redirect users to use Auth0 frontend UI
+*   [ ] You know how to style and customise Auth0 UI
+
 [Search engines](/Technical%20Stack/Frontend%20Developer/Services.md#search-engines)
 ------------------------------------------------------------------------------------
 
 *   [ ] You know at least one library which implements advanced search logic in structured documents
+
+### [fuse.js](/Technical%20Stack/Frontend%20Developer/Services.md#fuse.js)
+
+*   [ ] You know how to create a fuse structure based on an object
+*   [ ] You know how to search for items using $and and $or logical operators
+*   [ ] You know how to index a fuse structure
 
 [Analytics](/Technical%20Stack/Frontend%20Developer/Services.md#analytics)
 --------------------------------------------------------------------------

@@ -3,6 +3,16 @@ Monitoring
 
 *   [ ] Work in progress
 
+[Sentry](/Technical%20Stack/DevOps%20Developer/Monitoring.md#sentry)
+--------------------------------------------------------------------
+
+*   [ ] sentry-sdk
+
+[Logging](/Technical%20Stack/DevOps%20Developer/Monitoring.md#logging)
+----------------------------------------------------------------------
+
+*   [ ] django-fsm-log
+
 * * *
 
 Contribution

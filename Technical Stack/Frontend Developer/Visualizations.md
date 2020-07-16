@@ -9,8 +9,46 @@ You don't need to know all of the charting libraries. One is enough, but make su
 *   [ ] You used at least one charting library in a project
 *   [ ] You implemented custom interactive charts using one of the charting libraries
 
+### [nivo](/Technical%20Stack/Frontend%20Developer/Visualizations.md#nivo)
+
+*   [ ] You can create simple graphs and incorporate with React life cycle [:books:](https://medium.com/@samuelsetsoafia/nivo-a-great-alternative-to-d3-in-react-6cb18d907d2)
+*   [ ] You can incorporate application theme to modify graphs style [:books:](https://medium.com/swlh/beautiful-and-responsive-line-charts-using-nivo-react-and-material-ui-18d2cbd2953b)
+*   [ ] You can animate and add interactions to the graphs so it interacts with the React component lifecycle
+*   [ ] You know how to extend the nivo library to customise it and create non standard visualizations
+
+### [vx](/Technical%20Stack/Frontend%20Developer/Visualizations.md#vx)
+
+*   [ ] You can create simple graphs and incorporate with React life cycle [:books:](https://codedaily.io/tutorials/39/Make-a-Beautiful-Interactive-Bitcoin-Price-Chart-with-React-D3-and-VX)
+*   [ ] You can incorporate application theme to modify graphs style
+*   [ ] You can animate and add interactions to the graphs so it interacts with the React component lifecycle
+*   [ ] You know how to extend the vx library to customise it and create non standard visualizations
+
+### [d3.js](/Technical%20Stack/Frontend%20Developer/Visualizations.md#d3.js)
+
+*   [ ] You can explain the concept of data driven documents
+*   [ ] You know how to create basic graphs with specific axes [:books:](https://www.tutorialsteacher.com/d3js)
+*   [ ] You know how to interact with the SVG's nodes and bind events
+*   [ ] You know how to customise the styles of a graph to change its shape and colours
+*   [ ] You can scale the chart accordingly to the page size
+*   [ ] You can use d3 transitions to animate SVG elements
+
 [Canvas](/Technical%20Stack/Frontend%20Developer/Visualizations.md#canvas)
 --------------------------------------------------------------------------
+
+### [Pixi.js](/Technical%20Stack/Frontend%20Developer/Visualizations.md#pixi.js)
+
+*   [ ] You know how to create pixi application structure [:books:](https://www.pixijs.com/tutorials)
+*   [ ] You know how to use pixi ticker
+*   [ ] You know how to use pixi filters
+*   [ ] You know how to render text
+*   [ ] You know how to create primitive and complex shapes
+*   [ ] You know how to load and render sprites
+*   [ ] You know how to animate objects
+*   [ ] You know how to scale objects depending on device pixel density ration
+*   [ ] You know what are the pros and cons of 2D and 3D renderers
+*   [ ] You know how to use and animate a texture mesh [:books:](http://scottmcdonnell.github.io/pixi-examples/index.html?s=basics&f=textured-mesh.js&title=Textured%20Mesh)
+*   [ ] You know how to apply object pooling pattern
+*   [ ] You know how to apply spatial hash algorithm to optimize renders
 
 [SVG](/Technical%20Stack/Frontend%20Developer/Visualizations.md#svg)
 --------------------------------------------------------------------

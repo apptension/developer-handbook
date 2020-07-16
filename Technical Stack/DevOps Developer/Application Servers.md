@@ -14,6 +14,21 @@ Application Servers
 *   [ ] You know how to deploy a wsgi app (django, flask) with one of the application servers
 *   [ ] You know wsgi configuration file syntax
 
+### [uWSGI](/Technical%20Stack/DevOps%20Developer/Application%20Servers.md#u-wsgi)
+
+*   [ ] You understand the key concepts of the library
+*   [ ] You deployed at least one project using this implementation
+
+### [Gunicorn](/Technical%20Stack/DevOps%20Developer/Application%20Servers.md#gunicorn)
+
+*   [ ] You understand the key concepts of the library
+*   [ ] You deployed at least one project using this implementation
+
+### [bjoern](/Technical%20Stack/DevOps%20Developer/Application%20Servers.md#bjoern)
+
+*   [ ] You understand the key concepts of the library
+*   [ ] You deployed at least one project using this implementation
+
 * * *
 
 Contribution

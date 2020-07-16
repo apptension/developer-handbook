@@ -20,6 +20,16 @@ Audio and Video
 
 *   [ ] You have used at least one video player libraries
 
+### [react-player](/Technical%20Stack/Frontend%20Developer/Audio%20and%20Video.md#react-player)
+
+*   [ ] You know how to style the player
+
+### [jwplayer](/Technical%20Stack/Frontend%20Developer/Audio%20and%20Video.md#jwplayer)
+
+*   [ ] You know how to implement the player in a React environment
+*   [ ] You know how to style the player
+*   [ ] You know how to configure the player to allow multiple quality levels
+
 * * *
 
 Contribution

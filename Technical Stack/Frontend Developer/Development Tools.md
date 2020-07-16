@@ -12,6 +12,12 @@ Development Tools
 *   [ ] You know how to pass environmental variables to the application
 *   [ ] You know how to configure a webpack from scratch to generate a project's build
 
+### [Rollup](/Technical%20Stack/Frontend%20Developer/Development%20Tools.md#rollup)
+
+*   [ ] You can configure a build process using Rollup's API
+*   [ ] You know the key concepts: input, output, targets and plugins
+*   [ ] You can add needed plugins and are able to configure them
+
 [Package managers](/Technical%20Stack/Frontend%20Developer/Development%20Tools.md#package-managers)
 ---------------------------------------------------------------------------------------------------
 

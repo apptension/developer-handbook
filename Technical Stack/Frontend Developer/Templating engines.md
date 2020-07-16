@@ -4,6 +4,40 @@ Templating engines
 *   [ ] Emails
 *   [ ] You know how to use templating engines in various situations that require you to create a parametrized text file
 
+[Mustache](/Technical%20Stack/Frontend%20Developer/Templating%20engines.md#mustache)
+------------------------------------------------------------------------------------
+
+*   [ ] You can render a mustache template using an object with key:values
+*   [ ] You know how to ignore a mustache tag so it's not replaced but rendered in HTML instead
+*   [ ] You know how to use sections and manipulate data to not render null or use functions
+*   [ ] You know how to use partials
+
+[Handlebars](/Technical%20Stack/Frontend%20Developer/Templating%20engines.md#handlebars)
+----------------------------------------------------------------------------------------
+
+*   [ ] You know how to render a handlebars template
+*   [ ] You know how to parse nested objects
+*   [ ] You know how to use handlebars functions
+*   [ ] You know how to create a helper function
+*   [ ] You know how to escape HTML
+*   [ ] You know how to use partials
+
+[markdown-it](/Technical%20Stack/Frontend%20Developer/Templating%20engines.md#markdown-it)
+------------------------------------------------------------------------------------------
+
+*   [ ] You customise the markdown styles
+*   [ ] You can escape or skip html tags
+*   [ ] You can add plugins
+*   [ ] You can use the APIs functions to manipulate data
+
+[react-markdown](/Technical%20Stack/Frontend%20Developer/Templating%20engines.md#react-markdown)
+------------------------------------------------------------------------------------------------
+
+*   [ ] You customise the markdown styles
+*   [ ] You can escape or skip html tags
+*   [ ] You can add plugins
+*   [ ] You can add parsers
+
 * * *
 
 Contribution

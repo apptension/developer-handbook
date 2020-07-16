@@ -3,6 +3,16 @@ Monitoring
 
 *   [ ] You know how to configure a reporter for a chosen monitoring platform
 
+[sentry-javascript](/Technical%20Stack/Frontend%20Developer/Monitoring.md#sentry-javascript)
+--------------------------------------------------------------------------------------------
+
+*   [ ] You know how to configure Sentry for React
+
+[snyk](/Technical%20Stack/Frontend%20Developer/Monitoring.md#snyk)
+------------------------------------------------------------------
+
+*   [ ] You know how to configure Snyk to find packages vulnerabilities
+
 * * *
 
 Contribution

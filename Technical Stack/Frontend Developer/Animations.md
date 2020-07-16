@@ -12,11 +12,31 @@ Animations
 *   [ ] You understand the 4 states of react-transition-group
 *   [ ] You can animate elements after application's state changes
 
+### [framer-motion](/Technical%20Stack/Frontend%20Developer/Animations.md#framer-motion)
+
+*   [ ] You can animate elements after application's state changes [:books:](https://andrejgajdos.com/orchestrating-animations-with-framer-motion-in-react-js/)
+
+### [react-spring](/Technical%20Stack/Frontend%20Developer/Animations.md#react-spring)
+
+*   [ ] You can animate elements after application's state changes
+
 [Animation Libraries](/Technical%20Stack/Frontend%20Developer/Animations.md#animation-libraries)
 ------------------------------------------------------------------------------------------------
 
 *   [ ] You know well at least one of the animation libraries
 *   [ ] You can implement complex animations with multiple phases
+
+### [anime.js](/Technical%20Stack/Frontend%20Developer/Animations.md#anime.js)
+
+*   [ ] You can animate elements after application's state changes
+
+### [gsap](/Technical%20Stack/Frontend%20Developer/Animations.md#gsap)
+
+*   [ ] You can create animations using from, to, fromTo
+*   [ ] You can use built-in easing functions
+*   [ ] You are familiar with the multiple GSAP APIs and can decide which one to use
+*   [ ] You can create a custom easing function
+*   [ ] You can create timelines, play animations in sequence or in parallel
 
 [CSS Animations](/Technical%20Stack/Frontend%20Developer/Animations.md#css-animations)
 --------------------------------------------------------------------------------------
@@ -31,12 +51,23 @@ Animations
 
 *   [ ] You know how to animate elements after they appear in the viewport
 
+#### [scrollmagic](/Technical%20Stack/Frontend%20Developer/Animations.md#scrollmagic)
+
+*   [ ] You know how to use scrollmagic and understand the pros and cons
+*   [ ] You know how to mitigate possible mobile performance losses
+
 ### [Parallax animations](/Technical%20Stack/Frontend%20Developer/Animations.md#parallax-animations)
 
 *   [ ] You know what parallax animation is and can implement it either manually or using one of the available libraries
 
 [Techniques](/Technical%20Stack/Frontend%20Developer/Animations.md#techniques)
 ------------------------------------------------------------------------------
+
+### [FLIP](/Technical%20Stack/Frontend%20Developer/Animations.md#flip)
+
+[https://aerotwist.com/blog/flip-your-animations/](https://aerotwist.com/blog/flip-your-animations/)
+
+*   [ ] You know how to apply FLIP in the React's component lifecycle
 
 * * *
 

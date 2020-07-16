@@ -25,6 +25,11 @@ Application state management
 *   [ ] You know how to define a reducer function for a specific action type.
 *   [ ] You know how to use slices
 
+#### [reduxsauce](/Technical%20Stack/Frontend%20Developer/Application%20state%20management.md#reduxsauce)
+
+*   [ ] You know how to create reducers
+*   [ ] You can create your own actions and action types.
+
 ### [redux-persist](/Technical%20Stack/Frontend%20Developer/Application%20state%20management.md#redux-persist)
 
 *   [ ] You know how to persist part of the state tree to local storage
@@ -40,6 +45,23 @@ Application state management
 *   [ ] You know how to create a reducer that uses immer [:books:](https://hackernoon.com/introducing-immer-immutability-the-easy-way-9d73d8f71cb3)
 *   [ ] You know how to convert immutable structure to regular JavaScript object
 *   [ ] You can explain how immer works internally.
+
+### [Immutable.js](/Technical%20Stack/Frontend%20Developer/Application%20state%20management.md#immutable.js)
+
+*   [ ] You know how to create an immutable structure [:books:](https://www.freecodecamp.org/news/immutable-js-is-intimidating-heres-how-to-get-started-2db1770466d6/)
+*   [ ] You know how to perform basic operations: order, update, set, map, get
+*   [ ] You know how to convert a json structure into immutable structure, and vice-versa
+*   [ ] You know how to manipulate big structures and operations to avoid in order to keep performance
+
+#### [redux-immutable](/Technical%20Stack/Frontend%20Developer/Application%20state%20management.md#redux-immutable)
+
+*   [ ] You know how to use the store with immutable structures [:books:](https://redux.js.org/recipes/using-immutablejs-with-redux)
+
+### [seamless-immutable](/Technical%20Stack/Frontend%20Developer/Application%20state%20management.md#seamless-immutable)
+
+*   [ ] You understand the difference between immutable and seamless immutable [:books:](https://medium.com/@ckoster22/seamless-immutable-an-alternative-to-immutablejs-12795d6bf577)
+*   [ ] You know how to transform regular structures into seamless immutable structures, and vice-versa
+*   [ ] You know how to reconcile native functions (map, sort, etc) with seamless immutable functions (flatMap, merge, sort, etc)
 
 [Selectors](/Technical%20Stack/Frontend%20Developer/Application%20state%20management.md#selectors)
 --------------------------------------------------------------------------------------------------

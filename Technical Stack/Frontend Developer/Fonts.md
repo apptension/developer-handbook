@@ -5,6 +5,19 @@ Fonts
 *   [ ] You know how to load custom webfonts provided to you in a file
 *   [ ] You understand the problem of webfont optimization and can apply best practices to a project [:books:](https://developers.google.com/web/fundamentals/performance/optimizing-content-efficiency/webfont-optimization)
 
+[fontfaceobserver](/Technical%20Stack/Frontend%20Developer/Fonts.md#fontfaceobserver)
+-------------------------------------------------------------------------------------
+
+*   [ ] You know how to load a font
+*   [ ] You know how to react to a font that has been loaded or failed to load
+
+[webfont-loader](/Technical%20Stack/Frontend%20Developer/Fonts.md#webfont-loader)
+---------------------------------------------------------------------------------
+
+*   [ ] You know how to load a font
+*   [ ] You know how to react to events changes
+*   [ ] You know how to configure multiple font options
+
 * * *
 
 Contribution

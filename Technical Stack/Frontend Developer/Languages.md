@@ -6,6 +6,11 @@ Languages
 
 *   [ ] You know javascript
 
+[TypeScript](/Technical%20Stack/Frontend%20Developer/Languages.md#type-script)
+------------------------------------------------------------------------------
+
+*   [ ] You know typescript
+
 * * *
 
 Contribution

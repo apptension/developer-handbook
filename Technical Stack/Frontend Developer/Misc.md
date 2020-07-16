@@ -32,6 +32,14 @@ Misc
 
 *   [ ] You have used one of the text editor libraries
 
+### [Slate](/Technical%20Stack/Frontend%20Developer/Misc.md#slate)
+
+*   [ ] You have used the library in a project
+
+### [Froala](/Technical%20Stack/Frontend%20Developer/Misc.md#froala)
+
+*   [ ] You have used the library in a project
+
 * * *
 
 Contribution

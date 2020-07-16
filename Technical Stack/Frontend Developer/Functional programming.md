@@ -12,6 +12,13 @@ Functional programming
 *   [ ] You know how to pipe functions to produce a step by step processing sequence
 *   [ ] You can use basic functions such as map, mapValues, find, sort, sortBy, concat, equals, cond, ifElse [:books:](https://randycoulman.com/blog/2016/05/24/thinking-in-ramda-getting-started/)
 
+[lodash](/Technical%20Stack/Frontend%20Developer/Functional%20programming.md#lodash)
+------------------------------------------------------------------------------------
+
+*   [ ] You use functions as input for other functions
+*   [ ] You can use arbitrary functions to manipulate arrays and objects
+*   [ ] You use debounce and throttle
+
 * * *
 
 Contribution
