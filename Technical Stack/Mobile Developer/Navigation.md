@@ -1,23 +1,18 @@
-Functional programming
-======================
+Navigation
+==========
 
-*   [ ] You know the key concepts of functional programming: pure functions, same input -> same output, no side-effects [:books:](https://thecodeboss.dev/2016/12/core-functional-programming-concepts/)
-*   [ ] You know and use concepts such as immutability, first-class functions, referential transparency and recursion
+[@react-navigation/native](/Technical%20Stack/Mobile%20Developer/Navigation.md#@react-navigation/native)
+--------------------------------------------------------------------------------------------------------
 
-[ramda](/Technical%20Stack/Frontend%20Developer/Functional%20programming.md#ramda)
-----------------------------------------------------------------------------------
-
-*   [ ] You know how to curry a function [:books:](https://www.educative.io/courses/functional-programming-patterns-with-ramdajs/xV9vlmDPJAE)
-*   [ ] You know how to compose a function from other functions
-*   [ ] You know how to pipe functions to produce a step by step processing sequence
-*   [ ] You can use basic functions such as map, mapValues, find, sort, sortBy, concat, equals, cond, ifElse [:books:](https://randycoulman.com/blog/2016/05/24/thinking-in-ramda-getting-started/)
-
-[lodash](/Technical%20Stack/Frontend%20Developer/Functional%20programming.md#lodash)
-------------------------------------------------------------------------------------
-
-*   [ ] You use functions as input for other functions
-*   [ ] You can use arbitrary functions to manipulate arrays and objects
-*   [ ] You can use debounce and throttle
+*   [ ] You know how to create stack navigator
+*   [ ] You know how to create tab navigator
+*   [ ] You know how to create drawer navigator
+*   [ ] You know how to navigate between screens
+*   [ ] You know how to pass parameters between screens
+*   [ ] You know how to create custom screen animation
+*   [ ] You know how to use navigator listeners
+*   [ ] You know how to track screens for Analytics
+*   [ ] You know how to listen screen focus
 
 * * *
 

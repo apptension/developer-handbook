@@ -5,17 +5,20 @@ Application state management
 ------------------------------------------------------------------------------------------
 
 *   [ ] You can describe full Redux flow [:books:](https://www.youtube.com/watch?v=1w-oQ-i1XB8)
-*   [ ] You know how to define a new Redux module (Reducer, Saga, Selector) [:books:](https://github.com/apptension/cra-template-apptension/tree/master/template/src/modules)
 *   [ ] You know how to dispatch Redux action (outside React context)
+*   [ ] You know what it does and can use <code>combineReducers</code> function
+*   [ ] You know how to apply a middleware / enhancer when creating redux store
+*   [ ] You know what is a difference between middleware and enhancer
 
 ### [react-redux](/Technical%20Stack/Frontend%20Developer/Application%20state%20management.md#react-redux)
 
 *   [ ] You know how to apply selector functions to <code>useSelector</code> hook. [:books:](https://levelup.gitconnected.com/react-redux-hooks-useselector-and-usedispatch-f7d8c7f75cdd)
 *   [ ] You know how to dispatch actions from React component. [:books:](https://redux.js.org/basics/example)
+*   [ ] You know how to implement your own <code>connect</code> higher order component
 
 ### [Redux toolset](/Technical%20Stack/Frontend%20Developer/Application%20state%20management.md#redux-toolset)
 
-*   [ ] You can use one of the toolset libraries to create reducers, action types, and action creators more efficiently
+*   [ ] You can use one of the listed toolset libraries to create reducers, action types, and action creators more efficiently
 
 #### [redux-toolkit](/Technical%20Stack/Frontend%20Developer/Application%20state%20management.md#redux-toolkit)
 
@@ -28,7 +31,7 @@ Application state management
 #### [reduxsauce](/Technical%20Stack/Frontend%20Developer/Application%20state%20management.md#reduxsauce)
 
 *   [ ] You know how to create reducers
-*   [ ] You can create your own actions and action types.
+*   [ ] You can create your own action creators and action types.
 
 ### [redux-persist](/Technical%20Stack/Frontend%20Developer/Application%20state%20management.md#redux-persist)
 
@@ -44,22 +47,23 @@ Application state management
 
 *   [ ] You know how to create a reducer that uses immer [:books:](https://hackernoon.com/introducing-immer-immutability-the-easy-way-9d73d8f71cb3)
 *   [ ] You know how to convert immutable structure to regular JavaScript object
+*   [ ] You know the difference between only changing state object and returning a changed state object
 *   [ ] You can explain how immer works internally.
 
 ### [Immutable.js](/Technical%20Stack/Frontend%20Developer/Application%20state%20management.md#immutable.js)
 
 *   [ ] You know how to create an immutable structure [:books:](https://www.freecodecamp.org/news/immutable-js-is-intimidating-heres-how-to-get-started-2db1770466d6/)
-*   [ ] You know how to perform basic operations: order, update, set, map, get
+*   [ ] You know how to read data from the immutable structure
+*   [ ] You know how to create a new data structure with modified state out of an existing one
+*   [ ] You know how to use the store with immutable structures using <code>redux-immutable</code> [:books:](https://redux.js.org/recipes/using-immutablejs-with-redux)
 *   [ ] You know how to convert a json structure into immutable structure, and vice-versa
-*   [ ] You know how to manipulate big structures and operations to avoid in order to keep performance
-
-#### [redux-immutable](/Technical%20Stack/Frontend%20Developer/Application%20state%20management.md#redux-immutable)
-
-*   [ ] You know how to use the store with immutable structures [:books:](https://redux.js.org/recipes/using-immutablejs-with-redux)
+*   [ ] You know how to manipulate big structures and which operations you should avoid in order to keep performance
 
 ### [seamless-immutable](/Technical%20Stack/Frontend%20Developer/Application%20state%20management.md#seamless-immutable)
 
-*   [ ] You understand the difference between immutable and seamless immutable [:books:](https://medium.com/@ckoster22/seamless-immutable-an-alternative-to-immutablejs-12795d6bf577)
+*   [ ] You know how to read data from the immutable structure
+*   [ ] You know how to create a new data structure with modified state out of an existing one
+*   [ ] You understand the difference between <code>immutable.js</code> and <code>seamless-immutable</code> [:books:](https://medium.com/@ckoster22/seamless-immutable-an-alternative-to-immutablejs-12795d6bf577)
 *   [ ] You know how to transform regular structures into seamless immutable structures, and vice-versa
 *   [ ] You know how to reconcile native functions (map, sort, etc) with seamless immutable functions (flatMap, merge, sort, etc)
 
@@ -79,10 +83,11 @@ Application state management
 ### [redux-saga](/Technical%20Stack/Frontend%20Developer/Application%20state%20management.md#redux-saga)
 
 *   [ ] You know how to take a side effect and dispatch an action based on it [:books:](https://redux-saga.js.org/docs/api/#putaction)
+*   [ ] You know how to run asynchronous functions (e.g. <code>fetch</code>) after something dispatches an action
 *   [ ] You know how to select data from Redux state using selector functions inside sagas. [:books:](https://redux-saga.js.org/docs/api/#selectselector-args)
 *   [ ] You understand the concept of Javascript generators [:books:](https://www.youtube.com/watch?v=ategZqxHkz4)
-*   [ ] You know to sequence Sagas and how to run them in parallel [:books:](https://redux-saga.js.org/docs/advanced/RunningTasksInParallel.html)
 *   [ ] You know how to wait for an another action from inside the running saga. [:books:](https://redux-saga.js.org/docs/api/#takepattern)
+*   [ ] You know to sequence Sagas and how to run them in parallel [:books:](https://redux-saga.js.org/docs/advanced/RunningTasksInParallel.html)
 *   [ ] You can name <code>eventChannel</code> use cases and know how to implement a saga using it. [:books:](https://redux-saga.js.org/docs/advanced/Channels.html)
 *   [ ] You can name <code>actionChannel</code> use cases and know how to implement a saga using it. [:books:](https://redux-saga.js.org/docs/advanced/Channels.html)
 
@@ -90,6 +95,7 @@ Application state management
 
 *   [ ] You know how to create your own routine
 *   [ ] You know how to promisify a routine
+*   [ ] You know how to wait for a routine fulfillment inside a component
 *   [ ] You understand the advantages of standardizing action type's name
 *   [ ] You know how to manipulate the payload with payloadCreator
 *   [ ] You know how to enhance the payload with metaCreator

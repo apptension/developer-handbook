@@ -4,17 +4,6 @@ Audio and Video
 *   [ ] You know how to use standard HTML Audio and Video tags
 *   [ ] You know which formats and codecs should be used to support all modern browsers
 
-[Streaming](/Technical%20Stack/Frontend%20Developer/Audio%20and%20Video.md#streaming)
--------------------------------------------------------------------------------------
-
-### [HLS](/Technical%20Stack/Frontend%20Developer/Audio%20and%20Video.md#hls)
-
-*   [ ] You understand what HLS is, and are able to use it with a chosen player
-
-### [MPEG Dash](/Technical%20Stack/Frontend%20Developer/Audio%20and%20Video.md#mpeg-dash)
-
-*   [ ] You understand what MPEG Dash is, and are able to use it with a chosen player
-
 [Players](/Technical%20Stack/Frontend%20Developer/Audio%20and%20Video.md#players)
 ---------------------------------------------------------------------------------
 
@@ -29,6 +18,17 @@ Audio and Video
 *   [ ] You know how to implement the player in a React environment
 *   [ ] You know how to style the player
 *   [ ] You know how to configure the player to allow multiple quality levels
+
+[Streaming](/Technical%20Stack/Frontend%20Developer/Audio%20and%20Video.md#streaming)
+-------------------------------------------------------------------------------------
+
+### [HLS](/Technical%20Stack/Frontend%20Developer/Audio%20and%20Video.md#hls)
+
+*   [ ] You understand what HLS is, and are able to use it with a chosen player
+
+### [MPEG Dash](/Technical%20Stack/Frontend%20Developer/Audio%20and%20Video.md#mpeg-dash)
+
+*   [ ] You understand what MPEG Dash is, and are able to use it with a chosen player
 
 * * *
 

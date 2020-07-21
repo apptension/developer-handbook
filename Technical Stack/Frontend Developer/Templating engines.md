@@ -1,7 +1,6 @@
 Templating engines
 ==================
 
-*   [ ] Emails
 *   [ ] You know how to use templating engines in various situations that require you to create a parametrized text file
 
 [Mustache](/Technical%20Stack/Frontend%20Developer/Templating%20engines.md#mustache)

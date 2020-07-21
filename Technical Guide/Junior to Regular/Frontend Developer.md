@@ -6,33 +6,31 @@ Frontend Developer
 Company practices
 -----------------
 
-### [Security](/Technical%20Stack/Frontend%20Developer/Company%20practices.md#security)
-
-#### [Keeper Security](/Technical%20Stack/Frontend%20Developer/Company%20practices.md#keeper-security)
-
-*   [ ] You know how to share secret values with other employees. [:books:](https://docs.keeper.io/user-guides/)
-
-#### [Onetimesecret](/Technical%20Stack/Frontend%20Developer/Company%20practices.md#onetimesecret)
-
-*   [ ] You know how to share secret values externally [:books:](https://support.painchek.com/hc/en-us/articles/360038504674-How-to-use-One-Time-Secret)
-
 ### [Git](/Technical%20Stack/Frontend%20Developer/Company%20practices.md#git)
 
 *   [ ] You create pull requests with proper name and description [:books:](https://medium.com/@hugooodias/the-anatomy-of-a-perfect-pull-request-567382bb6067)
 *   [ ] You squash merge your pull requests [:books:](https://blog.pairworking.com/why-you-should-care-about-squash-and-merge-in-git-675856bf66b0)
 *   [ ] You name your commits properly [:books:](https://chris.beams.io/posts/git-commit/)
-*   [ ] You review PRs carefully and leave your comments [:books:](https://www.pullrequest.com/blog/what-belongs-in-an-effective-code-review-checklist/)
-*   [ ] You know how to configure rules in a repository for merging to specific branches (master, develop)
 
-#### [Bitbucket](/Technical%20Stack/Frontend%20Developer/Company%20practices.md#bitbucket)
+#### [GitHub](/Technical%20Stack/Frontend%20Developer/Company%20practices.md#git-hub)
 
-*   [ ] You know how to reference a Jira ticket in your commit
+*   [ ] You know how to create and reference issues
+*   [ ] You know how to verify when a build check failed
 
 ### [Communication](/Technical%20Stack/Frontend%20Developer/Company%20practices.md#communication)
 
 #### [Slack](/Technical%20Stack/Frontend%20Developer/Company%20practices.md#slack)
 
 *   [ ] You use Slack statuses in line with company policy (remote working, vacationing, in a meeting, etc)
+*   [ ] You know how to create groups and channels
+
+#### [Small Improvements](/Technical%20Stack/Frontend%20Developer/Company%20practices.md#small-improvements)
+
+*   [ ] You know how to give praise and add talk topics to a 1:1 meeting
+
+#### [Email](/Technical%20Stack/Frontend%20Developer/Company%20practices.md#email)
+
+*   [ ] You can configure local email client
 
 React
 -----
@@ -46,6 +44,7 @@ React is an open-source JavaScript library for building user interfaces. It is m
 *   [ ] You know how to define and modify local component's state. [:books:](https://reactjs.org/docs/faq-state.html)
 *   [ ] You know what Virtual DOM is and how React uses it to render components. [:books:](https://www.youtube.com/watch?v=RquK3TImY9U)
 *   [ ] You know how to use element events and how to incorporate them in React lifecycle [:books:](https://stackoverflow.com/questions/29303456/reactjs-onclick-change-element/29304703#29304703)
+*   [ ] You know component's lifecycle and know how to use each of the phases. [:books:](https://www.youtube.com/watch?v=m_mtV4YaI8c)
 
 ### [Apptension Boilerplate](/Technical%20Stack/Frontend%20Developer/React.md#apptension-boilerplate)
 
@@ -53,8 +52,6 @@ React is an open-source JavaScript library for building user interfaces. It is m
 *   [ ] You know how to run a linter
 *   [ ] You know how to define a new Redux module (Reducer, Saga, Selector)
 *   [ ] You know how to create a new route and its component
-*   [ ] You understand the difference between <code>src/routes</code> and <code>src/shared/components</code> directories
-*   [ ] You can use plop to generate modules and components
 
 ### [Hooks](/Technical%20Stack/Frontend%20Developer/React.md#hooks)
 
@@ -75,6 +72,8 @@ Application state management
 
 #### [Redux toolset](/Technical%20Stack/Frontend%20Developer/Application%20state%20management.md#redux-toolset)
 
+*   [ ] You can use one of the listed toolset libraries to create reducers, action types, and action creators more efficiently
+
 ##### [redux-toolkit](/Technical%20Stack/Frontend%20Developer/Application%20state%20management.md#redux-toolkit)
 
 *   [ ] You know how to create a reducer. [:books:](https://redux-toolkit.js.org/tutorials/basic-tutorial)
@@ -88,6 +87,22 @@ Application state management
 #### [immer](/Technical%20Stack/Frontend%20Developer/Application%20state%20management.md#immer)
 
 *   [ ] You know how to create a reducer that uses immer [:books:](https://hackernoon.com/introducing-immer-immutability-the-easy-way-9d73d8f71cb3)
+*   [ ] You know how to convert immutable structure to regular JavaScript object
+*   [ ] You know the difference between only changing state object and returning a changed state object
+
+#### \[Optional\] [Immutable.js](/Technical%20Stack/Frontend%20Developer/Application%20state%20management.md#immutable.js)
+
+*   [ ] You know how to create an immutable structure [:books:](https://www.freecodecamp.org/news/immutable-js-is-intimidating-heres-how-to-get-started-2db1770466d6/)
+*   [ ] You know how to read data from the immutable structure
+*   [ ] You know how to create a new data structure with modified state out of an existing one
+*   [ ] You know how to use the store with immutable structures using <code>redux-immutable</code> [:books:](https://redux.js.org/recipes/using-immutablejs-with-redux)
+*   [ ] You know how to convert a json structure into immutable structure, and vice-versa
+
+#### \[Optional\] [seamless-immutable](/Technical%20Stack/Frontend%20Developer/Application%20state%20management.md#seamless-immutable)
+
+*   [ ] You know how to read data from the immutable structure
+*   [ ] You know how to create a new data structure with modified state out of an existing one
+*   [ ] You understand the difference between <code>immutable.js</code> and <code>seamless-immutable</code> [:books:](https://medium.com/@ckoster22/seamless-immutable-an-alternative-to-immutablejs-12795d6bf577)
 
 ### [Selectors](/Technical%20Stack/Frontend%20Developer/Application%20state%20management.md#selectors)
 
@@ -102,7 +117,7 @@ Application state management
 #### [redux-saga](/Technical%20Stack/Frontend%20Developer/Application%20state%20management.md#redux-saga)
 
 *   [ ] You know how to take a side effect and dispatch an action based on it [:books:](https://redux-saga.js.org/docs/api/#putaction)
-*   [ ] You know how to select data from Redux state using selector functions inside sagas. [:books:](https://redux-saga.js.org/docs/api/#selectselector-args)
+*   [ ] You know how to run asynchronous functions (e.g. <code>fetch</code>) after something dispatches an action
 
 Styling
 -------
@@ -114,7 +129,6 @@ Styling
 *   [ ] You know how to display and properly scale images [:books:](https://css-tricks.com/aspect-ratio-boxes/)
 *   [ ] You know how to center an element horizontally and vertically [:books:](https://css-tricks.com/centering-css-complete-guide/)
 *   [ ] You know how to use media queries
-*   [ ] You know how to add and use webfonts [:books:](https://css-tricks.com/snippets/css/using-font-face/)
 
 #### [CSS in JS](/Technical%20Stack/Frontend%20Developer/Styling.md#css-in-js)
 
@@ -122,8 +136,6 @@ Styling
 
 *   [ ] You can create a styled component for a primitive element [:books:](https://styled-components.com/docs/basics#getting-started)
 *   [ ] You can extend styles of an existing component [:books:](https://styled-components.com/docs/basics#extending-styles)
-*   [ ] You can apply global styles [:books:](https://www.robinwieruch.de/react-styled-components)
-*   [ ] You can implement media queries [:books:](https://medium.com/@samuelresua/easy-media-queries-in-styled-components-690b78f50053)
 
 #### [Flexbox](/Technical%20Stack/Frontend%20Developer/Styling.md#flexbox)
 
@@ -134,6 +146,16 @@ You can learn how to style HTML elements with flexbox by reading this awesome gu
 *   [ ] You know how to stretch child element to the size of its parent [:books:](https://medium.com/@gaurav5430/css-flex-positioning-gotchas-child-expands-to-more-than-the-width-allowed-by-the-parent-799c37428dd6)
 *   [ ] You can properly use flex-basis and flex-wrap [:books:](https://css-tricks.com/almanac/properties/f/flex-wrap/)
 
+#### [CSS Grid](/Technical%20Stack/Frontend%20Developer/Styling.md#css-grid)
+
+*   [ ] You know how to divide a web page to rows and columns
+*   [ ] You can position elements in a grid
+
+### \[Optional\] [Sass](/Technical%20Stack/Frontend%20Developer/Styling.md#sass)
+
+*   [ ] You understand the SCSS syntax and file extensions [:books:](https://www.youtube.com/watch?v=_a5j7KoflTs)
+*   [ ] You know how to create and use scss variables
+
 ### [UI Kits](/Technical%20Stack/Frontend%20Developer/Styling.md#ui-kits)
 
 *   [ ] You understand basics of at least one of the UI Kit libraries [:books:](https://material-ui.com/getting-started/installation/)
@@ -142,11 +164,19 @@ Date & Time
 -----------
 
 *   [ ] You know how to create a Date object for a specific date [:books:](https://www.digitalocean.com/community/tutorials/understanding-date-and-time-in-javascript)
+*   [ ] You know how to compare native date objects
 
-### [date-fns](/Technical%20Stack/Frontend%20Developer/Date%20&%20Time.md#date-fns)
+### \[Optional\] [react-datetime](/Technical%20Stack/Frontend%20Developer/Date%20&%20Time.md#react-datetime)
 
-*   [ ] You know how to create a date-fns date object for specific date [:books:](https://date-fns.org/v2.0.0-alpha.7/docs/FP-Guide#usage)
-*   [ ] You know how to format and display a date object using standard format strings [:books:](https://www.digitalocean.com/community/tutorials/js-date-fns)
+*   [ ] You know how to format and display a date object using standard format strings
+
+### \[Optional\] [moment.js](/Technical%20Stack/Frontend%20Developer/Date%20&%20Time.md#moment.js)
+
+*   [ ] You know how to format and display a date object using standard format strings
+
+### \[Optional\] [dayjs](/Technical%20Stack/Frontend%20Developer/Date%20&%20Time.md#dayjs)
+
+*   [ ] You know how to format and display a date object using standard format strings
 
 Routing
 -------
@@ -157,8 +187,7 @@ Routing
 *   [ ] You know how to add parameters to a route, and make them required or optional [:books:](https://scotch.io/courses/using-react-router-4/route-params)
 *   [ ] You know how to match exactly the route needed [:books:](https://stackoverflow.com/questions/49162311/react-difference-between-route-exact-path-and-route-path)
 *   [ ] You know how to render 404 pages [:books:](https://ui.dev/react-router-v4-handling-404-pages/)
-*   [ ] You know how to interact with browser history via the history API [:books:](https://reactrouter.com/web/api/history)
-*   [ ] You know how to use basic router hooks (useHistory, useLocation, useParams, useRouteMatch) [:books:](https://reactrouter.com/web/api/Hooks)
+*   [ ] You know how to use <Redirect> in order to render a needed component in a given occasion
 
 ### [react-router-dom](/Technical%20Stack/Frontend%20Developer/Routing.md#react-router-dom)
 
@@ -177,7 +206,11 @@ Internationalization
 ### [react-Intl](/Technical%20Stack/Frontend%20Developer/Internationalization.md#react-intl)
 
 *   [ ] You know and use React-intl components [:books:](https://www.newline.co/@dmitryrogozhny/quick-introduction-to-internationalization-in-react-with-react-intl--13b17de9)
-*   [ ] You know how to create messages files using defineMessage api [:books:](https://github.com/apptension/cra-template-apptension/blob/master/template/src/routes/home/home.messages.ts)
+
+Audio and Video
+---------------
+
+*   [ ] You know how to use standard HTML Audio and Video tags
 
 Development Tools
 -----------------
@@ -187,7 +220,6 @@ Development Tools
 #### [Webpack](/Technical%20Stack/Frontend%20Developer/Development%20Tools.md#webpack)
 
 *   [ ] You understand what webpack is used for and what problem it solves [:books:](https://hackernoon.com/webpack-3-quickstarter-configure-webpack-from-scratch-30a6c394038a)
-*   [ ] You understand what webpack plugins are and you can add and configure when needed [:books:](https://webpack.js.org/plugins/html-webpack-plugin/#basic-usage)
 
 ### [Package managers](/Technical%20Stack/Frontend%20Developer/Development%20Tools.md#package-managers)
 
@@ -195,23 +227,17 @@ Development Tools
 
 *   [ ] You're able to use inline commands to add, install & remove packages [:books:](https://devhints.io/yarn)
 *   [ ] You understand the benefits of <code>yarn.lock</code> file [:books:](https://www.robertcooper.me/how-yarn-lock-files-work-and-upgrading-dependencies)
-*   [ ] You know how to run package.json scripts [:books:](https://classic.yarnpkg.com/en/docs/cli/run/)
 
 #### [NPM](/Technical%20Stack/Frontend%20Developer/Development%20Tools.md#npm)
 
 *   [ ] You're able to use inline commands to add, install & remove packages [:books:](https://devhints.io/npm)
 *   [ ] You understand the benefits of <code>package-lock.json</code> file [:books:](https://stackoverflow.com/questions/44297803/what-is-the-role-of-the-package-lock-json)
-*   [ ] You know how to run package.json scripts [:books:](https://michael-kuehnel.de/tooling/2018/03/22/helpers-and-tips-for-npm-run-scripts.html#:~:text=You%20can%20easily%20run%20scripts,instead%20of%20pointing%20to%20node_modules%2F.)
 
 ### [Generators](/Technical%20Stack/Frontend%20Developer/Development%20Tools.md#generators)
 
 #### [create-react-app](/Technical%20Stack/Frontend%20Developer/Development%20Tools.md#create-react-app)
 
 *   [ ] You can generate a new app using create-react-app cli [:books:](https://create-react-app.dev/docs/getting-started/#creating-an-app)
-
-#### [plop.js](/Technical%20Stack/Frontend%20Developer/Development%20Tools.md#plop.js)
-
-*   [ ] You can create components using plop command line tool [:books:](https://blog.logrocket.com/automatically-generate-your-own-react-components-with-plop-js-2da3b39914f3/)
 
 ### [React](/Technical%20Stack/Frontend%20Developer/Development%20Tools.md#react)
 
@@ -223,48 +249,30 @@ Development Tools
 
 *   [ ] You use <code>redux-devtools</code> to see the current state and play with the state change history [:books:](https://reactjs.org/docs/typechecking-with-proptypes.html)
 
-### [Linters](/Technical%20Stack/Frontend%20Developer/Development%20Tools.md#linters)
-
-#### [eslint](/Technical%20Stack/Frontend%20Developer/Development%20Tools.md#eslint)
-
-*   [ ] You can run eslint and fix the warnings and errors [:books:](https://eslint.org/docs/user-guide/command-line-interface)
-
-#### [prettier](/Technical%20Stack/Frontend%20Developer/Development%20Tools.md#prettier)
-
-*   [ ] You can run prettier and auto-correct errors [:books:](https://prettier.io/docs/en/cli.html)
-
-Functional programming
-----------------------
-
-*   [ ] You know the key concepts of functional programming: pure functions, same input -> same output, no side-effects [:books:](https://thecodeboss.dev/2016/12/core-functional-programming-concepts/)
-
-### [ramda](/Technical%20Stack/Frontend%20Developer/Functional%20programming.md#ramda)
-
-*   [ ] You know how to curry a function [:books:](https://www.educative.io/courses/functional-programming-patterns-with-ramdajs/xV9vlmDPJAE)
-*   [ ] You know how to compose a function from other functions
-*   [ ] You know how to pipe functions to produce a step by step processing sequence
-*   [ ] You can use basic functions such as map, mapValues, find, sort, sortBy, concat, equals, cond, ifElse [:books:](https://randycoulman.com/blog/2016/05/24/thinking-in-ramda-getting-started/)
-
 HTTP
 ----
 
 ### [Requests](/Technical%20Stack/Frontend%20Developer/HTTP.md#requests)
 
+*   [ ] You know what cookies are
+*   [ ] You know what HTTP headers are
+
 #### [fetch](/Technical%20Stack/Frontend%20Developer/HTTP.md#fetch)
 
 *   [ ] You know how to create an HTTP request using native <code>fetch</code> [:books:](https://developer.mozilla.org/en-US/docs/Web/API/Fetch_API/Using_Fetch)
-*   [ ] You know how to handle errors returned in HTTP response [:books:](https://levelup.gitconnected.com/the-definite-guide-to-handling-errors-gracefully-in-javascript-58424d9c60e6)
+*   [ ] You know how to set HTTP headers in a request
 
 #### [Axios](/Technical%20Stack/Frontend%20Developer/HTTP.md#axios)
 
 *   [ ] You know how to use axios to send HTTP request to an API endpoint [:books:](https://github.com/apptension/cra-template-apptension/blob/master/template/src/modules/users/users.sagas.ts)
-*   [ ] You know how to handle errors returned in HTTP response [:books:](https://www.intricatecloud.io/2020/03/how-to-handle-api-errors-in-your-web-app-using-axios/)
-*   [ ] You can configure axios to have a predefined base url for making requests
+*   [ ] You know how to set HTTP headers in a request
 
-Fonts
------
+Testing
+-------
 
-*   [ ] You know how to load custom webfonts available in Google Fonts [:books:](https://scotch.io/@micwanyoike/how-to-add-fonts-to-a-react-project#toc-using-hosted-fonts)
+### [jest](/Technical%20Stack/Frontend%20Developer/Testing.md#jest)
+
+*   [ ] You know how to test components and functions
 
 Tools
 -----
@@ -275,7 +283,26 @@ Tools
 
 *   [ ] You know how to extract style values (geometry, colours, fonts, etc.) from a design project [:books:](https://www.figma.com/resources/assets/developer-onboarding-guide/)
 *   [ ] You know how to extract image assets from a design project
-*   [ ] You know how to extract vector icon asset from a project
+
+#### [Zeplin](/Technical%20Stack/Frontend%20Developer/Tools.md#zeplin)
+
+*   [ ] You know how to extract style values (geometry, colours, fonts, etc.) from a design project
+*   [ ] You know how to extract image assets from a design project
+
+#### \[Optional\] [Invision](/Technical%20Stack/Frontend%20Developer/Tools.md#invision)
+
+*   [ ] You know how to extract style values (geometry, colours, fonts, etc.) from a design project
+*   [ ] You know how to extract image assets from a design project
+
+#### \[Optional\] [Adobe XD](/Technical%20Stack/Frontend%20Developer/Tools.md#adobe-xd)
+
+*   [ ] You know how to extract style values (geometry, colours, fonts, etc.) from a design project
+*   [ ] You know how to extract image assets from a design project
+
+Browsers
+--------
+
+*   [ ] You know what DOM is [:books:](https://developer.mozilla.org/en-US/docs/Web/API/Document_Object_Model/Introduction)
 
 * * *
 

@@ -16,9 +16,9 @@ Styling
 
 #### [styled-components](/Technical%20Stack/Frontend%20Developer/Styling.md#styled-components)
 
-*   [ ] You can apply global styles [:books:](https://www.robinwieruch.de/react-styled-components)
 *   [ ] You can create a styled component for a primitive element [:books:](https://styled-components.com/docs/basics#getting-started)
 *   [ ] You can extend styles of an existing component [:books:](https://styled-components.com/docs/basics#extending-styles)
+*   [ ] You can apply global styles [:books:](https://www.robinwieruch.de/react-styled-components)
 *   [ ] You can implement media queries [:books:](https://medium.com/@samuelresua/easy-media-queries-in-styled-components-690b78f50053)
 *   [ ] You can apply styles to 3rd party components that only support styling by classnames
 
@@ -38,19 +38,19 @@ You can learn how to style HTML elements with flexbox by reading this awesome gu
 *   [ ] You understand variations of the shorthand syntax between browsers
 *   [ ] You are aware of the pitfalls of using flexbox and know to work around it [:books:](https://github.com/philipwalton/flexbugs)
 
-### [Reset libraries](/Technical%20Stack/Frontend%20Developer/Styling.md#reset-libraries)
-
-#### [normalize.css](/Technical%20Stack/Frontend%20Developer/Styling.md#normalize.css)
-
-*   [ ] You can explain benefits of the library
-*   [ ] You know how to use this library in a project
-
 ### [CSS Grid](/Technical%20Stack/Frontend%20Developer/Styling.md#css-grid)
 
 *   [ ] You know how to divide a web page to rows and columns
 *   [ ] You can position elements in a grid
 *   [ ] You can define and use named grid areas
 *   [ ] You can align items in grid cells
+
+### [Reset libraries](/Technical%20Stack/Frontend%20Developer/Styling.md#reset-libraries)
+
+#### [normalize.css](/Technical%20Stack/Frontend%20Developer/Styling.md#normalize.css)
+
+*   [ ] You can explain benefits of the library
+*   [ ] You know how to use this library in a project
 
 ### [CSS Modules](/Technical%20Stack/Frontend%20Developer/Styling.md#css-modules)
 
@@ -69,7 +69,7 @@ You can learn how to style HTML elements with flexbox by reading this awesome gu
 *   [ ] You know how to create and use scss variables
 *   [ ] You know how to create and use mixins [:books:](https://sass-lang.com/documentation/at-rules/mixin)
 *   [ ] You know how to use operators [:books:](https://sass-lang.com/documentation/operators)
-*   [ ] You know to install and configure it in build tools
+*   [ ] You know to how install and configure it in build tools
 
 [UI Kits](/Technical%20Stack/Frontend%20Developer/Styling.md#ui-kits)
 ---------------------------------------------------------------------
@@ -95,7 +95,7 @@ You can learn how to style HTML elements with flexbox by reading this awesome gu
 
 ### [material-ui-icons](/Technical%20Stack/Frontend%20Developer/Styling.md#material-ui-icons)
 
-*   [ ] You know how to use, extend and modify material ui icons
+*   [ ] You know how to use, extend and modify icons from the library
 
 [Emails](/Technical%20Stack/Frontend%20Developer/Styling.md#emails)
 -------------------------------------------------------------------

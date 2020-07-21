@@ -2,6 +2,7 @@ Date & Time
 ===========
 
 *   [ ] You know how to create a Date object for a specific date [:books:](https://www.digitalocean.com/community/tutorials/understanding-date-and-time-in-javascript)
+*   [ ] You know how to compare native date objects
 *   [ ] You know what ISO 8601 standard format is and how to parse it to a date object [:books:](https://www.iso.org/iso-8601-date-and-time-format.html)
 *   [ ] You know what unix timestamp is and how to parse it to a date object [:books:](https://stackoverflow.com/questions/20822821/what-is-a-unix-timestamp-and-why-use-it)
 
@@ -18,21 +19,21 @@ Date & Time
 
 *   [ ] You know how to format and display a date object using standard format strings
 *   [ ] You know how to convert date into a different timezone (usually user's local timezone)
-*   [ ] You know how to manipulate, compare date objects
+*   [ ] You know how to manipulate and compare date objects
 
 [moment.js](/Technical%20Stack/Frontend%20Developer/Date%20&%20Time.md#moment.js)
 ---------------------------------------------------------------------------------
 
 *   [ ] You know how to format and display a date object using standard format strings
 *   [ ] You know how to convert date into a different timezone (usually user's local timezone)
-*   [ ] You know how to manipulate, compare date objects
+*   [ ] You know how to manipulate and compare date objects
 
 [dayjs](/Technical%20Stack/Frontend%20Developer/Date%20&%20Time.md#dayjs)
 -------------------------------------------------------------------------
 
 *   [ ] You know how to format and display a date object using standard format strings
 *   [ ] You know how to convert date into a different timezone (usually user's local timezone)
-*   [ ] You know how to manipulate, compare date objects
+*   [ ] You know how to manipulate and compare date objects
 
 * * *
 

@@ -1,23 +1,29 @@
-Functional programming
-======================
+Development tools
+=================
 
-*   [ ] You know the key concepts of functional programming: pure functions, same input -> same output, no side-effects [:books:](https://thecodeboss.dev/2016/12/core-functional-programming-concepts/)
-*   [ ] You know and use concepts such as immutability, first-class functions, referential transparency and recursion
+[React Native Debugger](/Technical%20Stack/Mobile%20Developer/Development%20tools.md#react-native-debugger)
+-----------------------------------------------------------------------------------------------------------
 
-[ramda](/Technical%20Stack/Frontend%20Developer/Functional%20programming.md#ramda)
-----------------------------------------------------------------------------------
+*   [ ] You know how to use React/Redux dev tools
+*   [ ] You know how to use Network Inspect
+*   [ ] You know how to use debugger with a real device
 
-*   [ ] You know how to curry a function [:books:](https://www.educative.io/courses/functional-programming-patterns-with-ramdajs/xV9vlmDPJAE)
-*   [ ] You know how to compose a function from other functions
-*   [ ] You know how to pipe functions to produce a step by step processing sequence
-*   [ ] You can use basic functions such as map, mapValues, find, sort, sortBy, concat, equals, cond, ifElse [:books:](https://randycoulman.com/blog/2016/05/24/thinking-in-ramda-getting-started/)
+[Xcode](/Technical%20Stack/Mobile%20Developer/Development%20tools.md#xcode)
+---------------------------------------------------------------------------
 
-[lodash](/Technical%20Stack/Frontend%20Developer/Functional%20programming.md#lodash)
-------------------------------------------------------------------------------------
+*   [ ] You know how to run app on a real device
+*   [ ] You know how to run an app on a simulator
+*   [ ] You know how to manage app schema
+*   [ ] You know how to change Team, Certificate and Provisioning Profile
+*   [ ] You know how to build app ready for distribution
 
-*   [ ] You use functions as input for other functions
-*   [ ] You can use arbitrary functions to manipulate arrays and objects
-*   [ ] You can use debounce and throttle
+[Android Studio](/Technical%20Stack/Mobile%20Developer/Development%20tools.md#android-studio)
+---------------------------------------------------------------------------------------------
+
+*   [ ] You know how to run app on a real device
+*   [ ] You know how to run an app on an emulator
+*   [ ] You know how to manage keystores
+*   [ ] You know how to build app ready for distribution
 
 * * *
 

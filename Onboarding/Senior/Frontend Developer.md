@@ -28,6 +28,12 @@ Company practices
 
 *   [ ] You know how to reference a Jira ticket in your commit
 
+### [Communication](/Technical%20Stack/Frontend%20Developer/Company%20practices.md#communication)
+
+#### [Slack](/Technical%20Stack/Frontend%20Developer/Company%20practices.md#slack)
+
+*   [ ] You use Slack statuses in line with company policy (remote working, vacationing, in a meeting, etc)
+
 React
 -----
 
@@ -39,7 +45,16 @@ React is an open-source JavaScript library for building user interfaces. It is m
 *   [ ] You know the difference between function and class components. [:books:](https://medium.com/@Zwenza/functional-vs-class-components-in-react-231e3fbd7108#:~:text=The%20most%20obvious%20one%20difference,which%20returns%20a%20React%20element.)
 *   [ ] You know how to define and modify local component's state. [:books:](https://reactjs.org/docs/faq-state.html)
 *   [ ] You know what Virtual DOM is and how React uses it to render components. [:books:](https://www.youtube.com/watch?v=RquK3TImY9U)
-*   [ ] You know how to use element events and how incorporate them in React lifecycle [:books:](https://stackoverflow.com/questions/29303456/reactjs-onclick-change-element/29304703#29304703)
+*   [ ] You know how to use element events and how to incorporate them in React lifecycle [:books:](https://stackoverflow.com/questions/29303456/reactjs-onclick-change-element/29304703#29304703)
+
+### [Apptension Boilerplate](/Technical%20Stack/Frontend%20Developer/React.md#apptension-boilerplate)
+
+*   [ ] You know how to initialize a project using Apptension React template of <code>create-react-app</code> generator
+*   [ ] You know how to run a linter
+*   [ ] You know how to define a new Redux module (Reducer, Saga, Selector)
+*   [ ] You know how to create a new route and its component
+*   [ ] You understand the difference between <code>src/routes</code> and <code>src/shared/components</code> directories
+*   [ ] You can use plop to generate modules and components
 
 ### [Hooks](/Technical%20Stack/Frontend%20Developer/React.md#hooks)
 
@@ -52,7 +67,6 @@ Application state management
 ### [Redux](/Technical%20Stack/Frontend%20Developer/Application%20state%20management.md#redux)
 
 *   [ ] You can describe full Redux flow [:books:](https://www.youtube.com/watch?v=1w-oQ-i1XB8)
-*   [ ] You know how to define a new Redux module (Reducer, Saga, Selector) [:books:](https://github.com/apptension/cra-template-apptension/tree/master/template/src/modules)
 
 #### [react-redux](/Technical%20Stack/Frontend%20Developer/Application%20state%20management.md#react-redux)
 
@@ -106,9 +120,9 @@ Styling
 
 ##### [styled-components](/Technical%20Stack/Frontend%20Developer/Styling.md#styled-components)
 
-*   [ ] You can apply global styles [:books:](https://www.robinwieruch.de/react-styled-components)
 *   [ ] You can create a styled component for a primitive element [:books:](https://styled-components.com/docs/basics#getting-started)
 *   [ ] You can extend styles of an existing component [:books:](https://styled-components.com/docs/basics#extending-styles)
+*   [ ] You can apply global styles [:books:](https://www.robinwieruch.de/react-styled-components)
 *   [ ] You can implement media queries [:books:](https://medium.com/@samuelresua/easy-media-queries-in-styled-components-690b78f50053)
 
 #### [Flexbox](/Technical%20Stack/Frontend%20Developer/Styling.md#flexbox)
@@ -172,7 +186,7 @@ Development Tools
 
 #### [Webpack](/Technical%20Stack/Frontend%20Developer/Development%20Tools.md#webpack)
 
-*   [ ] You understand how webpack works [:books:](https://hackernoon.com/webpack-3-quickstarter-configure-webpack-from-scratch-30a6c394038a)
+*   [ ] You understand what webpack is used for and what problem it solves [:books:](https://hackernoon.com/webpack-3-quickstarter-configure-webpack-from-scratch-30a6c394038a)
 *   [ ] You understand what webpack plugins are and you can add and configure when needed [:books:](https://webpack.js.org/plugins/html-webpack-plugin/#basic-usage)
 
 ### [Package managers](/Technical%20Stack/Frontend%20Developer/Development%20Tools.md#package-managers)
@@ -207,7 +221,7 @@ Development Tools
 
 #### [redux-devtools](/Technical%20Stack/Frontend%20Developer/Development%20Tools.md#redux-devtools)
 
-*   [ ] You use redux-devtools to see the current state and play with the state change history [:books:](https://reactjs.org/docs/typechecking-with-proptypes.html)
+*   [ ] You use <code>redux-devtools</code> to see the current state and play with the state change history [:books:](https://reactjs.org/docs/typechecking-with-proptypes.html)
 
 ### [Linters](/Technical%20Stack/Frontend%20Developer/Development%20Tools.md#linters)
 
@@ -236,16 +250,16 @@ HTTP
 
 ### [Requests](/Technical%20Stack/Frontend%20Developer/HTTP.md#requests)
 
+#### [fetch](/Technical%20Stack/Frontend%20Developer/HTTP.md#fetch)
+
+*   [ ] You know how to create an HTTP request using native <code>fetch</code> [:books:](https://developer.mozilla.org/en-US/docs/Web/API/Fetch_API/Using_Fetch)
+*   [ ] You know how to handle errors returned in HTTP response [:books:](https://levelup.gitconnected.com/the-definite-guide-to-handling-errors-gracefully-in-javascript-58424d9c60e6)
+
 #### [Axios](/Technical%20Stack/Frontend%20Developer/HTTP.md#axios)
 
 *   [ ] You know how to use axios to send HTTP request to an API endpoint [:books:](https://github.com/apptension/cra-template-apptension/blob/master/template/src/modules/users/users.sagas.ts)
 *   [ ] You know how to handle errors returned in HTTP response [:books:](https://www.intricatecloud.io/2020/03/how-to-handle-api-errors-in-your-web-app-using-axios/)
 *   [ ] You can configure axios to have a predefined base url for making requests
-
-#### [fetch](/Technical%20Stack/Frontend%20Developer/HTTP.md#fetch)
-
-*   [ ] You know how to create an HTTP request using native <code>fetch</code> [:books:](https://developer.mozilla.org/en-US/docs/Web/API/Fetch_API/Using_Fetch)
-*   [ ] You know how to handle errors returned in HTTP response [:books:](https://levelup.gitconnected.com/the-definite-guide-to-handling-errors-gracefully-in-javascript-58424d9c60e6)
 
 Fonts
 -----

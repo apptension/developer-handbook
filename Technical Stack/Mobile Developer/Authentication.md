@@ -1,23 +1,36 @@
-Functional programming
-======================
+Authentication
+==============
 
-*   [ ] You know the key concepts of functional programming: pure functions, same input -> same output, no side-effects [:books:](https://thecodeboss.dev/2016/12/core-functional-programming-concepts/)
-*   [ ] You know and use concepts such as immutability, first-class functions, referential transparency and recursion
+[@react-native-community/google-signin](/Technical%20Stack/Mobile%20Developer/Authentication.md#@react-native-community/google-signin)
+--------------------------------------------------------------------------------------------------------------------------------------
 
-[ramda](/Technical%20Stack/Frontend%20Developer/Functional%20programming.md#ramda)
-----------------------------------------------------------------------------------
+*   [ ] You can configure Google SignIn
+*   [ ] You can handle sign in process
+*   [ ] You can handle sign in process
+*   [ ] You know how to revoke access and sign out
+*   [ ] You can use Google SignIn button
+*   [ ] You know how to define sign in scopes
 
-*   [ ] You know how to curry a function [:books:](https://www.educative.io/courses/functional-programming-patterns-with-ramdajs/xV9vlmDPJAE)
-*   [ ] You know how to compose a function from other functions
-*   [ ] You know how to pipe functions to produce a step by step processing sequence
-*   [ ] You can use basic functions such as map, mapValues, find, sort, sortBy, concat, equals, cond, ifElse [:books:](https://randycoulman.com/blog/2016/05/24/thinking-in-ramda-getting-started/)
+[react-native-fbsdk](/Technical%20Stack/Mobile%20Developer/Authentication.md#react-native-fbsdk)
+------------------------------------------------------------------------------------------------
 
-[lodash](/Technical%20Stack/Frontend%20Developer/Functional%20programming.md#lodash)
-------------------------------------------------------------------------------------
+*   [ ] You can configure FB sdk
+*   [ ] You know how to login user with correct permissions
+*   [ ] You know how to revoke access and logout
 
-*   [ ] You use functions as input for other functions
-*   [ ] You can use arbitrary functions to manipulate arrays and objects
-*   [ ] You can use debounce and throttle
+[@react-native-firebase/auth](/Technical%20Stack/Mobile%20Developer/Authentication.md#@react-native-firebase/auth)
+------------------------------------------------------------------------------------------------------------------
+
+*   [ ] You know how to sign in anonymously
+*   [ ] You know how to sign in using e-mail and password
+*   [ ] You know how to sign out
+
+[@invertase/react-native-apple-authentication](/Technical%20Stack/Mobile%20Developer/Authentication.md#@invertase/react-native-apple-authentication)
+----------------------------------------------------------------------------------------------------------------------------------------------------
+
+*   [ ] You know how to login user with correct permissions
+*   [ ] You know how to listen on credentials change
+*   [ ] You can use Apple button
 
 * * *
 

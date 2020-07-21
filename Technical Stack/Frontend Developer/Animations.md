@@ -67,6 +67,7 @@ Animations
 
 [https://aerotwist.com/blog/flip-your-animations/](https://aerotwist.com/blog/flip-your-animations/)
 
+*   [ ] You can explain FLIP animation technique
 *   [ ] You know how to apply FLIP in the React's component lifecycle
 
 * * *

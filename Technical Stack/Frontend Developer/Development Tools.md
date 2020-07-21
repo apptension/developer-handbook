@@ -6,7 +6,7 @@ Development Tools
 
 ### [Webpack](/Technical%20Stack/Frontend%20Developer/Development%20Tools.md#webpack)
 
-*   [ ] You understand how webpack works [:books:](https://hackernoon.com/webpack-3-quickstarter-configure-webpack-from-scratch-30a6c394038a)
+*   [ ] You understand what webpack is used for and what problem it solves [:books:](https://hackernoon.com/webpack-3-quickstarter-configure-webpack-from-scratch-30a6c394038a)
 *   [ ] You understand what webpack plugins are and you can add and configure when needed [:books:](https://webpack.js.org/plugins/html-webpack-plugin/#basic-usage)
 *   [ ] You understand the key concepts: entry, output, loaders and plugins
 *   [ ] You know how to pass environmental variables to the application
@@ -63,16 +63,16 @@ Development Tools
 ### [prop-types](/Technical%20Stack/Frontend%20Developer/Development%20Tools.md#prop-types)
 
 *   [ ] You know how to describe component's prop types
-*   [ ] You know how to define shapes
+*   [ ] You know how to define object shapes
 
 ### [redux-devtools](/Technical%20Stack/Frontend%20Developer/Development%20Tools.md#redux-devtools)
 
-*   [ ] You use redux-devtools to see the current state and play with the state change history [:books:](https://reactjs.org/docs/typechecking-with-proptypes.html)
+*   [ ] You use <code>redux-devtools</code> to see the current state and play with the state change history [:books:](https://reactjs.org/docs/typechecking-with-proptypes.html)
 *   [ ] You can create and configure redux-devtools so your store is available to be inspected
 
 ### [react-hot-loader](/Technical%20Stack/Frontend%20Developer/Development%20Tools.md#react-hot-loader)
 
-*   [ ] You're able to install and configure react-hot-loader to refresh the build when component changes
+*   [ ] You're able to install and configure <code>react-hot-loader</code> to refresh the build when component changes
 
 [Linters](/Technical%20Stack/Frontend%20Developer/Development%20Tools.md#linters)
 ---------------------------------------------------------------------------------

@@ -44,8 +44,8 @@ Company practices
 
 ### [Slack](/Technical%20Stack/Frontend%20Developer/Company%20practices.md#slack)
 
-*   [ ] You know how to create groups and channels
 *   [ ] You use Slack statuses in line with company policy (remote working, vacationing, in a meeting, etc)
+*   [ ] You know how to create groups and channels
 
 ### [Confluence](/Technical%20Stack/Frontend%20Developer/Company%20practices.md#confluence)
 
@@ -53,8 +53,8 @@ Company practices
 
 ### [Small Improvements](/Technical%20Stack/Frontend%20Developer/Company%20practices.md#small-improvements)
 
-*   [ ] You know how to create goals and mark them as complete
 *   [ ] You know how to give praise and add talk topics to a 1:1 meeting
+*   [ ] You know how to create goals and mark them as complete
 
 ### [Jira](/Technical%20Stack/Frontend%20Developer/Company%20practices.md#jira)
 
@@ -62,8 +62,8 @@ Company practices
 
 ### [Email](/Technical%20Stack/Frontend%20Developer/Company%20practices.md#email)
 
-*   [ ] You can configure email signatures
 *   [ ] You can configure local email client
+*   [ ] You can configure email signatures
 
 * * *
 

@@ -9,22 +9,35 @@ React is an open-source JavaScript library for building user interfaces. It is m
 *   [ ] You know the difference between function and class components. [:books:](https://medium.com/@Zwenza/functional-vs-class-components-in-react-231e3fbd7108#:~:text=The%20most%20obvious%20one%20difference,which%20returns%20a%20React%20element.)
 *   [ ] You know how to define and modify local component's state. [:books:](https://reactjs.org/docs/faq-state.html)
 *   [ ] You know what Virtual DOM is and how React uses it to render components. [:books:](https://www.youtube.com/watch?v=RquK3TImY9U)
-*   [ ] You know how to use element events and how incorporate them in React lifecycle [:books:](https://stackoverflow.com/questions/29303456/reactjs-onclick-change-element/29304703#29304703)
+*   [ ] You know how to use element events and how to incorporate them in React lifecycle [:books:](https://stackoverflow.com/questions/29303456/reactjs-onclick-change-element/29304703#29304703)
 *   [ ] You know component's lifecycle and know how to use each of the phases. [:books:](https://www.youtube.com/watch?v=m_mtV4YaI8c)
-*   [ ] You know Context API [:books:](https://reactjs.org/docs/context.html#reactcreatecontext)
+*   [ ] You know and can use Context API [:books:](https://reactjs.org/docs/context.html#reactcreatecontext)
 *   [ ] You can use refs to bind to a native DOM element and interact with it in component lifecycle [:books:](https://css-tricks.com/working-with-refs-in-react/)
 *   [ ] You understand concepts of higher order components and render functions, as well as their differences, pros and cons. [:books:](https://reactjs.org/docs/higher-order-components.html)
 *   [ ] You know how to prevent components from re-rendering. [:books:](https://hackernoon.com/redux-saga-tutorial-for-beginners-and-dog-lovers-aa69a17db645)
 *   [ ] You know how to reconcile global state with local component's state
 *   [ ] You know how and when to use portals. [:books:](https://blog.logrocket.com/learn-react-portals-by-example/)
 
+[Apptension Boilerplate](/Technical%20Stack/Frontend%20Developer/React.md#apptension-boilerplate)
+-------------------------------------------------------------------------------------------------
+
+*   [ ] You know how to initialize a project using Apptension React template of <code>create-react-app</code> generator
+*   [ ] You know how to run a linter
+*   [ ] You know how to define a new Redux module (Reducer, Saga, Selector)
+*   [ ] You know how to create a new route and its component
+*   [ ] You understand the difference between <code>src/routes</code> and <code>src/shared/components</code> directories
+*   [ ] You can use plop to generate modules and components
+*   [ ] You know where translation files are stored
+*   [ ] You know how to add a new locale to the app
+*   [ ] You know how to extract translations using <code>extract-intl</code> script
+
 [Hooks](/Technical%20Stack/Frontend%20Developer/React.md#hooks)
 ---------------------------------------------------------------
 
 *   [ ] You can use <code>useState</code> and <code>useEffect</code> hooks. [:books:](https://www.valentinog.com/blog/hooks/)
 *   [ ] You know how hook dependency array works. [:books:](https://medium.com/better-programming/understanding-the-useeffect-dependency-array-2913da504c44)
-*   [ ] You understand pros and cons of using <code>useCallback</code> hook. [:books:](https://kentcdodds.com/blog/usememo-and-usecallback/)
 *   [ ] You know how to write a custom React hook. [:books:](https://reactjs.org/docs/hooks-custom.html)
+*   [ ] You understand pros and cons of using <code>useCallback</code> hook. [:books:](https://kentcdodds.com/blog/usememo-and-usecallback/)
 
 ### [react-use](/Technical%20Stack/Frontend%20Developer/React.md#react-use)
 
