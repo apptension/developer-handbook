@@ -19,8 +19,8 @@ What will you find inside?
 --------------------------
 
 *   **[Technical Stack](#apptension-technical-stack)** – a summary of all topics, languages, frameworks, and libraries we use in production together with checklists of the most important concepts.
-*   **[Technical Onboarding Checklist](#apptension-technical-onboarding-checklist)** – a living document with a checklist of what our Developers should know on different levels when they join our company.
 *   **[Technical Guide](#apptension-technical-guide)** – a complete list of topics (libraries, frameworks, programming concepts/patterns) we follow and recommend to learn to progress in your career to become a better Web / Mobile App Developer.
+*   **[Technical Onboarding Checklist](#apptension-technical-onboarding-checklist)** – a living document with a checklist of what our Developers should know on different levels when they join our company.
 <p align="center"> <img src="/images/dev-handbook-schema.png" alt="Developer Handbook 2020 Architecture" /> </p>
 
 * * *
@@ -89,6 +89,33 @@ This section describes technical prerequisites for Junior, Regular and Senior De
 *   [Junior Mobile Developer - Technical Onboarding Checklist](/Onboarding/Junior/Mobile%20Developer.md)
 *   [Regular Mobile Developer - Technical Onboarding Checklist](/Onboarding/Regular/Mobile%20Developer.md)
 *   [Senior Mobile Developer - Technical Onboarding Checklist](/Onboarding/Senior/Mobile%20Developer.md)
+
+Q&A
+---
+
+### Do I need to know everything that’s under Regular (for instance) list to take a Regular position?
+
+No, hiring a person is very subjective and will take in count things other than the technical knowledge. This is the guide of what we consider a Regular developer will face during their career path in the company. This is valid for any seniority level.
+
+### What’s the purpose of Onboarding?
+
+We consider “Onboarding" the 2 weeks time where a developer will start working in our company. The list under this category is a guide of what skills you should learn/show during these first 2 weeks.
+
+### I have many years of experience and I’m considered Senior in another frontend stack, but I don’t know much about the company’s stack. Does it mean I will take a Junior position?
+
+We know developers are very skilled when it comes to learning, and we’re sure a Senior frontend dev will catch up with our stack if he knows what to do. This is exactly what this guide is for :)
+
+### To get promoted from Junior to Regular, do I have to check all items in the Junior or Regular section?
+
+A Regular developer should know almost everything (if not everything) from the Junior category and present the skills to learn what’s in the Regular category. In other words, we see that to move from Junior to Regular a developer needs to present a good amount of skills from both. And of course, with soft skills that are analysed case by case.
+
+### If I want to work for Apptension, what do I do?
+
+Apply on our webpage - [https://apptension.com/jobs](https://apptension.com/jobs) - and good luck!
+
+### Can I contribute to the list?
+
+Yes, contribution is accepted in adding new content for the guide and questioning/correcting mistakes. Since this is a list of tech we use, the introduction of new items should come from the Apptension team. But feel free to fork and use it as your own learning guide!
 
 * * *
 
