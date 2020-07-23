@@ -1,8 +1,8 @@
 Containerization Services
-========================
+=========================
 
 [AWS ECS](/Technical%20Stack/DevOps%20Developer/Containerization%20Services.md#aws-ecs)
---------------------------------------------------------------------------------------
+---------------------------------------------------------------------------------------
 
 *   [ ] You know how to create a task definition
 *   [ ] You know how to execute a one off task that is killed after execution and doesn't get restarted
@@ -10,7 +10,7 @@ Containerization Services
 *   [ ] You know how to create a target group pointing to your ECS service and add it to an Application Load Balancer listener
 
 [Kubernetes](/Technical%20Stack/DevOps%20Developer/Containerization%20Services.md#kubernetes)
---------------------------------------------------------------------------------------------
+---------------------------------------------------------------------------------------------
 
 *   [ ] You know how to define a deployment entity
 
