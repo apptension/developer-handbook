@@ -25,6 +25,19 @@ Development tools
 *   [ ] You know how to manage keystores
 *   [ ] You know how to build app ready for distribution
 
+[Multiple enviroments](/Technical%20Stack/Mobile%20Developer/Development%20tools.md#multiple-enviroments)
+---------------------------------------------------------------------------------------------------------
+
+### [react-native-config](/Technical%20Stack/Mobile%20Developer/Development%20tools.md#react-native-config)
+
+*   [ ] You know how to configure app to use .env file
+*   [ ] You know how to overwrite enviroment variables via App Center scripts
+
+### [Xcode](/Technical%20Stack/Mobile%20Developer/Development%20tools.md#xcode)
+
+*   [ ] You know how to manage schemas
+*   [ ] You know how to use proper certificate and provisioning profile
+
 * * *
 
 Contribution

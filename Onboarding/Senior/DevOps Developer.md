@@ -1,6 +1,37 @@
 DevOps Developer
 ================
 
+Company best practices
+----------------------
+
+### [Security](/Technical%20Stack/Mobile%20Developer/Company%20best%20practices.md#security)
+
+#### [Keeper Security](/Technical%20Stack/Mobile%20Developer/Company%20best%20practices.md#keeper-security)
+
+*   [ ] You know how to share secret values with other employees. [:books:](https://docs.keeper.io/user-guides/)
+
+#### [Onetimesecret](/Technical%20Stack/Mobile%20Developer/Company%20best%20practices.md#onetimesecret)
+
+*   [ ] You know how to share secret values externally [:books:](https://support.painchek.com/hc/en-us/articles/360038504674-How-to-use-One-Time-Secret)
+
+### [Git](/Technical%20Stack/Mobile%20Developer/Company%20best%20practices.md#git)
+
+*   [ ] You create pull requests with proper name and description [:books:](https://medium.com/@hugooodias/the-anatomy-of-a-perfect-pull-request-567382bb6067)
+*   [ ] You squash merge your pull requests [:books:](https://blog.pairworking.com/why-you-should-care-about-squash-and-merge-in-git-675856bf66b0)
+*   [ ] You name your commits properly [:books:](https://chris.beams.io/posts/git-commit/)
+*   [ ] You review PRs carefully and leave your comments [:books:](https://www.pullrequest.com/blog/what-belongs-in-an-effective-code-review-checklist/)
+*   [ ] You know how to configure rules in a repository for merging to specific branches (master, develop)
+
+#### [Bitbucket](/Technical%20Stack/Mobile%20Developer/Company%20best%20practices.md#bitbucket)
+
+*   [ ] You know how to reference a Jira ticket in your commit
+
+### [Communication](/Technical%20Stack/Mobile%20Developer/Company%20best%20practices.md#communication)
+
+#### [Slack](/Technical%20Stack/Mobile%20Developer/Company%20best%20practices.md#slack)
+
+*   [ ] You use Slack statuses in line with company policy (remote working, vacationing, in a meeting, etc)
+
 DNS
 ---
 

@@ -1,21 +1,36 @@
-Google Play Console
-===================
+Components
+==========
 
-[Release management](/Technical%20Stack/Mobile%20Developer/Google%20Play%20Console.md#release-management)
----------------------------------------------------------------------------------------------------------
+[Forms](/Technical%20Stack/Mobile%20Developer/Components.md#forms)
+------------------------------------------------------------------
 
-*   [ ] You know how to distribute app via Alpha/Beta enviroment to the beta testers
-*   [ ] You know how to promote an app to the Production with full/partial roll-out
+### [react-native-keyboard-aware-scroll-view](/Technical%20Stack/Mobile%20Developer/Components.md#react-native-keyboard-aware-scroll-view)
 
-[Store presence](/Technical%20Stack/Mobile%20Developer/Google%20Play%20Console.md#store-presence)
--------------------------------------------------------------------------------------------------
+*   [ ] You know how to handle automatic scroll to the form inputs on focus
+*   [ ] You know how to navigate between form fields
 
-*   [ ] You can define all the required options to show the app in the Google Play
+[Lists](/Technical%20Stack/Mobile%20Developer/Components.md#lists)
+------------------------------------------------------------------
 
-[App signing](/Technical%20Stack/Mobile%20Developer/Google%20Play%20Console.md#app-signing)
--------------------------------------------------------------------------------------------
+### [react-native-largelist](/Technical%20Stack/Mobile%20Developer/Components.md#react-native-largelist)
 
-*   [ ] You know how to handle App Signing by Google Play
+*   [ ] You know how to render LargeList with header and footer
+*   [ ] You know how to use pull to refresh
+*   [ ] You can listen on scroll and scroll to proper section
+*   [ ] You can render list with/ without section headers
+*   [ ] You know how to handle list item component flip animation
+*   [ ] You know how to use custom pull to refresh component
+*   [ ] You know how to use lottie animation as a loader
+
+[Images](/Technical%20Stack/Mobile%20Developer/Components.md#images)
+--------------------------------------------------------------------
+
+### [react-native-fast-image](/Technical%20Stack/Mobile%20Developer/Components.md#react-native-fast-image)
+
+*   [ ] You know how to display image with proper resize mode
+*   [ ] You know how to handle image loader for cached images
+*   [ ] You know how to preload images
+*   [ ] You know how to prioritize images loading
 
 * * *
 

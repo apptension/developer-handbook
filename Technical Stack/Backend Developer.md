@@ -3,6 +3,7 @@ Backend Developer
 
 ### Browse by technical topic
 
+*   [Company best practices](/Technical%20Stack/Backend%20Developer/Company%20best%20practices.md)
 *   [Python](/Technical%20Stack/Backend%20Developer/Python.md)
 *   [Testing](/Technical%20Stack/Backend%20Developer/Testing.md)
 *   [Date & Time](/Technical%20Stack/Backend%20Developer/Date%20&%20Time.md)

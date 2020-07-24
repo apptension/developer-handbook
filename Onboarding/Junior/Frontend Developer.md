@@ -6,15 +6,15 @@ Frontend Developer
 Company practices
 -----------------
 
-### [Git](/Technical%20Stack/Frontend%20Developer/Company%20practices.md#git)
+### [Git](/Technical%20Stack/Mobile%20Developer/Company%20best%20practices.md#git)
 
 *   [ ] You create pull requests with proper name and description [:books:](https://medium.com/@hugooodias/the-anatomy-of-a-perfect-pull-request-567382bb6067)
 *   [ ] You squash merge your pull requests [:books:](https://blog.pairworking.com/why-you-should-care-about-squash-and-merge-in-git-675856bf66b0)
 *   [ ] You name your commits properly [:books:](https://chris.beams.io/posts/git-commit/)
 
-### [Communication](/Technical%20Stack/Frontend%20Developer/Company%20practices.md#communication)
+### [Communication](/Technical%20Stack/Mobile%20Developer/Company%20best%20practices.md#communication)
 
-#### [Slack](/Technical%20Stack/Frontend%20Developer/Company%20practices.md#slack)
+#### [Slack](/Technical%20Stack/Mobile%20Developer/Company%20best%20practices.md#slack)
 
 *   [ ] You use Slack statuses in line with company policy (remote working, vacationing, in a meeting, etc)
 
@@ -31,14 +31,7 @@ React is an open-source JavaScript library for building user interfaces. It is m
 *   [ ] You know what Virtual DOM is and how React uses it to render components. [:books:](https://www.youtube.com/watch?v=RquK3TImY9U)
 *   [ ] You know how to use element events and how to incorporate them in React lifecycle [:books:](https://stackoverflow.com/questions/29303456/reactjs-onclick-change-element/29304703#29304703)
 
-### [Apptension Boilerplate](/Technical%20Stack/Frontend%20Developer/React.md#apptension-boilerplate)
-
-*   [ ] You know how to initialize a project using Apptension React template of <code>create-react-app</code> generator
-*   [ ] You know how to run a linter
-*   [ ] You know how to define a new Redux module (Reducer, Saga, Selector)
-*   [ ] You know how to create a new route and its component
-
-### [Hooks](/Technical%20Stack/Frontend%20Developer/React.md#hooks)
+### [Hooks](/Technical%20Stack/Mobile%20Developer/React.md#hooks)
 
 *   [ ] You can use <code>useState</code> and <code>useEffect</code> hooks. [:books:](https://www.valentinog.com/blog/hooks/)
 *   [ ] You know how hook dependency array works. [:books:](https://medium.com/better-programming/understanding-the-useeffect-dependency-array-2913da504c44)
@@ -46,44 +39,52 @@ React is an open-source JavaScript library for building user interfaces. It is m
 Application state management
 ----------------------------
 
-### [Redux](/Technical%20Stack/Frontend%20Developer/Application%20state%20management.md#redux)
+### [Redux](/Technical%20Stack/Mobile%20Developer/Application%20state%20management.md#redux)
 
 *   [ ] You can describe full Redux flow [:books:](https://www.youtube.com/watch?v=1w-oQ-i1XB8)
 
-#### [react-redux](/Technical%20Stack/Frontend%20Developer/Application%20state%20management.md#react-redux)
+#### [react-redux](/Technical%20Stack/Mobile%20Developer/Application%20state%20management.md#react-redux)
 
 *   [ ] You know how to apply selector functions to <code>useSelector</code> hook. [:books:](https://levelup.gitconnected.com/react-redux-hooks-useselector-and-usedispatch-f7d8c7f75cdd)
 *   [ ] You know how to dispatch actions from React component. [:books:](https://redux.js.org/basics/example)
 
-#### [Redux toolset](/Technical%20Stack/Frontend%20Developer/Application%20state%20management.md#redux-toolset)
+#### [Redux toolset](/Technical%20Stack/Mobile%20Developer/Application%20state%20management.md#redux-toolset)
 
-##### [redux-toolkit](/Technical%20Stack/Frontend%20Developer/Application%20state%20management.md#redux-toolkit)
+##### [redux-toolkit](/Technical%20Stack/Mobile%20Developer/Application%20state%20management.md#redux-toolkit)
 
 *   [ ] You know how to create a reducer. [:books:](https://redux-toolkit.js.org/tutorials/basic-tutorial)
 *   [ ] You know how to create an action creator [:books:](https://www.johnraptis.dev/redux-toolkit/)
 
-### [Immutable data structures](/Technical%20Stack/Frontend%20Developer/Application%20state%20management.md#immutable-data-structures)
+### [Immutable data structures](/Technical%20Stack/Mobile%20Developer/Application%20state%20management.md#immutable-data-structures)
 
 *   [ ] You understand benefits of using immutable data structures in Redux applications [:books:](https://medium.com/javascript-in-plain-english/why-react-and-redux-need-immutable-data-dae3ab3611a0)
 *   [ ] You know how to use at least one of the libraries that provide immutable data structures in redux state [:books:](https://css-tricks.com/using-immer-for-react-state-management/)
 
-#### [immer](/Technical%20Stack/Frontend%20Developer/Application%20state%20management.md#immer)
+#### [immer](/Technical%20Stack/Mobile%20Developer/Application%20state%20management.md#immer)
 
 *   [ ] You know how to create a reducer that uses immer [:books:](https://hackernoon.com/introducing-immer-immutability-the-easy-way-9d73d8f71cb3)
 
-### [Selectors](/Technical%20Stack/Frontend%20Developer/Application%20state%20management.md#selectors)
+### [Selectors](/Technical%20Stack/Mobile%20Developer/Application%20state%20management.md#selectors)
 
-#### [reselect](/Technical%20Stack/Frontend%20Developer/Application%20state%20management.md#reselect)
+#### [reselect](/Technical%20Stack/Mobile%20Developer/Application%20state%20management.md#reselect)
 
 *   [ ] You know how to create a selector with <code>createSelector</code> function [:books:](https://medium.com/@pearlmcphee/selectors-react-redux-reselect-9ab984688dd4)
 
-### [Side effects](/Technical%20Stack/Frontend%20Developer/Application%20state%20management.md#side-effects)
+### [Side effects](/Technical%20Stack/Mobile%20Developer/Application%20state%20management.md#side-effects)
 
 *   [ ] You understand the concept of side effects [:books:](https://medium.com/javascript-scene/master-the-javascript-interview-what-is-functional-programming-7f218c68b3a0#:~:text=A%20side%20effect%20is%20any,the%20parent%20function%20scope%20chain)
 
-#### [redux-saga](/Technical%20Stack/Frontend%20Developer/Application%20state%20management.md#redux-saga)
+#### [redux-saga](/Technical%20Stack/Mobile%20Developer/Application%20state%20management.md#redux-saga)
 
 *   [ ] You know how to take a side effect and dispatch an action based on it [:books:](https://redux-saga.js.org/docs/api/#putaction)
+
+Apptension React Boilerplate
+----------------------------
+
+*   [ ] You know how to initialize a project using Apptension React template of <code>create-react-app</code> generator
+*   [ ] You know how to run a linter
+*   [ ] You know how to define a new Redux module (Reducer, Saga, Selector)
+*   [ ] You know how to create a new route and its component
 
 Styling
 -------
@@ -145,7 +146,7 @@ Animations
 Internationalization
 --------------------
 
-### [react-Intl](/Technical%20Stack/Frontend%20Developer/Internationalization.md#react-intl)
+### [react-Intl](/Technical%20Stack/Mobile%20Developer/Internationalization.md#react-intl)
 
 *   [ ] You know and use React-intl components [:books:](https://www.newline.co/@dmitryrogozhny/quick-introduction-to-internationalization-in-react-with-react-intl--13b17de9)
 
@@ -189,13 +190,13 @@ Development Tools
 HTTP
 ----
 
-### [Requests](/Technical%20Stack/Frontend%20Developer/HTTP.md#requests)
+### [Requests](/Technical%20Stack/Mobile%20Developer/HTTP.md#requests)
 
-#### [fetch](/Technical%20Stack/Frontend%20Developer/HTTP.md#fetch)
+#### [fetch](/Technical%20Stack/Mobile%20Developer/HTTP.md#fetch)
 
 *   [ ] You know how to create an HTTP request using native <code>fetch</code> [:books:](https://developer.mozilla.org/en-US/docs/Web/API/Fetch_API/Using_Fetch)
 
-#### [Axios](/Technical%20Stack/Frontend%20Developer/HTTP.md#axios)
+#### [Axios](/Technical%20Stack/Mobile%20Developer/HTTP.md#axios)
 
 *   [ ] You know how to use axios to send HTTP request to an API endpoint [:books:](https://github.com/apptension/cra-template-apptension/blob/master/template/src/modules/users/users.sagas.ts)
 
@@ -204,7 +205,7 @@ Tools
 
 ### [Design](/Technical%20Stack/Frontend%20Developer/Tools.md#design)
 
-#### [Figma](/Technical%20Stack/Frontend%20Developer/Tools.md#figma)
+#### [Figma](/Technical%20Stack/Mobile%20Developer/Tools.md#figma)
 
 *   [ ] You know how to extract style values (geometry, colours, fonts, etc.) from a design project [:books:](https://www.figma.com/resources/assets/developer-onboarding-guide/)
 *   [ ] You know how to extract image assets from a design project

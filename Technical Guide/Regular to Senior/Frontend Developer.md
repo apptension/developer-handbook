@@ -6,21 +6,21 @@ Frontend Developer
 Company practices
 -----------------
 
-### [Security](/Technical%20Stack/Frontend%20Developer/Company%20practices.md#security)
+### [Security](/Technical%20Stack/Mobile%20Developer/Company%20best%20practices.md#security)
 
-#### [Keeper Security](/Technical%20Stack/Frontend%20Developer/Company%20practices.md#keeper-security)
+#### [Keeper Security](/Technical%20Stack/Mobile%20Developer/Company%20best%20practices.md#keeper-security)
 
 *   [ ] You know how to share secret values with other employees. [:books:](https://docs.keeper.io/user-guides/)
 
-#### [aws-vault](/Technical%20Stack/Frontend%20Developer/Company%20practices.md#aws-vault)
+#### [aws-vault](/Technical%20Stack/Mobile%20Developer/Company%20best%20practices.md#aws-vault)
 
 *   [ ] You know how to use the command line to switch between users
 
-#### [Onetimesecret](/Technical%20Stack/Frontend%20Developer/Company%20practices.md#onetimesecret)
+#### [Onetimesecret](/Technical%20Stack/Mobile%20Developer/Company%20best%20practices.md#onetimesecret)
 
 *   [ ] You know how to share secret values externally [:books:](https://support.painchek.com/hc/en-us/articles/360038504674-How-to-use-One-Time-Secret)
 
-### [Git](/Technical%20Stack/Frontend%20Developer/Company%20practices.md#git)
+### [Git](/Technical%20Stack/Mobile%20Developer/Company%20best%20practices.md#git)
 
 *   [ ] You create pull requests with proper name and description [:books:](https://medium.com/@hugooodias/the-anatomy-of-a-perfect-pull-request-567382bb6067)
 *   [ ] You squash merge your pull requests [:books:](https://blog.pairworking.com/why-you-should-care-about-squash-and-merge-in-git-675856bf66b0)
@@ -31,38 +31,38 @@ Company practices
 *   [ ] You add proper label in pull requests
 *   [ ] You create your branches under the proper folder (feature, fix, hotfix)
 
-#### [GitHub](/Technical%20Stack/Frontend%20Developer/Company%20practices.md#git-hub)
+#### [GitHub](/Technical%20Stack/Mobile%20Developer/Company%20best%20practices.md#git-hub)
 
 *   [ ] You know how to create and reference issues
 *   [ ] You know how to verify when a build check failed
 *   [ ] You know how to create GitHub Wiki pages
 
-#### [Bitbucket](/Technical%20Stack/Frontend%20Developer/Company%20practices.md#bitbucket)
+#### [Bitbucket](/Technical%20Stack/Mobile%20Developer/Company%20best%20practices.md#bitbucket)
 
 *   [ ] You know how to verify when a build check failed
 *   [ ] You know how to reference a Jira ticket in your commit
 
-### [Communication](/Technical%20Stack/Frontend%20Developer/Company%20practices.md#communication)
+### [Communication](/Technical%20Stack/Mobile%20Developer/Company%20best%20practices.md#communication)
 
-#### [Slack](/Technical%20Stack/Frontend%20Developer/Company%20practices.md#slack)
+#### [Slack](/Technical%20Stack/Mobile%20Developer/Company%20best%20practices.md#slack)
 
 *   [ ] You use Slack statuses in line with company policy (remote working, vacationing, in a meeting, etc)
 *   [ ] You know how to create groups and channels
 
-#### [Confluence](/Technical%20Stack/Frontend%20Developer/Company%20practices.md#confluence)
+#### [Confluence](/Technical%20Stack/Mobile%20Developer/Company%20best%20practices.md#confluence)
 
 *   [ ] You know how to create Confluence pages
 
-#### [Small Improvements](/Technical%20Stack/Frontend%20Developer/Company%20practices.md#small-improvements)
+#### [Small Improvements](/Technical%20Stack/Mobile%20Developer/Company%20best%20practices.md#small-improvements)
 
 *   [ ] You know how to give praise and add talk topics to a 1:1 meeting
 *   [ ] You know how to create goals and mark them as complete
 
-#### [Jira](/Technical%20Stack/Frontend%20Developer/Company%20practices.md#jira)
+#### [Jira](/Technical%20Stack/Mobile%20Developer/Company%20best%20practices.md#jira)
 
 *   [ ] You know how to create tickets and write comments
 
-#### [Email](/Technical%20Stack/Frontend%20Developer/Company%20practices.md#email)
+#### [Email](/Technical%20Stack/Mobile%20Developer/Company%20best%20practices.md#email)
 
 *   [ ] You can configure local email client
 *   [ ] You can configure email signatures
@@ -87,48 +87,37 @@ React is an open-source JavaScript library for building user interfaces. It is m
 *   [ ] You know how to reconcile global state with local component's state
 *   [ ] You know how and when to use portals. [:books:](https://blog.logrocket.com/learn-react-portals-by-example/)
 
-### [Apptension Boilerplate](/Technical%20Stack/Frontend%20Developer/React.md#apptension-boilerplate)
-
-*   [ ] You know how to initialize a project using Apptension React template of <code>create-react-app</code> generator
-*   [ ] You know how to run a linter
-*   [ ] You know how to define a new Redux module (Reducer, Saga, Selector)
-*   [ ] You know how to create a new route and its component
-*   [ ] You understand the difference between <code>src/routes</code> and <code>src/shared/components</code> directories
-*   [ ] You can use plop to generate modules and components
-*   [ ] You know where translation files are stored
-*   [ ] You know how to add a new locale to the app
-
-### [Hooks](/Technical%20Stack/Frontend%20Developer/React.md#hooks)
+### [Hooks](/Technical%20Stack/Mobile%20Developer/React.md#hooks)
 
 *   [ ] You can use <code>useState</code> and <code>useEffect</code> hooks. [:books:](https://www.valentinog.com/blog/hooks/)
 *   [ ] You know how hook dependency array works. [:books:](https://medium.com/better-programming/understanding-the-useeffect-dependency-array-2913da504c44)
 *   [ ] You know how to write a custom React hook. [:books:](https://reactjs.org/docs/hooks-custom.html)
 *   [ ] You understand pros and cons of using <code>useCallback</code> hook. [:books:](https://kentcdodds.com/blog/usememo-and-usecallback/)
 
-#### [react-use](/Technical%20Stack/Frontend%20Developer/React.md#react-use)
+#### [react-use](/Technical%20Stack/Mobile%20Developer/React.md#react-use)
 
 *   [ ] You know how to incorporate react-use hooks in your component [:books:](https://github.com/streamich/react-use/blob/master/docs/useLocalStorage.md)
 *   [ ] You understand the advantages/disadvantages of the API compared to Lodash
 
-### [react-dom](/Technical%20Stack/Frontend%20Developer/React.md#react-dom)
+### [react-dom](/Technical%20Stack/Mobile%20Developer/React.md#react-dom)
 
 *   [ ] You can explain how React.render function works. [:books:](https://reactjs.org/docs/rendering-elements.html)
 *   [ ] You can explain React.createPortal works. [:books:](https://blog.logrocket.com/learn-react-portals-by-example/)
 
-### \[Optional\] [Components](/Technical%20Stack/Frontend%20Developer/React.md#components)
+### \[Optional\] [Components](/Technical%20Stack/Mobile%20Developer/React.md#components)
 
-#### \[Optional\] [downshift](/Technical%20Stack/Frontend%20Developer/React.md#downshift)
+#### \[Optional\] [downshift](/Technical%20Stack/Mobile%20Developer/React.md#downshift)
 
 *   [ ] You used it in a project [:books:](https://codesandbox.io/s/github/kentcdodds/downshift-examples/tree/master/?module=%2Fsrc%2Fordered-examples%2F01-basic-autocomplete.js&moduleview=1)
 
-#### \[Optional\] [react-day-picker](/Technical%20Stack/Frontend%20Developer/React.md#react-day-picker)
+#### \[Optional\] [react-day-picker](/Technical%20Stack/Mobile%20Developer/React.md#react-day-picker)
 
 *   [ ] You used it in a project
 
 Application state management
 ----------------------------
 
-### [Redux](/Technical%20Stack/Frontend%20Developer/Application%20state%20management.md#redux)
+### [Redux](/Technical%20Stack/Mobile%20Developer/Application%20state%20management.md#redux)
 
 *   [ ] You can describe full Redux flow [:books:](https://www.youtube.com/watch?v=1w-oQ-i1XB8)
 *   [ ] You know how to dispatch Redux action (outside React context)
@@ -136,44 +125,44 @@ Application state management
 *   [ ] You know how to apply a middleware / enhancer when creating redux store
 *   [ ] You know what is a difference between middleware and enhancer
 
-#### [react-redux](/Technical%20Stack/Frontend%20Developer/Application%20state%20management.md#react-redux)
+#### [react-redux](/Technical%20Stack/Mobile%20Developer/Application%20state%20management.md#react-redux)
 
 *   [ ] You know how to apply selector functions to <code>useSelector</code> hook. [:books:](https://levelup.gitconnected.com/react-redux-hooks-useselector-and-usedispatch-f7d8c7f75cdd)
 *   [ ] You know how to dispatch actions from React component. [:books:](https://redux.js.org/basics/example)
 
-#### [Redux toolset](/Technical%20Stack/Frontend%20Developer/Application%20state%20management.md#redux-toolset)
+#### [Redux toolset](/Technical%20Stack/Mobile%20Developer/Application%20state%20management.md#redux-toolset)
 
 *   [ ] You can use one of the listed toolset libraries to create reducers, action types, and action creators more efficiently
 
-##### [redux-toolkit](/Technical%20Stack/Frontend%20Developer/Application%20state%20management.md#redux-toolkit)
+##### [redux-toolkit](/Technical%20Stack/Mobile%20Developer/Application%20state%20management.md#redux-toolkit)
 
 *   [ ] You know how to create a reducer. [:books:](https://redux-toolkit.js.org/tutorials/basic-tutorial)
 *   [ ] You know how to create an action creator [:books:](https://www.johnraptis.dev/redux-toolkit/)
 *   [ ] You understand how to leverage the fact that action creators serialize to action's type string.
 *   [ ] You know how to define a reducer function for a specific action type.
 
-##### \[Optional\] [reduxsauce](/Technical%20Stack/Frontend%20Developer/Application%20state%20management.md#reduxsauce)
+##### \[Optional\] [reduxsauce](/Technical%20Stack/Mobile%20Developer/Application%20state%20management.md#reduxsauce)
 
 *   [ ] You know how to create reducers
 *   [ ] You can create your own action creators and action types.
 
-#### [redux-persist](/Technical%20Stack/Frontend%20Developer/Application%20state%20management.md#redux-persist)
+#### [redux-persist](/Technical%20Stack/Mobile%20Developer/Application%20state%20management.md#redux-persist)
 
 *   [ ] You know how to persist part of the state tree to local storage
 
-### [Immutable data structures](/Technical%20Stack/Frontend%20Developer/Application%20state%20management.md#immutable-data-structures)
+### [Immutable data structures](/Technical%20Stack/Mobile%20Developer/Application%20state%20management.md#immutable-data-structures)
 
 *   [ ] You understand benefits of using immutable data structures in Redux applications [:books:](https://medium.com/javascript-in-plain-english/why-react-and-redux-need-immutable-data-dae3ab3611a0)
 *   [ ] You know how to use at least one of the libraries that provide immutable data structures in redux state [:books:](https://css-tricks.com/using-immer-for-react-state-management/)
 
-#### [immer](/Technical%20Stack/Frontend%20Developer/Application%20state%20management.md#immer)
+#### [immer](/Technical%20Stack/Mobile%20Developer/Application%20state%20management.md#immer)
 
 *   [ ] You know how to create a reducer that uses immer [:books:](https://hackernoon.com/introducing-immer-immutability-the-easy-way-9d73d8f71cb3)
 *   [ ] You know how to convert immutable structure to regular JavaScript object
 *   [ ] You know the difference between only changing state object and returning a changed state object
 *   [ ] You can explain how immer works internally.
 
-#### \[Optional\] [Immutable.js](/Technical%20Stack/Frontend%20Developer/Application%20state%20management.md#immutable.js)
+#### \[Optional\] [Immutable.js](/Technical%20Stack/Mobile%20Developer/Application%20state%20management.md#immutable.js)
 
 *   [ ] You know how to create an immutable structure [:books:](https://www.freecodecamp.org/news/immutable-js-is-intimidating-heres-how-to-get-started-2db1770466d6/)
 *   [ ] You know how to read data from the immutable structure
@@ -182,7 +171,7 @@ Application state management
 *   [ ] You know how to convert a json structure into immutable structure, and vice-versa
 *   [ ] You know how to manipulate big structures and which operations you should avoid in order to keep performance
 
-#### \[Optional\] [seamless-immutable](/Technical%20Stack/Frontend%20Developer/Application%20state%20management.md#seamless-immutable)
+#### \[Optional\] [seamless-immutable](/Technical%20Stack/Mobile%20Developer/Application%20state%20management.md#seamless-immutable)
 
 *   [ ] You know how to read data from the immutable structure
 *   [ ] You know how to create a new data structure with modified state out of an existing one
@@ -190,18 +179,18 @@ Application state management
 *   [ ] You know how to transform regular structures into seamless immutable structures, and vice-versa
 *   [ ] You know how to reconcile native functions (map, sort, etc) with seamless immutable functions (flatMap, merge, sort, etc)
 
-### [Selectors](/Technical%20Stack/Frontend%20Developer/Application%20state%20management.md#selectors)
+### [Selectors](/Technical%20Stack/Mobile%20Developer/Application%20state%20management.md#selectors)
 
-#### [reselect](/Technical%20Stack/Frontend%20Developer/Application%20state%20management.md#reselect)
+#### [reselect](/Technical%20Stack/Mobile%20Developer/Application%20state%20management.md#reselect)
 
 *   [ ] You know how to create a selector with <code>createSelector</code> function [:books:](https://medium.com/@pearlmcphee/selectors-react-redux-reselect-9ab984688dd4)
 *   [ ] You know how to create a selector that uses multiple other selectors as an input.
 
-### [Side effects](/Technical%20Stack/Frontend%20Developer/Application%20state%20management.md#side-effects)
+### [Side effects](/Technical%20Stack/Mobile%20Developer/Application%20state%20management.md#side-effects)
 
 *   [ ] You understand the concept of side effects [:books:](https://medium.com/javascript-scene/master-the-javascript-interview-what-is-functional-programming-7f218c68b3a0#:~:text=A%20side%20effect%20is%20any,the%20parent%20function%20scope%20chain)
 
-#### [redux-saga](/Technical%20Stack/Frontend%20Developer/Application%20state%20management.md#redux-saga)
+#### [redux-saga](/Technical%20Stack/Mobile%20Developer/Application%20state%20management.md#redux-saga)
 
 *   [ ] You know how to take a side effect and dispatch an action based on it [:books:](https://redux-saga.js.org/docs/api/#putaction)
 *   [ ] You know how to run asynchronous functions (e.g. <code>fetch</code>) after something dispatches an action
@@ -212,7 +201,7 @@ Application state management
 *   [ ] You can name <code>eventChannel</code> use cases and know how to implement a saga using it. [:books:](https://redux-saga.js.org/docs/advanced/Channels.html)
 *   [ ] You can name <code>actionChannel</code> use cases and know how to implement a saga using it. [:books:](https://redux-saga.js.org/docs/advanced/Channels.html)
 
-##### [redux-saga-routines](/Technical%20Stack/Frontend%20Developer/Application%20state%20management.md#redux-saga-routines)
+##### [redux-saga-routines](/Technical%20Stack/Mobile%20Developer/Application%20state%20management.md#redux-saga-routines)
 
 *   [ ] You know how to create your own routine
 *   [ ] You know how to promisify a routine
@@ -220,6 +209,18 @@ Application state management
 *   [ ] You understand the advantages of standardizing action type's name
 *   [ ] You know how to manipulate the payload with payloadCreator
 *   [ ] You know how to enhance the payload with metaCreator
+
+Apptension React Boilerplate
+----------------------------
+
+*   [ ] You know how to initialize a project using Apptension React template of <code>create-react-app</code> generator
+*   [ ] You know how to run a linter
+*   [ ] You know how to define a new Redux module (Reducer, Saga, Selector)
+*   [ ] You know how to create a new route and its component
+*   [ ] You understand the difference between <code>src/routes</code> and <code>src/shared/components</code> directories
+*   [ ] You can use plop to generate modules and components
+*   [ ] You know where translation files are stored
+*   [ ] You know how to add a new locale to the app
 
 Styling
 -------
@@ -336,26 +337,26 @@ Date & Time
 *   [ ] You know what ISO 8601 standard format is and how to parse it to a date object [:books:](https://www.iso.org/iso-8601-date-and-time-format.html)
 *   [ ] You know what unix timestamp is and how to parse it to a date object [:books:](https://stackoverflow.com/questions/20822821/what-is-a-unix-timestamp-and-why-use-it)
 
-### [date-fns](/Technical%20Stack/Frontend%20Developer/Date%20&%20Time.md#date-fns)
+### [date-fns](/Technical%20Stack/Mobile%20Developer/Date%20&%20Time.md#date-fns)
 
 *   [ ] You know how to create a date-fns date object for specific date [:books:](https://date-fns.org/v2.0.0-alpha.7/docs/FP-Guide#usage)
 *   [ ] You know how to format and display a date object using standard format strings [:books:](https://www.digitalocean.com/community/tutorials/js-date-fns)
 *   [ ] You know how to convert date into a different timezone (usually user's local timezone)
 *   [ ] You know how to manipulate, compare date objects
 
-### \[Optional\] [react-datetime](/Technical%20Stack/Frontend%20Developer/Date%20&%20Time.md#react-datetime)
+### \[Optional\] [react-datetime](/Technical%20Stack/Mobile%20Developer/Date%20&%20Time.md#react-datetime)
 
 *   [ ] You know how to format and display a date object using standard format strings
 *   [ ] You know how to convert date into a different timezone (usually user's local timezone)
 *   [ ] You know how to manipulate and compare date objects
 
-### \[Optional\] [moment.js](/Technical%20Stack/Frontend%20Developer/Date%20&%20Time.md#moment.js)
+### \[Optional\] [moment.js](/Technical%20Stack/Mobile%20Developer/Date%20&%20Time.md#moment.js)
 
 *   [ ] You know how to format and display a date object using standard format strings
 *   [ ] You know how to convert date into a different timezone (usually user's local timezone)
 *   [ ] You know how to manipulate and compare date objects
 
-### \[Optional\] [dayjs](/Technical%20Stack/Frontend%20Developer/Date%20&%20Time.md#dayjs)
+### \[Optional\] [dayjs](/Technical%20Stack/Mobile%20Developer/Date%20&%20Time.md#dayjs)
 
 *   [ ] You know how to format and display a date object using standard format strings
 *   [ ] You know how to convert date into a different timezone (usually user's local timezone)
@@ -499,13 +500,13 @@ Animations
 Internationalization
 --------------------
 
-### [react-Intl](/Technical%20Stack/Frontend%20Developer/Internationalization.md#react-intl)
+### [react-Intl](/Technical%20Stack/Mobile%20Developer/Internationalization.md#react-intl)
 
 *   [ ] You know and use React-intl components [:books:](https://www.newline.co/@dmitryrogozhny/quick-introduction-to-internationalization-in-react-with-react-intl--13b17de9)
 *   [ ] You know how to create messages files using defineMessage api [:books:](https://github.com/apptension/cra-template-apptension/blob/master/template/src/routes/home/home.messages.ts)
 *   [ ] You know how to use <code>useIntl</code> hook
 
-### [format.js](/Technical%20Stack/Frontend%20Developer/Internationalization.md#format.js)
+### [format.js](/Technical%20Stack/Mobile%20Developer/Internationalization.md#format.js)
 
 *   [ ] You know how to format a message passing values and date-time stamps
 *   [ ] You know how to pluralize messages based on a passed value
@@ -577,27 +578,6 @@ Misc
 #### \[Optional\] [Froala](/Technical%20Stack/Frontend%20Developer/Misc.md#froala)
 
 *   [ ] You have used the library in a project
-
-CMS
----
-
-*   [ ] You know at least one of the CMS platforms and can easily use its basic features (defining data models, editing, etc)
-*   [ ] You know couple of the CMS platforms and can select one for the project to satisfy its requirements
-
-### \[Optional\] [Wordpress](/Technical%20Stack/Frontend%20Developer/CMS.md#wordpress)
-
-*   [ ] You understand how wordpress work, and are able to customise the designs of a given application
-
-### \[Optional\] [Contentful](/Technical%20Stack/Frontend%20Developer/CMS.md#contentful)
-
-*   [ ] You can create a contentful structure
-*   [ ] You know how to use Contentful's assets CDN
-*   [ ] You know how to incorporate Contenful's API in your build process
-*   [ ] You can feed the application internationalization system with the content from Contentful
-
-### \[Optional\] [Webflow](/Technical%20Stack/Frontend%20Developer/CMS.md#webflow)
-
-*   [ ] You are able to chose one of the plans available, customise, and content
 
 Development Tools
 -----------------
@@ -745,7 +725,7 @@ Functional programming
 HTTP
 ----
 
-### [Requests](/Technical%20Stack/Frontend%20Developer/HTTP.md#requests)
+### [Requests](/Technical%20Stack/Mobile%20Developer/HTTP.md#requests)
 
 *   [ ] You know what cookies are
 *   [ ] You know what HTTP headers are
@@ -754,7 +734,7 @@ HTTP
 *   [ ] You know which parts of the HTTPS request is encrypted
 *   [ ] You know different values for <code>content-type</code> header and understand when to use them
 
-#### [fetch](/Technical%20Stack/Frontend%20Developer/HTTP.md#fetch)
+#### [fetch](/Technical%20Stack/Mobile%20Developer/HTTP.md#fetch)
 
 *   [ ] You know how to create an HTTP request using native <code>fetch</code> [:books:](https://developer.mozilla.org/en-US/docs/Web/API/Fetch_API/Using_Fetch)
 *   [ ] You know how to set HTTP headers in a request
@@ -762,7 +742,7 @@ HTTP
 *   [ ] You know how to handle errors returned in HTTP response [:books:](https://levelup.gitconnected.com/the-definite-guide-to-handling-errors-gracefully-in-javascript-58424d9c60e6)
 *   [ ] You know how to cancel a request
 
-#### [Axios](/Technical%20Stack/Frontend%20Developer/HTTP.md#axios)
+#### [Axios](/Technical%20Stack/Mobile%20Developer/HTTP.md#axios)
 
 *   [ ] You know how to use axios to send HTTP request to an API endpoint [:books:](https://github.com/apptension/cra-template-apptension/blob/master/template/src/modules/users/users.sagas.ts)
 *   [ ] You know how to set HTTP headers in a request
@@ -775,35 +755,35 @@ HTTP
 *   [ ] You know how to use interceptors
 *   [ ] You know how to cancel a request
 
-### [Websockets](/Technical%20Stack/Frontend%20Developer/HTTP.md#websockets)
+### [Websockets](/Technical%20Stack/Mobile%20Developer/HTTP.md#websockets)
 
 *   [ ] You know how to connect to a websocket connection using either a native configuration or an existing library
 
-#### \[Optional\] [pusher-js](/Technical%20Stack/Frontend%20Developer/HTTP.md#pusher-js)
+#### \[Optional\] [pusher-js](/Technical%20Stack/Mobile%20Developer/HTTP.md#pusher-js)
 
 *   [ ] You know how to configure Pusher JS
 *   [ ] You know how to subscribe/unsubscribe to a channel
 *   [ ] You know how to bind/unbind to events
 
-### [Tools](/Technical%20Stack/Frontend%20Developer/HTTP.md#tools)
+### [Tools](/Technical%20Stack/Mobile%20Developer/HTTP.md#tools)
 
-#### [humps](/Technical%20Stack/Frontend%20Developer/HTTP.md#humps)
+#### [humps](/Technical%20Stack/Mobile%20Developer/HTTP.md#humps)
 
 *   [ ] You know how to use humps to camelize or decamelize strings and object's keys
 *   [ ] You know how to split strings and object's keys containing numerical values
 
-#### [query-string](/Technical%20Stack/Frontend%20Developer/HTTP.md#query-string)
+#### [query-string](/Technical%20Stack/Mobile%20Developer/HTTP.md#query-string)
 
 *   [ ] You know how to parse URLs
 *   [ ] You know how to create a query string out of an object
 
-#### [normalizr](/Technical%20Stack/Frontend%20Developer/HTTP.md#normalizr)
+#### [normalizr](/Technical%20Stack/Mobile%20Developer/HTTP.md#normalizr)
 
 *   [ ] You know how to define an object entity schema
 *   [ ] You know how to normalize data returned from server
 *   [ ] You can explain what are the benefits of using normalizr library
 
-#### [http-status-codes](/Technical%20Stack/Frontend%20Developer/HTTP.md#http-status-codes)
+#### [http-status-codes](/Technical%20Stack/Mobile%20Developer/HTTP.md#http-status-codes)
 
 *   [ ] You use descriptive status codes instead of number literals
 
@@ -943,41 +923,41 @@ Testing
 *   [ ] You know how to test custom React hooks.
 *   [ ] You know how to test a selector function.
 
-### [jest](/Technical%20Stack/Frontend%20Developer/Testing.md#jest)
+### [jest](/Technical%20Stack/Mobile%20Developer/Testing.md#jest)
 
 *   [ ] You know how to test components and functions
 *   [ ] You know how to mock functions and global objects
 *   [ ] You know how to add snapshot testing
 *   [ ] You know how to add and configure Jest in the build tools
 
-### [react-testing-library](/Technical%20Stack/Frontend%20Developer/Testing.md#react-testing-library)
+### [react-testing-library](/Technical%20Stack/Mobile%20Developer/Testing.md#react-testing-library)
 
 *   [ ] You know how to install and configure it in the build tools
 *   [ ] You know how to query for the component you want to test according to library best practices
 *   [ ] You know how to mock server's response
 *   [ ] You know how to test the redux store actions
 
-### [jest-styled-components](/Technical%20Stack/Frontend%20Developer/Testing.md#jest-styled-components)
+### [jest-styled-components](/Technical%20Stack/Mobile%20Developer/Testing.md#jest-styled-components)
 
 *   [ ] You can install and configure it in a project
 *   [ ] You can test if an HTML node has the proper style
 *   [ ] You can create snapshots with readable classes and proper styles properties
 
-### [redux-saga-test-plan](/Technical%20Stack/Frontend%20Developer/Testing.md#redux-saga-test-plan)
+### [redux-saga-test-plan](/Technical%20Stack/Mobile%20Developer/Testing.md#redux-saga-test-plan)
 
 *   [ ] You know how to test when an action has been put for processing
 *   [ ] You know how to provide an initial state for a saga execution
 *   [ ] You know how to check if the expected action has been called
 
-### [Mocking](/Technical%20Stack/Frontend%20Developer/Testing.md#mocking)
+### [Mocking](/Technical%20Stack/Mobile%20Developer/Testing.md#mocking)
 
-#### [nock](/Technical%20Stack/Frontend%20Developer/Testing.md#nock)
+#### [nock](/Technical%20Stack/Mobile%20Developer/Testing.md#nock)
 
 *   [ ] You know how to mock API calls with or without payload
 *   [ ] You know how to set configuration header's and meta data
 *   [ ] You can write assertions to check if API endpoint has been called with proper data
 
-#### [mockdate](/Technical%20Stack/Frontend%20Developer/Testing.md#mockdate)
+#### [mockdate](/Technical%20Stack/Mobile%20Developer/Testing.md#mockdate)
 
 *   [ ] You know how to mock Date object to return specific value in test environment
 
@@ -994,67 +974,126 @@ Performance
 *   [ ] You know how to run PageSpeed Insights on your web app
 *   [ ] You can analyse PageSpeed Insights results and draw conclusions to improve your web app
 
-Services
---------
+Common Application Modules
+--------------------------
 
-### [Payments](/Technical%20Stack/Frontend%20Developer/Services.md#payments)
+### [Analytics](/Technical%20Stack/Frontend%20Developer/Common%20Application%20Modules.md#analytics)
+
+#### [Google Tag Manager](/Technical%20Stack/Frontend%20Developer/Common%20Application%20Modules.md#google-tag-manager)
+
+*   [ ] You know how to configure GTM to track pages and events
+
+#### [Google Analytics](/Technical%20Stack/Frontend%20Developer/Common%20Application%20Modules.md#google-analytics)
+
+*   [ ] You know how to configure google analytics to track pages
+*   [ ] You know how to configure events and set category, action and labels
+*   [ ] You know how to configure user properties
+
+### [Payments](/Technical%20Stack/Frontend%20Developer/Common%20Application%20Modules.md#payments)
 
 *   [ ] You understand and can explain what PCI Compliance is
 
-### [Functions as a Service](/Technical%20Stack/Frontend%20Developer/Services.md#functions-as-a-service)
+### [Authentication](/Technical%20Stack/Frontend%20Developer/Common%20Application%20Modules.md#authentication)
 
-#### [Netlify Functions](/Technical%20Stack/Frontend%20Developer/Services.md#netlify-functions)
+*   [ ] You can use at least one 3rd party authentication service
 
-*   [ ] You know how to create and publish simple Netlify Functions implemented in NodeJS
+#### \[Optional\] [Firebase Auth](/Technical%20Stack/Frontend%20Developer/Common%20Application%20Modules.md#firebase-auth)
 
-#### \[Optional\] [Firebase Cloud Functions](/Technical%20Stack/Frontend%20Developer/Services.md#firebase-cloud-functions)
+*   [ ] You know how to configure Firebase Authentication Service
+*   [ ] You know how to add <code>firebaseui</code> with proper configurations
+*   [ ] You know how to set authentication tokens and redirect users after authentication
 
-*   [ ] You know how to create and publish simple Firebase Cloud Functions implemented in NodeJS
+#### \[Optional\] [Auth0](/Technical%20Stack/Frontend%20Developer/Common%20Application%20Modules.md#auth0)
 
-### [Search engines](/Technical%20Stack/Frontend%20Developer/Services.md#search-engines)
+*   [ ] You know how to configure the tenant
+*   [ ] You know how to add application configuration
+*   [ ] You know how to redirect users to use Auth0 frontend UI
+*   [ ] You know how to style and customise Auth0 UI
 
-#### \[Optional\] [fuse.js](/Technical%20Stack/Frontend%20Developer/Services.md#fuse.js)
+### [Search engines](/Technical%20Stack/Frontend%20Developer/Common%20Application%20Modules.md#search-engines)
+
+#### \[Optional\] [fuse.js](/Technical%20Stack/Frontend%20Developer/Common%20Application%20Modules.md#fuse.js)
 
 *   [ ] You know how to create a fuse structure based on an object
 *   [ ] You know how to search for items using $and and $or logical operators
 *   [ ] You know how to index a fuse structure
 
-### [Analytics](/Technical%20Stack/Frontend%20Developer/Services.md#analytics)
+Backend & DevOps
+----------------
 
-#### [Google Tag Manager](/Technical%20Stack/Frontend%20Developer/Services.md#google-tag-manager)
+### [Functions as a Service](/Technical%20Stack/Frontend%20Developer/Backend%20&%20DevOps.md#functions-as-a-service)
 
-*   [ ] You know how to configure GTM to track pages and events
+#### [Netlify Functions](/Technical%20Stack/Frontend%20Developer/Backend%20&%20DevOps.md#netlify-functions)
 
-#### [Google Analytics](/Technical%20Stack/Frontend%20Developer/Services.md#google-analytics)
+*   [ ] You know how to create and publish simple Netlify Functions implemented in NodeJS
 
-*   [ ] You know how to configure google analytics to track pages
-*   [ ] You know how to configure events and set category, action and labels
-*   [ ] You know how to configure user properties
+#### \[Optional\] [Firebase Cloud Functions](/Technical%20Stack/Frontend%20Developer/Backend%20&%20DevOps.md#firebase-cloud-functions)
+
+*   [ ] You know how to create and publish simple Firebase Cloud Functions implemented in NodeJS
+
+### [CMS](/Technical%20Stack/Frontend%20Developer/Backend%20&%20DevOps.md#cms)
+
+*   [ ] You know at least one of the CMS platforms and can easily use its basic features (defining data models, editing, etc)
+*   [ ] You know couple of the CMS platforms and can select one for the project to satisfy its requirements
+
+#### \[Optional\] [Wordpress](/Technical%20Stack/Frontend%20Developer/Backend%20&%20DevOps.md#wordpress)
+
+*   [ ] You understand how wordpress work, and are able to customise the designs of a given application
+
+#### \[Optional\] [Contentful](/Technical%20Stack/Frontend%20Developer/Backend%20&%20DevOps.md#contentful)
+
+*   [ ] You can create a contentful structure
+*   [ ] You know how to use Contentful's assets CDN
+*   [ ] You know how to incorporate Contenful's API in your build process
+*   [ ] You can feed the application internationalization system with the content from Contentful
+
+#### \[Optional\] [Webflow](/Technical%20Stack/Frontend%20Developer/Backend%20&%20DevOps.md#webflow)
+
+*   [ ] You are able to chose one of the plans available, customise, and content
+
+### [DNS](/Technical%20Stack/Frontend%20Developer/Backend%20&%20DevOps.md#dns)
+
+*   [ ] You know what a CNAME record is and when to use it
+*   [ ] You know what an A and AAAA records are and when to use them
+*   [ ] You know what TXT records is and when to use it
+*   [ ] You know how to register a new domain with a chosen DNR
+*   [ ] You know how to switch NS from default ones set by DNR to another provider
+*   [ ] You know what a MX record is and when to use it
+
+#### [DNS Services](/Technical%20Stack/DevOps%20Developer/DNS.md#dns-services)
+
+##### [Route 53](/Technical%20Stack/DevOps%20Developer/DNS.md#route-53)
+
+*   [ ] You know how to define a new hosted zone
+
+##### [Cloudflare](/Technical%20Stack/DevOps%20Developer/DNS.md#cloudflare)
+
+*   [ ] You know how to define a new DNS zone
 
 Tools
 -----
 
 ### [Design](/Technical%20Stack/Frontend%20Developer/Tools.md#design)
 
-#### [Figma](/Technical%20Stack/Frontend%20Developer/Tools.md#figma)
+#### [Figma](/Technical%20Stack/Mobile%20Developer/Tools.md#figma)
 
 *   [ ] You know how to extract style values (geometry, colours, fonts, etc.) from a design project [:books:](https://www.figma.com/resources/assets/developer-onboarding-guide/)
 *   [ ] You know how to extract image assets from a design project
 *   [ ] You know how to extract vector icon asset from a project
 
-#### [Zeplin](/Technical%20Stack/Frontend%20Developer/Tools.md#zeplin)
+#### [Zeplin](/Technical%20Stack/Mobile%20Developer/Tools.md#zeplin)
 
 *   [ ] You know how to extract style values (geometry, colours, fonts, etc.) from a design project
 *   [ ] You know how to extract image assets from a design project
 *   [ ] You know how to extract vector icon asset from a project
 
-#### \[Optional\] [Invision](/Technical%20Stack/Frontend%20Developer/Tools.md#invision)
+#### \[Optional\] [Invision](/Technical%20Stack/Mobile%20Developer/Tools.md#invision)
 
 *   [ ] You know how to extract style values (geometry, colours, fonts, etc.) from a design project
 *   [ ] You know how to extract image assets from a design project
 *   [ ] You know how to extract vector icon asset from a project
 
-#### \[Optional\] [Adobe XD](/Technical%20Stack/Frontend%20Developer/Tools.md#adobe-xd)
+#### \[Optional\] [Adobe XD](/Technical%20Stack/Mobile%20Developer/Tools.md#adobe-xd)
 
 *   [ ] You know how to extract style values (geometry, colours, fonts, etc.) from a design project
 *   [ ] You know how to extract image assets from a design project

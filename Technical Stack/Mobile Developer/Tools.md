@@ -1,29 +1,32 @@
-Apple Developer
-===============
+Tools
+=====
 
-[Certificates](/Technical%20Stack/Mobile%20Developer/Apple%20Developer.md#certificates)
----------------------------------------------------------------------------------------
+[Design](/Technical%20Stack/Mobile%20Developer/Tools.md#design)
+---------------------------------------------------------------
 
-*   [ ] You know how to create development certificate
-*   [ ] You know how to create distribiution certificate
+### [Figma](/Technical%20Stack/Mobile%20Developer/Tools.md#figma)
 
-[Keys](/Technical%20Stack/Mobile%20Developer/Apple%20Developer.md#keys)
------------------------------------------------------------------------
+*   [ ] You know how to extract style values (geometry, colours, fonts, etc.) from a design project [:books:](https://www.figma.com/resources/assets/developer-onboarding-guide/)
+*   [ ] You know how to extract image assets from a design project
+*   [ ] You know how to extract vector icon asset from a project
 
-*   [ ] You know how to create Apple Push Notifications service key
+### [Zeplin](/Technical%20Stack/Mobile%20Developer/Tools.md#zeplin)
 
-[App IDs](/Technical%20Stack/Mobile%20Developer/Apple%20Developer.md#app-ids)
------------------------------------------------------------------------------
+*   [ ] You know how to extract style values (geometry, colours, fonts, etc.) from a design project
+*   [ ] You know how to extract image assets from a design project
+*   [ ] You know how to extract vector icon asset from a project
 
-*   [ ] You can create App identifiers
-*   [ ] You can define correct App ID Capabilities
-*   [ ] You can manage app id suffixes
+### [Invision](/Technical%20Stack/Mobile%20Developer/Tools.md#invision)
 
-[Provisioning profiles](/Technical%20Stack/Mobile%20Developer/Apple%20Developer.md#provisioning-profiles)
----------------------------------------------------------------------------------------------------------
+*   [ ] You know how to extract style values (geometry, colours, fonts, etc.) from a design project
+*   [ ] You know how to extract image assets from a design project
+*   [ ] You know how to extract vector icon asset from a project
 
-*   [ ] You know how to create proper type of Provisioning Profile regarding the environment
-*   [ ] You know how to add test devices and assign them to the Provisioning Profile
+### [Adobe XD](/Technical%20Stack/Mobile%20Developer/Tools.md#adobe-xd)
+
+*   [ ] You know how to extract style values (geometry, colours, fonts, etc.) from a design project
+*   [ ] You know how to extract image assets from a design project
+*   [ ] You know how to extract vector icon asset from a project
 
 * * *
 

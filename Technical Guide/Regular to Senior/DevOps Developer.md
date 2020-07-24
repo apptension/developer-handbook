@@ -1,6 +1,70 @@
 DevOps Developer
 ================
 
+Company best practices
+----------------------
+
+### [Security](/Technical%20Stack/Mobile%20Developer/Company%20best%20practices.md#security)
+
+#### [Keeper Security](/Technical%20Stack/Mobile%20Developer/Company%20best%20practices.md#keeper-security)
+
+*   [ ] You know how to share secret values with other employees. [:books:](https://docs.keeper.io/user-guides/)
+
+#### [aws-vault](/Technical%20Stack/Mobile%20Developer/Company%20best%20practices.md#aws-vault)
+
+*   [ ] You know how to use the command line to switch between users
+
+#### [Onetimesecret](/Technical%20Stack/Mobile%20Developer/Company%20best%20practices.md#onetimesecret)
+
+*   [ ] You know how to share secret values externally [:books:](https://support.painchek.com/hc/en-us/articles/360038504674-How-to-use-One-Time-Secret)
+
+### [Git](/Technical%20Stack/Mobile%20Developer/Company%20best%20practices.md#git)
+
+*   [ ] You create pull requests with proper name and description [:books:](https://medium.com/@hugooodias/the-anatomy-of-a-perfect-pull-request-567382bb6067)
+*   [ ] You squash merge your pull requests [:books:](https://blog.pairworking.com/why-you-should-care-about-squash-and-merge-in-git-675856bf66b0)
+*   [ ] You understand the pros and cons of git rebase vs git merge [:books:](https://www.atlassian.com/git/tutorials/merging-vs-rebasing)
+*   [ ] You name your commits properly [:books:](https://chris.beams.io/posts/git-commit/)
+*   [ ] You review PRs carefully and leave your comments [:books:](https://www.pullrequest.com/blog/what-belongs-in-an-effective-code-review-checklist/)
+*   [ ] You know how to configure rules in a repository for merging to specific branches (master, develop)
+*   [ ] You add proper label in pull requests
+*   [ ] You create your branches under the proper folder (feature, fix, hotfix)
+
+#### [GitHub](/Technical%20Stack/Mobile%20Developer/Company%20best%20practices.md#git-hub)
+
+*   [ ] You know how to create and reference issues
+*   [ ] You know how to verify when a build check failed
+*   [ ] You know how to create GitHub Wiki pages
+
+#### [Bitbucket](/Technical%20Stack/Mobile%20Developer/Company%20best%20practices.md#bitbucket)
+
+*   [ ] You know how to verify when a build check failed
+*   [ ] You know how to reference a Jira ticket in your commit
+
+### [Communication](/Technical%20Stack/Mobile%20Developer/Company%20best%20practices.md#communication)
+
+#### [Slack](/Technical%20Stack/Mobile%20Developer/Company%20best%20practices.md#slack)
+
+*   [ ] You use Slack statuses in line with company policy (remote working, vacationing, in a meeting, etc)
+*   [ ] You know how to create groups and channels
+
+#### [Confluence](/Technical%20Stack/Mobile%20Developer/Company%20best%20practices.md#confluence)
+
+*   [ ] You know how to create Confluence pages
+
+#### [Small Improvements](/Technical%20Stack/Mobile%20Developer/Company%20best%20practices.md#small-improvements)
+
+*   [ ] You know how to give praise and add talk topics to a 1:1 meeting
+*   [ ] You know how to create goals and mark them as complete
+
+#### [Jira](/Technical%20Stack/Mobile%20Developer/Company%20best%20practices.md#jira)
+
+*   [ ] You know how to create tickets and write comments
+
+#### [Email](/Technical%20Stack/Mobile%20Developer/Company%20best%20practices.md#email)
+
+*   [ ] You can configure local email client
+*   [ ] You can configure email signatures
+
 DNS
 ---
 

@@ -1,22 +1,61 @@
-App Store Connect
-=================
+Services
+========
 
-[Testflight](/Technical%20Stack/Mobile%20Developer/App%20Store%20Connect.md#testflight)
----------------------------------------------------------------------------------------
+[Apple Developer](/Technical%20Stack/Mobile%20Developer/Services.md#apple-developer)
+------------------------------------------------------------------------------------
+
+### [Certificates](/Technical%20Stack/Mobile%20Developer/Services.md#certificates)
+
+*   [ ] You know how to create development certificate
+*   [ ] You know how to create distribiution certificate
+
+### [Keys](/Technical%20Stack/Mobile%20Developer/Services.md#keys)
+
+*   [ ] You know how to create Apple Push Notifications service key
+
+### [App IDs](/Technical%20Stack/Mobile%20Developer/Services.md#app-ids)
+
+*   [ ] You can create App identifiers
+*   [ ] You can define correct App ID Capabilities
+*   [ ] You can manage app id suffixes
+
+### [Provisioning profiles](/Technical%20Stack/Mobile%20Developer/Services.md#provisioning-profiles)
+
+*   [ ] You know how to create proper type of Provisioning Profile regarding the environment
+*   [ ] You know how to add test devices and assign them to the Provisioning Profile
+
+[App Store Connect](/Technical%20Stack/Mobile%20Developer/Services.md#app-store-connect)
+----------------------------------------------------------------------------------------
+
+### [Testflight](/Technical%20Stack/Mobile%20Developer/Services.md#testflight)
 
 *   [ ] You know how to distribute app via Testflight to the App Store Connect users
 *   [ ] You know how to distribute app via Testflight to the beta testers
 *   [ ] You know how to invite testers via invitation code
 
-[Release management](/Technical%20Stack/Mobile%20Developer/App%20Store%20Connect.md#release-management)
--------------------------------------------------------------------------------------------------------
+### [Release management](/Technical%20Stack/Mobile%20Developer/Services.md#release-management)
 
 *   [ ] You know how to add a new version of the app and submit it to review
 
-[Store presence](/Technical%20Stack/Mobile%20Developer/App%20Store%20Connect.md#store-presence)
------------------------------------------------------------------------------------------------
+### [Store presence](/Technical%20Stack/Mobile%20Developer/Services.md#store-presence)
 
 *   [ ] You can define all the required options to show the app in the App Store
+
+[Google Play Console](/Technical%20Stack/Mobile%20Developer/Services.md#google-play-console)
+--------------------------------------------------------------------------------------------
+
+### [Release management](/Technical%20Stack/Mobile%20Developer/Services.md#release-management)
+
+*   [ ] You know how to distribute app via Alpha/Beta enviroment to the beta testers
+*   [ ] You know how to promote an app to the Production with full/partial roll-out
+
+### [Store presence](/Technical%20Stack/Mobile%20Developer/Services.md#store-presence)
+
+*   [ ] You can define all the required options to show the app in the Google Play
+
+### [App signing](/Technical%20Stack/Mobile%20Developer/Services.md#app-signing)
+
+*   [ ] You know how to handle App Signing by Google Play
 
 * * *
 

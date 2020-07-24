@@ -3,6 +3,7 @@ DevOps Developer
 
 ### Browse by technical topic
 
+*   [Company best practices](/Technical%20Stack/DevOps%20Developer/Company%20best%20practices.md)
 *   [DNS](/Technical%20Stack/DevOps%20Developer/DNS.md)
 *   [Databases](/Technical%20Stack/DevOps%20Developer/Databases.md)
 *   [Containerization Services](/Technical%20Stack/DevOps%20Developer/Containerization%20Services.md)

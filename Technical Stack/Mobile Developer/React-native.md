@@ -137,6 +137,21 @@ React-native
 
 *   [ ] You can manually link iOS library [:books:](https://reactnative.dev/docs/linking-libraries-ios)
 
+[Native modules](/Technical%20Stack/Mobile%20Developer/React-native.md#native-modules)
+--------------------------------------------------------------------------------------
+
+### [Bridging](/Technical%20Stack/Mobile%20Developer/React-native.md#bridging)
+
+[https://reactnative.dev/docs/native-modules-ios](https://reactnative.dev/docs/native-modules-ios)
+
+  
+
+[https://reactnative.dev/docs/native-modules-android](https://reactnative.dev/docs/native-modules-android)  
+
+  
+
+*   [ ] You know how to create bridge between existing objC/Swift/Java module and react-native
+
 * * *
 
 Contribution
