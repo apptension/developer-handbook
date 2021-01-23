@@ -1,6 +1,13 @@
 ![Developer Handbook 2020 - Created for Apptension by Flairs.ai](https://i.ibb.co/zfj1pVt/Developer-Handbook-2020.png)
 
-<p align="center"> <b>An opinionated guide on how to become a professional Web/Mobile App Developer.</b> <br /><br /> <img src="https://img.shields.io/badge/License-MIT-blue.svg" alt="Developer Handbook 2020 License" /> <img src="https://img.shields.io/badge/Maintained%3F-yes-green.svg" alt="Maintenance" /> </p>
+<p align="center"> 
+<b>An opinionated guide on how to become a professional Web/Mobile App Developer.</b> 
+<br /><br />
+<img src="/images/course-banner.png" alt="Modern React Development Course by Flairs" width="400"/>
+<br /><br /><br /><br />
+<img src="https://img.shields.io/badge/License-MIT-blue.svg" alt="Developer Handbook 2020 License" /> 
+<img src="https://img.shields.io/badge/Maintained%3F-yes-green.svg" alt="Maintenance" /> 
+</p>
 
 * * *
 
