@@ -1,4 +1,4 @@
-![Developer Handbook 2020 - Created for Apptension by Flairs.ai](https://i.ibb.co/zfj1pVt/Developer-Handbook-2020.png)
+![Developer Handbook 2020 - Created for Apptension](https://i.ibb.co/zfj1pVt/Developer-Handbook-2020.png)
 
 <p align="center"> 
 <b>An opinionated guide on how to become a professional Web/Mobile App Developer.</b> 
@@ -135,18 +135,16 @@ If you will spot any issues please add them in the **Issues** section.
 Credits
 -------
 
-This page is maintained by the 🔹 [Flairs.ai](http://Flairs.ai) and 🇵🇱 [Apptension](https://apptension.com) teams.
-
-If you would like to create a dedicated Developer Handbook for your company, you can e-mail us 👉 [contact@flairs.ai](mailto:contact@flairs.ai)
+This page is maintained by the 🇵🇱 [Apptension](https://apptension.com) team.
 
 License
 -------
 
 ![MIT License](https://img.shields.io/badge/License-MIT-blue.svg)
 
-© 2020 Flairs Sp. z o.o.
+© 2020 Apptension Sp. z o.o.
 
-Built and maintained by [Flairs](https://www.flairs.ai) and [Apptension](https://apptension.com).
+Built and maintained by [Apptension](https://apptension.com).
 
 Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the "Software"), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:
 
