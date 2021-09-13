@@ -4,10 +4,6 @@
 <b>An opinionated guide on how to become a professional Web/Mobile App Developer.</b> 
 <br /><br /><br /><br />
 
-<a href="https://flairs.ai">
-    <img src="/images/course-banner.png" alt="Modern React Development Course by Flairs" width="400"/>
-</a>
-<br /><br />
 </p>
 
 <p align="center"> <img src="https://img.shields.io/badge/License-MIT-blue.svg" alt="Developer Handbook 2020 License" /> <img src="https://img.shields.io/badge/Maintained%3F-yes-green.svg" alt="Maintenance" /> </p>
