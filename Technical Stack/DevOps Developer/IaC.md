@@ -1,23 +1,23 @@
-DevOps Developer
-----------------
+IaC (Infrastructure as Code)
+===
 
-### Browse by technical topic
+* [ ] You understand the idea, importance and benefits of IaC
 
-*   [Company best practices](/Technical%20Stack/DevOps%20Developer/Company%20best%20practices.md)
-*   [DNS](/Technical%20Stack/DevOps%20Developer/DNS.md)
-*   [Databases](/Technical%20Stack/DevOps%20Developer/Databases.md)
-*   [Containerization Services](/Technical%20Stack/DevOps%20Developer/Containerization%20Services.md)
-*   [Application Servers](/Technical%20Stack/DevOps%20Developer/Application%20Servers.md)
-*   [Task Queues](/Technical%20Stack/DevOps%20Developer/Task%20Queues.md)
-*   [Message Brokers](/Technical%20Stack/DevOps%20Developer/Message%20Brokers.md)
-*   [Generic AWS Services](/Technical%20Stack/DevOps%20Developer/Generic%20AWS%20Services.md)
-*   [Storage](/Technical%20Stack/DevOps%20Developer/Storage.md)
-*   [Continuous Integration](/Technical%20Stack/DevOps%20Developer/Continuous%20Integration.md)
-*   [CDN](/Technical%20Stack/DevOps%20Developer/CDN.md)
-*   [Docker Registry](/Technical%20Stack/DevOps%20Developer/Docker%20Registry.md)
-*   [VPS Services](/Technical%20Stack/DevOps%20Developer/VPS%20Services.md)
-*   [Monitoring](/Technical%20Stack/DevOps%20Developer/Monitoring.md)
-*   [IaC (Infrastructure as Code)](/Technical%20Stack/DevOps%20Developer/IaC.md)
+
+### [CloudFormation](/Technical%20Stack/DevOps%20Developer/IaC.md#cloudformation)
+
+* [ ] You know how to create, update and delete stacks using AWS Console
+* [ ] You understand how authoring CloudFormation templates with JSON/YAML works
+
+### [AWS CDK](/Technical%20Stack/DevOps%20Developer/IaC.md#cdk)
+
+* [ ] You know how to use the tool to create different AWS resources and deploy CloudFormation stacks
+* [ ] You understand why is it a good practice to always check diff before deploying updated stacks
+* [ ] You know how to use patterns to create required AWS resources while writing much less code
+* [ ] You know how to use escape hatches to use features or adjust attributes that are not directly available in CDK
+
+### \[Optional\] [Terraform](/Technical%20Stack/DevOps%20Developer/IaC.md#terraform)
+* [ ] You know how to use the tool to create cloud solutions
 
 * * *
 
