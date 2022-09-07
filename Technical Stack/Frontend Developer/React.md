@@ -51,6 +51,14 @@ React is an open-source JavaScript library for building user interfaces. It is m
 
 *   [ ] You used it in a project
 
+### [react-loading-skeleton](/Technical%20Stack/Mobile%20Developer/React.md#react-loading-skeleton)
+
+*   [ ] You used it in a project [:books:](https://www.npmjs.com/package/react-loading-skeleton) 
+
+### [react-dropzone](/Technical%20Stack/Mobile%20Developer/React.md#react-dropzone)
+
+*   [ ] You used it in a project [:books:](https://react-dropzone.js.org/)
+
 * * *
 
 Contribution
