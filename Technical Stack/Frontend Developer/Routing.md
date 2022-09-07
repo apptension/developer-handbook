@@ -4,13 +4,12 @@ Routing
 [react-router](/Technical%20Stack/Frontend%20Developer/Routing.md#react-router)
 -------------------------------------------------------------------------------
 
-*   [ ] You can create a simple route structure using Switch and Route [:books:](https://reacttraining.com/blog/react-router-v5-1/)
-*   [ ] You know how to add parameters to a route, and make them required or optional [:books:](https://scotch.io/courses/using-react-router-4/route-params)
-*   [ ] You know how to match exactly the route needed [:books:](https://stackoverflow.com/questions/49162311/react-difference-between-route-exact-path-and-route-path)
-*   [ ] You know how to render 404 pages [:books:](https://ui.dev/react-router-v4-handling-404-pages/)
+*   [ ] You can create a simple route structure using Switch and Route [:books:](https://reactrouter.com/en/main/components/route)
+*   [ ] You know how to add parameters to a route, and make them required or optional [:books:](https://ui.dev/react-router-url-parameters)
+*   [ ] You know how to render 404 pages [:books:](https://ui.dev/react-router-handling-404-pages)
 *   [ ] You know how to use <Redirect> in order to render a needed component in a given occasion
-*   [ ] You know how to interact with browser history via the history API [:books:](https://reactrouter.com/web/api/history)
-*   [ ] You know how to use basic router hooks (useHistory, useLocation, useParams, useRouteMatch) [:books:](https://reactrouter.com/web/api/Hooks)
+*   [ ] You know how to interact with browser history via the browser router [:books:](https://reactrouter.com/en/main/routers/browser-router)
+*   [ ] You know how to use basic router hooks (useNavigate, useLocation, useParams, useMatch) [:books:](https://reactrouter.com/en/main/hooks/use-match)
 *   [ ] You know how to manipulate history's location object
 *   [ ] You know to how separate private routes from public routes
 *   [ ] You know how to securely render routes depending on the user's permission
