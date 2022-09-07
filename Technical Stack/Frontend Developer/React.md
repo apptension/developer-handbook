@@ -21,7 +21,7 @@ React is an open-source JavaScript library for building user interfaces. It is m
 [Hooks](/Technical%20Stack/Mobile%20Developer/React.md#hooks)
 -------------------------------------------------------------
 
-*   [ ] You can use <code>useState</code> and <code>useEffect</code> hooks. [:books:](https://www.valentinog.com/blog/hooks/)
+*   [ ] You can use <code>useState</code> and <code>useEffect</code> hooks. [:books:](https://reactjs.org/docs/react-api.html#hooks)
 *   [ ] You know how hook dependency array works. [:books:](https://medium.com/better-programming/understanding-the-useeffect-dependency-array-2913da504c44)
 *   [ ] You know how to write a custom React hook. [:books:](https://reactjs.org/docs/hooks-custom.html)
 *   [ ] You understand pros and cons of using <code>useCallback</code> hook. [:books:](https://kentcdodds.com/blog/usememo-and-usecallback/)
@@ -37,7 +37,7 @@ React is an open-source JavaScript library for building user interfaces. It is m
 ---------------------------------------------------------------------
 
 *   [ ] You can explain how React.render function works. [:books:](https://reactjs.org/docs/rendering-elements.html)
-*   [ ] You can explain React.createPortal works. [:books:](https://blog.logrocket.com/learn-react-portals-by-example/)
+*   [ ] You can explain React.createPortal works. [:books:](https://pl.reactjs.org/docs/portals.html)
 *   [ ] You can explain how React.hydrate function works. [:books:](https://medium.com/@akakankur81/a-quick-overview-on-react-dom-render-and-hydrate-6d0ec6c1b234)
 
 [Components](/Technical%20Stack/Mobile%20Developer/React.md#components)
