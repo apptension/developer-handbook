@@ -4,38 +4,42 @@ Application state management
 [Redux](/Technical%20Stack/Mobile%20Developer/Application%20state%20management.md#redux)
 ----------------------------------------------------------------------------------------
 
-*   [ ] You can describe full Redux flow [:books:](https://www.youtube.com/watch?v=1w-oQ-i1XB8)
-*   [ ] You know how to dispatch Redux action (outside React context)
-*   [ ] You know what it does and can use <code>combineReducers</code> function
-*   [ ] You know how to apply a middleware / enhancer when creating redux store
-*   [ ] You know what is a difference between middleware and enhancer
+*   [ ] You can describe full Redux flow [:books:](https://redux.js.org/tutorials/fundamentals/part-2-concepts-data-flow)
+*   [ ] You know how to dispatch Redux action (outside React context) [:books:](https://redux.js.org/tutorials/fundamentals/part-4-store#dispatching-actions)
+*   [ ] You know what it does and can use <code>combineReducers</code> function [:books:](https://redux.js.org/tutorials/fundamentals/part-3-state-actions-reducers#combinereducers)
+*   [ ] You know how to apply a middleware / enhancer when creating redux store [:books:](https://redux.js.org/understanding/history-and-design/middleware#the-final-approach)
+*   [ ] You know what is a difference between middleware and enhancer [:books:](https://read.reduxbook.com/markdown/part1/05-middleware-and-enhancers.html)
 
 ### [react-redux](/Technical%20Stack/Mobile%20Developer/Application%20state%20management.md#react-redux)
 
 *   [ ] You know how to apply selector functions to <code>useSelector</code> hook. [:books:](https://levelup.gitconnected.com/react-redux-hooks-useselector-and-usedispatch-f7d8c7f75cdd)
 *   [ ] You know how to dispatch actions from React component. [:books:](https://redux.js.org/basics/example)
-*   [ ] You know how to implement your own <code>connect</code> higher order component
+*   [ ] You know how to implement your own <code>connect</code> higher order component [:books:](https://redux.js.org/usage/usage-with-typescript#typing-the-connect-higher-order-component)
 
 ### [Redux toolset](/Technical%20Stack/Mobile%20Developer/Application%20state%20management.md#redux-toolset)
 
-*   [ ] You can use one of the listed toolset libraries to create reducers, action types, and action creators more efficiently
+*   [ ] You can use one of the listed toolset libraries to create reducers, action types, and action creators more efficiently [:books:](https://redux-toolkit.js.org/usage/usage-guide#writing-action-creators)
 
 #### [redux-toolkit](/Technical%20Stack/Mobile%20Developer/Application%20state%20management.md#redux-toolkit)
 
 *   [ ] You know how to create a reducer. [:books:](https://redux-toolkit.js.org/tutorials/basic-tutorial)
-*   [ ] You know how to create an action creator [:books:](https://www.johnraptis.dev/redux-toolkit/)
+*   [ ] You know how to create an action creator [:books:](https://redux-toolkit.js.org/usage/usage-guide#writing-action-creators)
 *   [ ] You understand how to leverage the fact that action creators serialize to action's type string.
-*   [ ] You know how to define a reducer function for a specific action type.
-*   [ ] You know how to use slices
+*   [ ] You know how to define a reducer function for a specific action type. [:books:](https://redux-toolkit.js.org/usage/usage-guide#writing-reducers)
+*   [ ] You know how to use slices [:books:](https://redux-toolkit.js.org/rtk-query/api/created-api/overview#api-slice-overview)
 
 #### [reduxsauce](/Technical%20Stack/Mobile%20Developer/Application%20state%20management.md#reduxsauce)
 
-*   [ ] You know how to create reducers
+*   [ ] You know how to create reducers [:books:](https://www.npmjs.com/package/reduxsauce)
 *   [ ] You can create your own action creators and action types.
 
-### [redux-persist](/Technical%20Stack/Mobile%20Developer/Application%20state%20management.md#redux-persist)
+#### [redux-persist](/Technical%20Stack/Mobile%20Developer/Application%20state%20management.md#redux-persist)
 
 *   [ ] You know how to persist part of the state tree to local storage
+
+## [Zustand](/Technical%20Stack/Mobile%20Developer/Application%20state%20management.md#zustand)
+
+*   [ ] You know how to use zustand as a application state management. [:books:](https://github.com/pmndrs/zustand)
 
 [Immutable data structures](/Technical%20Stack/Mobile%20Developer/Application%20state%20management.md#immutable-data-structures)
 --------------------------------------------------------------------------------------------------------------------------------
@@ -83,9 +87,9 @@ Application state management
 ### [redux-saga](/Technical%20Stack/Mobile%20Developer/Application%20state%20management.md#redux-saga)
 
 *   [ ] You know how to take a side effect and dispatch an action based on it [:books:](https://redux-saga.js.org/docs/api/#putaction)
-*   [ ] You know how to run asynchronous functions (e.g. <code>fetch</code>) after something dispatches an action
+*   [ ] You know how to run asynchronous functions (e.g. <code>fetch</code>) after something dispatches an action [:books:](https://redux-saga.js.org/docs/basics/DispatchingActions)
 *   [ ] You know how to select data from Redux state using selector functions inside sagas. [:books:](https://redux-saga.js.org/docs/api/#selectselector-args)
-*   [ ] You understand the concept of Javascript generators [:books:](https://www.youtube.com/watch?v=ategZqxHkz4)
+*   [ ] You understand the concept of Javascript generators [:books:](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Iterators_and_Generators#advanced_generators)
 *   [ ] You know how to wait for an another action from inside the running saga. [:books:](https://redux-saga.js.org/docs/api/#takepattern)
 *   [ ] You know to sequence Sagas and how to run them in parallel [:books:](https://redux-saga.js.org/docs/advanced/RunningTasksInParallel.html)
 *   [ ] You can name <code>eventChannel</code> use cases and know how to implement a saga using it. [:books:](https://redux-saga.js.org/docs/advanced/Channels.html)
