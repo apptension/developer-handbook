@@ -20,6 +20,18 @@ Animations
 
 *   [ ] You can animate elements after application's state changes
 
+### [remotion](/Technical%20Stack/Frontend%20Developer/Animations.md#remotion)
+
+*   [ ] You can create mp4 videos using remotion framework [:books:](https://www.remotion.dev/docs/) 
+
+### [react-motion](/Technical%20Stack/Frontend%20Developer/Animations.md#react-motion)
+
+*   [ ] You know how to build animatons using react-motion [:books:](https://www.npmjs.com/package/react-motion/)
+
+### [react-move](/Technical%20Stack/Frontend%20Developer/Animations.md#react-move)
+
+*   [ ] You know how to build animatons using react-move [:books:](https://www.npmjs.com/package/react-move/)
+
 [Animation Libraries](/Technical%20Stack/Frontend%20Developer/Animations.md#animation-libraries)
 ------------------------------------------------------------------------------------------------
 
