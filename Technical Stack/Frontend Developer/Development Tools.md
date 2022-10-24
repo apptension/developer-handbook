@@ -59,6 +59,7 @@ Development Tools
 *   [ ] You can prototype your components using storybooks
 *   [ ] You can install and configure storybooks in your project
 *   [ ] You can connect theme to your storybooks
+*   [ ] You can use routing-aware components with the help of <code>storybook-react-router</code> [:books:](https://www.npmjs.com/package/storybook-react-router) 
 
 ### [prop-types](/Technical%20Stack/Frontend%20Developer/Development%20Tools.md#prop-types)
 
