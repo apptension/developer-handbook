@@ -32,6 +32,10 @@ Animations
 
 *   [ ] You know how to build animatons using <code>react-move</code> [:books:](https://www.npmjs.com/package/react-move/)
 
+### [react-native-animatable](/Technical%20Stack/Frontend%20Developer/Animations.md#react-move)
+
+*   [ ] You can add animations in React Native using <code>react-native-animatable</code> [:books:](https://github.com/oblador/react-native-animatable/)
+
 [Animation Libraries](/Technical%20Stack/Frontend%20Developer/Animations.md#animation-libraries)
 ------------------------------------------------------------------------------------------------
 
