@@ -13,7 +13,7 @@
 Overview
 --------
 
-🔹 **Developer Handbook 2020** 🔹 was created to cover the most common technical questions and requirements appearing prior to job interviews, during onboarding or personal goals / career planning at our company - [Apptension](https://apptension.com). We also like to call it a Technical Documentation of our company.
+🔹 **Developer Handbook 2022** 🔹 was created to cover the most common technical questions and requirements appearing prior to job interviews, during onboarding or personal goals / career planning at our company - [Apptension](https://apptension.com). We also like to call it a Technical Documentation of our company.
 
 It contains a lot of subjective technical groups, opinionated technologies, vetted requirements and best practices we gathered for Web & Mobile Developers.
 
