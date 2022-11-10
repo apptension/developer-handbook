@@ -1,4 +1,4 @@
-![Developer Handbook 2020 - Created for Apptension](https://i.ibb.co/zfj1pVt/Developer-Handbook-2020.png)
+![Developer Handbook 2022 - Created for Apptension](https://uploads-ssl.webflow.com/5f6cbc6dd9be9a190bd040a6/636ce46f49397e02da6f6582_Apptension_CREAT-1292_design_hero.png)
 
 <p align="center"> 
 <b>An opinionated guide on how to become a professional Web/Mobile App Developer.</b> 
