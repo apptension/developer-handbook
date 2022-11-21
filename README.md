@@ -15,7 +15,7 @@ Overview
 
 🔹 **Developer Handbook 2022** 🔹 was created to cover the most common technical questions and requirements appearing prior to job interviews, during onboarding or personal goals / career planning at our company - [Apptension](https://apptension.com). We also like to call it a Technical Documentation of our company.
 
-It contains a lot of subjective technical groups, opinionated technologies, vetted requirements and best practices we gathered for Web & Mobile Developers.
+It contains a lot of subjective technical groups, opinionated technologies, vetted requirements and best practices we gathered for Web & Mobile Developers. Check out our [SaaS Boilerplate](https://www.apptension.com/saas-boilerplate), which is an example of our experience and a real-life application of many of the technologies and designs described in the Handbook.
 
 Enjoy reading! 🙇
 
