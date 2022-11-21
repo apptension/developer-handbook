@@ -25,6 +25,13 @@ SSR & Prerendering
 *   [ ] You know how to use page context variables to parametrize page queries
 *   [ ] You know how to customize GraphQL schemas [:books:](https://www.gatsbyjs.org/docs/schema-customization/)
 
+### [Next.js](/Technical%20Stack/Frontend%20Developer/SSR%20&%20Prerendering.md#next-js)
+-------
+
+*   [ ]  You know how correctly use <code>next/image</code> [:books:](https://nextjs.org/docs/api-reference/next/image/)
+*   [ ]  You know how to use data fetching (<code>getServerSideProps</code>, getStaticProps) [:books:](https://nextjs.org/docs/basic-features/data-fetching/get-server-side-props/) [:books:](https://nextjs.org/docs/basic-features/data-fetching/get-static-props/)
+*   [ ]  You know how create Dynamic Routes [:books:](https://nextjs.org/docs/routing/dynamic-routes/) 
+
 [Netlify prerender](/Technical%20Stack/Frontend%20Developer/SSR%20&%20Prerendering.md#netlify-prerender)
 --------------------------------------------------------------------------------------------------------
 
