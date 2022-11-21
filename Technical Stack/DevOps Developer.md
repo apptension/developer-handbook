@@ -17,6 +17,7 @@ DevOps Developer
 *   [Docker Registry](/Technical%20Stack/DevOps%20Developer/Docker%20Registry.md)
 *   [VPS Services](/Technical%20Stack/DevOps%20Developer/VPS%20Services.md)
 *   [Monitoring](/Technical%20Stack/DevOps%20Developer/Monitoring.md)
+*   [Infrastructure as Code](/Technical%20Stack/DevOps%20Developer/IaC.md)
 
 * * *
 
