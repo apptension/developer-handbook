@@ -1,4 +1,4 @@
-![Developer Handbook 2022 - Created for Apptension](https://uploads-ssl.webflow.com/5f6cbc6dd9be9a190bd040a6/636ce46f49397e02da6f6582_Apptension_CREAT-1292_design_hero.png)
+![Developer Handbook 2022 - Created for Apptension](https://uploads-ssl.webflow.com/5f6cbc6dd9be9a190bd040a6/6388aedea6fc2c89ae9c03db_Apptension_CREAT-1292_design_hero.png)
 
 <p align="center"> 
 <b>An opinionated guide on how to become a professional Web/Mobile App Developer.</b> 
@@ -13,9 +13,11 @@
 Overview
 --------
 
-🔹 **Developer Handbook 2022** 🔹 was created to cover the most common technical questions and requirements appearing prior to job interviews, during onboarding or personal goals / career planning at our company - [Apptension](https://apptension.com). We also like to call it a Technical Documentation of our company.
+🔹 **Developer Handbook 2023** 🔹 was created to cover the most common technical questions and requirements appearing prior to job interviews, during onboarding or personal goals / career planning at our company - [Apptension](https://apptension.com). We also like to call it a Technical Documentation of our company.
 
-It contains a lot of subjective technical groups, opinionated technologies, vetted requirements and best practices we gathered for Web & Mobile Developers. Check out our [SaaS Boilerplate](https://www.apptension.com/saas-boilerplate), which is an example of our experience and a real-life application of many of the technologies and designs described in the Handbook.
+It contains a lot of subjective technical groups, opinionated technologies, vetted requirements and best practices we gathered for Web & Mobile Developers that we believe to be useful in 2023. 
+
+<code>Also, check out our [SaaS Boilerplate](https://www.apptension.com/saas-boilerplate), which is an example of our experience and a real-life application of many of the technologies and designs described in the Handbook.</code>
 
 Enjoy reading! 🙇
 
@@ -27,7 +29,8 @@ What will you find inside?
 *   **[Technical Stack](#apptension-technical-stack)** – a summary of all topics, languages, frameworks, and libraries we use in production together with checklists of the most important concepts.
 *   **[Technical Guide](#apptension-technical-guide)** – a complete list of topics (libraries, frameworks, programming concepts/patterns) we follow and recommend to learn to progress in your career to become a better Web / Mobile App Developer.
 *   **[Technical Onboarding Checklist](#apptension-technical-onboarding-checklist)** – a living document with a checklist of what our Developers should know on different levels when they join our company.
-<p align="center"> <img src="/images/dev-handbook-schema.png" alt="Developer Handbook 2020 Architecture" /> </p>
+
+![Developer Handbook 2023 - Image 2](https://uploads-ssl.webflow.com/5f6cbc6dd9be9a190bd040a6/6388b05e16cbde019930080b_Frame%201.png)
 
 * * *
 
@@ -99,6 +102,8 @@ This section describes technical prerequisites for Junior, Regular and Senior De
 Q&A
 ---
 
+![Developer Handbook 2023 - Image 3](https://uploads-ssl.webflow.com/5f6cbc6dd9be9a190bd040a6/6388b29a2f5265ee5e1f099b_Apptension_CREAT-1292_design_OG_2.png)
+
 ### Do I need to know everything that’s under Regular (for instance) list to take a Regular position?
 
 No, hiring a person is very subjective and will take in count things other than the technical knowledge. This is the guide of what we consider a Regular developer will face during their career path in the company. This is valid for any seniority level.
@@ -142,7 +147,7 @@ License
 
 ![MIT License](https://img.shields.io/badge/License-MIT-blue.svg)
 
-© 2020 Apptension Sp. z o.o.
+© 2022 Apptension Sp. z o.o.
 
 Built and maintained by [Apptension](https://apptension.com).
 
