@@ -30,6 +30,8 @@ Credits
 
 This page is maintained by [Apptension](https://apptension.com) team.
 
+You can see more of our work here: [Apptension portfolio](https://www.apptension.com/portfolio).
+
 License
 -------
 
