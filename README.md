@@ -142,12 +142,14 @@ Credits
 
 This page is maintained by the 🇵🇱 [Apptension](https://apptension.com) team.
 
+You can see more of our work here: 🟢 [Apptension portfolio](https://www.apptension.com/portfolio).
+
 License
 -------
 
 ![MIT License](https://img.shields.io/badge/License-MIT-blue.svg)
 
-© 2022 Apptension Sp. z o.o.
+© 2023 Apptension Sp. z o.o.
 
 Built and maintained by [Apptension](https://apptension.com).
 
