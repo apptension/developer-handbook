@@ -155,7 +155,7 @@ You can learn how to style HTML elements with flexbox by reading this awesome gu
 ### \[Optional\] [Sass](/Technical%20Stack/Frontend%20Developer/Styling.md#sass)
 
 *   [ ] You understand the SCSS syntax and file extensions [:books:](https://www.youtube.com/watch?v=_a5j7KoflTs)
-*   [ ] You know how to create and use scss variables
+*   [ ] You know how to create and use SCSS variables
 
 ### [UI Kits](/Technical%20Stack/Frontend%20Developer/Styling.md#ui-kits)
 
