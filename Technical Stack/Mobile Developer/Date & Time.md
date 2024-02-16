@@ -21,13 +21,6 @@ Date & Time
 *   [ ] You know how to convert date into a different timezone (usually user's local timezone)
 *   [ ] You know how to manipulate and compare date objects
 
-[moment.js](/Technical%20Stack/Mobile%20Developer/Date%20&%20Time.md#moment.js)
--------------------------------------------------------------------------------
-
-*   [ ] You know how to format and display a date object using standard format strings
-*   [ ] You know how to convert date into a different timezone (usually user's local timezone)
-*   [ ] You know how to manipulate and compare date objects
-
 [dayjs](/Technical%20Stack/Mobile%20Developer/Date%20&%20Time.md#dayjs)
 -----------------------------------------------------------------------
 
