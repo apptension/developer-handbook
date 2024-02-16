@@ -6,7 +6,6 @@ Performance
 
 ### [Hermes](/Technical%20Stack/Mobile%20Developer/Performance.md#hermes)
 
-*   [ ] You know how to enable Hermes on Android
 *   [ ] You know profits of using Hermes
 
 [Monitoring](/Technical%20Stack/Mobile%20Developer/Performance.md#monitoring)
