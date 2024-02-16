@@ -4,16 +4,12 @@ Animations
 [react-native-reanimated](/Technical%20Stack/Mobile%20Developer/Animations.md#react-native-reanimated)
 ------------------------------------------------------------------------------------------------------
 
-*   [ ] You know how to use Value
+*   [ ] You know how to use useSharedValue
 *   [ ] You know how to run timing animation with easing
 *   [ ] You know how to run decay animation
 *   [ ] You know how to run spring animation
 *   [ ] You know how to create animation using native events
 *   [ ] You know how to create animation using gestures
-*   [ ] You know when and how to use Animated.Code
-*   [ ] You know how to manage clock
-*   [ ] You know how to use clock methods
-*   [ ] You can create animation block with conditions and calculations
 
 [lottie-react-native](/Technical%20Stack/Mobile%20Developer/Animations.md#lottie-react-native)
 ----------------------------------------------------------------------------------------------
