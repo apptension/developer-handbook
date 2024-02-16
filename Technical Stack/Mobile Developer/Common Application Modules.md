@@ -4,7 +4,7 @@ Common Application Modules
 [Splash Screen](/Technical%20Stack/Mobile%20Developer/Common%20Application%20Modules.md#splash-screen)
 ------------------------------------------------------------------------------------------------------
 
-### [react-native-splash-screen](/Technical%20Stack/Mobile%20Developer/Common%20Application%20Modules.md#react-native-splash-screen)
+### [expo-splash-screen](/Technical%20Stack/Mobile%20Developer/Common%20Application%20Modules.md#expo-splash-screen)
 
 *   [ ] You know how to correctly configure splash screen showing/hiding
 *   [ ] You know what type of images you should use to display splash screen correctly with a proper image fill type
@@ -28,16 +28,15 @@ Common Application Modules
 [Authentication](/Technical%20Stack/Mobile%20Developer/Common%20Application%20Modules.md#authentication)
 --------------------------------------------------------------------------------------------------------
 
-### [@react-native-community/google-signin](/Technical%20Stack/Mobile%20Developer/Common%20Application%20Modules.md#@react-native-community/google-signin)
+### [@react-native-google-signin/google-signin](/Technical%20Stack/Mobile%20Developer/Common%20Application%20Modules.md#@react-native-google-signin/google-signin)
 
 *   [ ] You can configure Google SignIn
-*   [ ] You can handle sign in process
 *   [ ] You can handle sign in process
 *   [ ] You know how to revoke access and sign out
 *   [ ] You can use Google SignIn button
 *   [ ] You know how to define sign in scopes
 
-### [react-native-fbsdk](/Technical%20Stack/Mobile%20Developer/Common%20Application%20Modules.md#react-native-fbsdk)
+### [react-native-fbsdk-next](/Technical%20Stack/Mobile%20Developer/Common%20Application%20Modules.md#react-native-fbsdk-next)
 
 *   [ ] You can configure FB sdk
 *   [ ] You know how to login user with correct permissions
@@ -55,19 +54,6 @@ Common Application Modules
 *   [ ] You know how to listen on credentials change
 *   [ ] You can use Apple button
 
-[Deep linking](/Technical%20Stack/Mobile%20Developer/Common%20Application%20Modules.md#deep-linking)
-----------------------------------------------------------------------------------------------------
-
-### [@react-native-firebase/dynamic-links](/Technical%20Stack/Mobile%20Developer/Common%20Application%20Modules.md#@react-native-firebase/dynamic-links)
-
-*   [ ] You know how to correctly configure Dynamic Links in Firebase Console
-*   [ ] You know how to configure Dynamic Links in iOS and Android app
-*   [ ] You know how to debug Dynamic Links
-*   [ ] You know how to create Dynamic Links
-*   [ ] You know how to handle foreground links
-*   [ ] You know how to handle background links
-*   [ ] You know how to use custom domain for Dynamic Links
-
 [Push notifications](/Technical%20Stack/Mobile%20Developer/Common%20Application%20Modules.md#push-notifications)
 ----------------------------------------------------------------------------------------------------------------
 
@@ -83,7 +69,7 @@ Common Application Modules
 *   [ ] You know how to schedule local notification
 *   [ ] You know how to request permissions to display notifications
 
-### [react-native-push-notification](/Technical%20Stack/Mobile%20Developer/Common%20Application%20Modules.md#react-native-push-notification)
+### [@notifee/react-native](/Technical%20Stack/Mobile%20Developer/Common%20Application%20Modules.md#@notifee/react-native)
 
 *   [ ] You know how to receive notification from FCM and handle it in background/foreground
 *   [ ] You can handle initial notification which has opened the app
@@ -115,10 +101,9 @@ Common Application Modules
 *   [ ] You know how to store sensitive info like certificates, tokens, passwords
 *   [ ] You know how to use biometry
 
-### [@react-native-community/async-storage](/Technical%20Stack/Mobile%20Developer/Common%20Application%20Modules.md#@react-native-community/async-storage)
+### [@react-native-async-storage/async-storage](/Technical%20Stack/Mobile%20Developer/Common%20Application%20Modules.md#@react-native-async-storage/async-storage)
 
 *   [ ] You know how to read and write async storage data
-*   [ ] You know how to use async storage with redux-persist
 
 * * *
 
